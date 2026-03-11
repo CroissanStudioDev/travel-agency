@@ -1,202 +1,233 @@
 [
   {
-    "name": "Мале",
-    "slug": "male",
-    "country": "maldives",
-    "countryName": "Мальдивы",
-    "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1200",
-    "description": "Столица Мальдив — компактный островной город с мечетями, рынками и колоритной набережной. Отправная точка для трансфера на курортные атоллы.",
-    "highlights": [
-      "Пятничная мечеть",
-      "Рыбный рынок",
-      "Национальный музей",
-      "Парк Султана"
-    ]
-  },
-  {
-    "name": "Маафуши",
-    "slug": "maafushi",
-    "country": "maldives",
-    "countryName": "Мальдивы",
-    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=1200",
-    "description": "Популярный локальный остров с бюджетными гестхаусами и отличным снорклингом. Бикини-пляж и экскурсии на соседние атоллы.",
-    "highlights": [
-      "Бикини-пляж",
-      "Снорклинг с акулами",
-      "Дайвинг-центры",
-      "Экскурсии на песчаные отмели"
-    ]
-  },
-  {
-    "name": "Хулхумале",
-    "slug": "hulhumale",
-    "country": "maldives",
-    "countryName": "Мальдивы",
-    "image": "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=1200",
-    "description": "Искусственный остров рядом с аэропортом. Современная инфраструктура, длинный пляж и удобный транзит.",
-    "highlights": [
-      "Центральный пляж",
-      "Близость к аэропорту",
-      "Кафе и рестораны",
-      "Водные виды спорта"
-    ]
-  },
-  {
-    "name": "Бангкок",
-    "slug": "bangkok",
-    "country": "thailand",
-    "countryName": "Таиланд",
-    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1200",
-    "description": "Столица Таиланда — мегаполис контрастов с древними храмами, небоскрёбами, уличной едой и бурной ночной жизнью.",
-    "highlights": [
-      "Храм Ват Пхо",
-      "Королевский дворец",
-      "Каосан Роуд",
-      "Плавучие рынки",
-      "Скайбары"
-    ]
-  },
-  {
-    "name": "Пхукет",
-    "slug": "phuket",
-    "country": "thailand",
-    "countryName": "Таиланд",
-    "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=1200",
-    "description": "Крупнейший остров Таиланда с десятками пляжей, от тусовочного Патонга до спокойного Най Харна.",
-    "highlights": [
-      "Патонг Бич",
-      "Старый город",
-      "Большой Будда",
-      "Мыс Промтеп",
-      "Острова Пхи-Пхи"
-    ]
-  },
-  {
-    "name": "Паттайя",
-    "slug": "pattaya",
-    "country": "thailand",
-    "countryName": "Таиланд",
-    "image": "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=1200",
-    "description": "Курорт на берегу Сиамского залива в 2 часах от Бангкока. Пляжи, шоу, аквапарки и активная ночная жизнь.",
-    "highlights": [
-      "Уокинг Стрит",
-      "Храм Истины",
-      "Коралловый остров",
-      "Аквапарк Рамаяна"
-    ]
-  },
-  {
-    "name": "Краби",
-    "slug": "krabi",
-    "country": "thailand",
-    "countryName": "Таиланд",
-    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=1200",
-    "description": "Провинция с драматическими известняковыми скалами, джунглями и райскими островами. Рейлей-бич — мекка скалолазов.",
-    "highlights": [
-      "Рейлей Бич",
-      "Острова 4-х островов",
-      "Изумрудное озеро",
-      "Храм Тигра"
-    ]
-  },
-  {
-    "name": "Самуи",
-    "slug": "samui",
-    "country": "thailand",
-    "countryName": "Таиланд",
-    "image": "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=1200",
-    "description": "Остров с кокосовыми пальмами, люксовыми резортами и расслабленной атмосферой. Ворота к острову Пханган.",
-    "highlights": [
-      "Чавенг Бич",
-      "Храм Большого Будды",
-      "Водопад Намуанг",
-      "Национальный парк Анг Тонг"
-    ]
-  },
-  {
     "name": "Дубай",
-    "slug": "dubai",
+    "slug": "dubay",
     "country": "uae",
     "countryName": "ОАЭ",
-    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200",
-    "description": "Город будущего с небоскрёбами, торговыми моллами и искусственными островами. Роскошь, шоппинг и развлечения.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Дубай — популярное направление в стране ОАЭ.",
     "highlights": [
-      "Бурдж-Халифа",
-      "Дубай Молл",
-      "Пальма Джумейра",
-      "Старый город",
-      "Пустынное сафари"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
     "name": "Абу-Даби",
-    "slug": "abu-dhabi",
+    "slug": "abu-dabi",
     "country": "uae",
     "countryName": "ОАЭ",
-    "image": "https://images.unsplash.com/photo-1558452919-bc053b973f11?w=1200",
-    "description": "Столица ОАЭ — более спокойная альтернатива Дубаю с культурными достопримечательностями и премиальными отелями.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Абу-Даби — популярное направление в стране ОАЭ.",
     "highlights": [
-      "Мечеть шейха Зайда",
-      "Лувр Абу-Даби",
-      "Остров Яс",
-      "Ferrari World"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Аджман",
+    "slug": "adzhman",
+    "country": "uae",
+    "countryName": "ОАЭ",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Аджман — популярное направление в стране ОАЭ.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Рас-Эль-Хайма",
+    "slug": "ras-el-khayma",
+    "country": "uae",
+    "countryName": "ОАЭ",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Рас-Эль-Хайма — популярное направление в стране ОАЭ.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
     "name": "Шарджа",
-    "slug": "sharjah",
+    "slug": "shardzha",
     "country": "uae",
     "countryName": "ОАЭ",
-    "image": "https://images.unsplash.com/photo-1581804726379-d6896c9e4d49?w=1200",
-    "description": "Культурная столица ОАЭ с музеями, галереями и традиционными рынками. Более консервативная и бюджетная.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Шарджа — популярное направление в стране ОАЭ.",
     "highlights": [
-      "Музей исламской цивилизации",
-      "Голубой рынок",
-      "Набережная Аль-Касба",
-      "Аквариум"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Рас-эль-Хайма",
-    "slug": "ras-al-khaimah",
+    "name": "Эль-Фуджайра",
+    "slug": "el-fudzhayra",
     "country": "uae",
     "countryName": "ОАЭ",
-    "image": "https://images.unsplash.com/photo-1586181196105-e8a7f78c9f8e?w=1200",
-    "description": "Северный эмират с горами, пустыней и пляжами. Приключенческий туризм и спокойный отдых.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Эль-Фуджайра — популярное направление в стране ОАЭ.",
     "highlights": [
-      "Гора Джебель Джайс",
-      "Зиплайн",
-      "Пустынный кемпинг",
-      "Горячие источники"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Москва",
+    "slug": "moskva",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Москва — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Санкт-Петербург",
+    "slug": "sankt-peterburg",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Санкт-Петербург — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сочи",
+    "slug": "sochi",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сочи — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Крым",
+    "slug": "krym",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Крым — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Калининград",
+    "slug": "kaliningrad",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Калининград — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Байкал",
+    "slug": "baykal",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Байкал — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Алтай",
+    "slug": "altay",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Алтай — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Камчатка",
+    "slug": "kamchatka",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Камчатка — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Подмосковье",
+    "slug": "podmoskove",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Подмосковье — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Анапа",
+    "slug": "anapa",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Анапа — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Архангельск",
+    "slug": "arkhangelsk",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Архангельск — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Архыз",
+    "slug": "arkhyz",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Архыз — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Владивосток",
+    "slug": "vladivostok",
+    "country": "russia",
+    "countryName": "Россия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Владивосток — популярное направление в стране Россия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
     "name": "Стамбул",
-    "slug": "istanbul",
+    "slug": "stambul",
     "country": "turkey",
     "countryName": "Турция",
-    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=1200",
-    "description": "Город на двух континентах с тысячелетней историей. Мечети, дворцы, базары и вид на Босфор.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Стамбул — популярное направление в стране Турция.",
     "highlights": [
-      "Айя-София",
-      "Голубая мечеть",
-      "Гранд-базар",
-      "Дворец Топкапы",
-      "Босфорский круиз"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Анталья",
-    "slug": "antalya",
+    "name": "Белек",
+    "slug": "belek",
     "country": "turkey",
     "countryName": "Турция",
-    "image": "https://images.unsplash.com/photo-1593238739364-18cfde865947?w=1200",
-    "description": "Главный курортный регион Турции. Песчаные пляжи, горы, античные руины и система «всё включено».",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Белек — популярное направление в стране Турция.",
     "highlights": [
-      "Старый город Калеичи",
-      "Водопады Дюден",
-      "Пляж Коньяалты",
-      "Античный Аспендос"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
@@ -204,2639 +235,76 @@
     "slug": "bodrum",
     "country": "turkey",
     "countryName": "Турция",
-    "image": "https://images.unsplash.com/photo-1568322503363-556c9add7e06?w=1200",
-    "description": "Турецкий Сен-Тропе на Эгейском море. Белоснежные домики, яхты, клубы и богемная атмосфера.",
-    "highlights": [
-      "Замок Святого Петра",
-      "Античный театр",
-      "Пляж Битез",
-      "Ночные клубы"
-    ]
-  },
-  {
-    "name": "Мармарис",
-    "slug": "marmaris",
-    "country": "turkey",
-    "countryName": "Турция",
-    "image": "https://images.unsplash.com/photo-1601922397014-4b1f4949dfa1?w=1200",
-    "description": "Курорт в живописной бухте на стыке Эгейского и Средиземного морей. Яхтинг и активная ночная жизнь.",
-    "highlights": [
-      "Набережная",
-      "Замок Мармарис",
-      "Бар-стрит",
-      "Остров Клеопатры"
-    ]
-  },
-  {
-    "name": "Фетхие",
-    "slug": "fethiye",
-    "country": "turkey",
-    "countryName": "Турция",
-    "image": "https://images.unsplash.com/photo-1605809038051-e5c0e8c1d965?w=1200",
-    "description": "Уютный город с бирюзовой лагуной Олюдениз и ликийскими гробницами. Параглайдинг с горы Бабадаг.",
-    "highlights": [
-      "Голубая лагуна Олюдениз",
-      "Параглайдинг",
-      "Ликийский путь",
-      "Долина бабочек"
-    ]
-  },
-  {
-    "name": "Аланья",
-    "slug": "alanya",
-    "country": "turkey",
-    "countryName": "Турция",
-    "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=1200",
-    "description": "Популярный курорт с песчаными пляжами, крепостью на скале и демократичными ценами.",
-    "highlights": [
-      "Крепость Аланьи",
-      "Пляж Клеопатры",
-      "Пещера Дамлаташ",
-      "Красная башня"
-    ]
-  },
-  {
-    "name": "Рим",
-    "slug": "rome",
-    "country": "italy",
-    "countryName": "Италия",
-    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1200",
-    "description": "Вечный город с Колизеем, Ватиканом и фонтанами. Две тысячи лет истории на каждом шагу.",
-    "highlights": [
-      "Колизей",
-      "Ватикан",
-      "Фонтан Треви",
-      "Пантеон",
-      "Испанская лестница"
-    ]
-  },
-  {
-    "name": "Венеция",
-    "slug": "venice",
-    "country": "italy",
-    "countryName": "Италия",
-    "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=1200",
-    "description": "Город на воде с каналами вместо улиц, гондолами и карнавальными масками. Романтика и искусство.",
-    "highlights": [
-      "Площадь Сан-Марко",
-      "Гранд-канал",
-      "Мост Риальто",
-      "Острова Мурано и Бурано"
-    ]
-  },
-  {
-    "name": "Флоренция",
-    "slug": "florence",
-    "country": "italy",
-    "countryName": "Италия",
-    "image": "https://images.unsplash.com/photo-1543429258-0709c42946c7?w=1200",
-    "description": "Колыбель Ренессанса с шедеврами Микеланджело и Боттичелли. Тосканская кухня и вино.",
-    "highlights": [
-      "Галерея Уффици",
-      "Собор Дуомо",
-      "Понте Веккьо",
-      "Давид Микеланджело"
-    ]
-  },
-  {
-    "name": "Милан",
-    "slug": "milan",
-    "country": "italy",
-    "countryName": "Италия",
-    "image": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?w=1200",
-    "description": "Столица моды и дизайна. Готический собор, оперный театр Ла Скала и бутики мировых брендов.",
-    "highlights": [
-      "Дуомо",
-      "Галерея Виктора Эммануила",
-      "Тайная вечеря",
-      "Квартал Навильи"
-    ]
-  },
-  {
-    "name": "Неаполь",
-    "slug": "naples",
-    "country": "italy",
-    "countryName": "Италия",
-    "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=1200",
-    "description": "Шумный южный город у подножия Везувия. Родина пиццы и ворота на Амальфитанское побережье.",
-    "highlights": [
-      "Помпеи",
-      "Везувий",
-      "Исторический центр",
-      "Остров Капри"
-    ]
-  },
-  {
-    "name": "Амальфи",
-    "slug": "amalfi",
-    "country": "italy",
-    "countryName": "Италия",
-    "image": "https://images.unsplash.com/photo-1533934190375-a3d0fa3a2c6b?w=1200",
-    "description": "Живописное побережье с разноцветными домиками на скалах. Лимончелло, серпантины и романтика.",
-    "highlights": [
-      "Позитано",
-      "Равелло",
-      "Собор Амальфи",
-      "Тропа богов"
-    ]
-  },
-  {
-    "name": "Афины",
-    "slug": "athens",
-    "country": "greece",
-    "countryName": "Греция",
-    "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200",
-    "description": "Колыбель демократии с Акрополем и Парфеноном. Античность, таверны и средиземноморский ритм жизни.",
-    "highlights": [
-      "Акрополь",
-      "Плака",
-      "Храм Зевса",
-      "Национальный музей"
-    ]
-  },
-  {
-    "name": "Санторини",
-    "slug": "santorini",
-    "country": "greece",
-    "countryName": "Греция",
-    "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200",
-    "description": "Остров-открытка с белыми домами и синими куполами на краю вулканической кальдеры. Закаты в Ойе.",
-    "highlights": [
-      "Закат в Ойе",
-      "Фира",
-      "Красный пляж",
-      "Винодельни",
-      "Круиз на вулкан"
-    ]
-  },
-  {
-    "name": "Миконос",
-    "slug": "mykonos",
-    "country": "greece",
-    "countryName": "Греция",
-    "image": "https://images.unsplash.com/photo-1601581875039-e899893d520c?w=1200",
-    "description": "Остров вечеринок и богемы. Ветряные мельницы, лабиринты улочек и пляжные клубы.",
-    "highlights": [
-      "Маленькая Венеция",
-      "Ветряные мельницы",
-      "Пляж Парадайз",
-      "Делос"
-    ]
-  },
-  {
-    "name": "Родос",
-    "slug": "rhodes",
-    "country": "greece",
-    "countryName": "Греция",
-    "image": "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?w=1200",
-    "description": "Остров рыцарей с средневековым городом-крепостью. Пляжи, античность и греческое гостеприимство.",
-    "highlights": [
-      "Старый город",
-      "Дворец Великих магистров",
-      "Линдос",
-      "Долина бабочек"
-    ]
-  },
-  {
-    "name": "Крит",
-    "slug": "crete",
-    "country": "greece",
-    "countryName": "Греция",
-    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1200",
-    "description": "Крупнейший греческий остров с минойскими дворцами, ущельями и лучшими пляжами Средиземноморья.",
-    "highlights": [
-      "Кносский дворец",
-      "Самарийское ущелье",
-      "Пляж Элафониси",
-      "Ханья"
-    ]
-  },
-  {
-    "name": "Корфу",
-    "slug": "corfu",
-    "country": "greece",
-    "countryName": "Греция",
-    "image": "https://images.unsplash.com/photo-1588942262473-c0ec94e254b1?w=1200",
-    "description": "Зелёный остров с венецианским наследием. Оливковые рощи, уютные бухты и дворец Ахиллеон.",
-    "highlights": [
-      "Керкира",
-      "Дворец Ахиллеон",
-      "Палеокастрица",
-      "Канал любви"
-    ]
-  },
-  {
-    "name": "Каир",
-    "slug": "cairo",
-    "country": "egypt",
-    "countryName": "Египет",
-    "image": "https://images.pexels.com/photos/3290068/pexels-photo-3290068.jpeg?w=800",
-    "description": "Столица Египта у подножия пирамид Гизы.",
-    "highlights": [
-      "Пирамиды Гизы",
-      "Сфинкс",
-      "Египетский музей"
-    ]
-  },
-  {
-    "name": "Шарм-эль-Шейх",
-    "slug": "sharm-el-sheikh",
-    "country": "egypt",
-    "countryName": "Египет",
-    "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?w=800",
-    "description": "Главный курорт Красного моря.",
-    "highlights": [
-      "Рас-Мохаммед",
-      "Дайвинг",
-      "Наама-Бей"
-    ]
-  },
-  {
-    "name": "Хургада",
-    "slug": "hurghada",
-    "country": "egypt",
-    "countryName": "Египет",
-    "image": "https://images.pexels.com/photos/1450354/pexels-photo-1450354.jpeg?w=800",
-    "description": "Популярный курорт с песчаными пляжами.",
-    "highlights": [
-      "Пляжи",
-      "Острова Гифтун",
-      "Аквариум"
-    ]
-  },
-  {
-    "name": "Луксор",
-    "slug": "luxor",
-    "country": "egypt",
-    "countryName": "Египет",
-    "image": "https://images.pexels.com/photos/2583852/pexels-photo-2583852.jpeg?w=800",
-    "description": "Город-музей с храмами и Долиной Царей.",
-    "highlights": [
-      "Карнакский храм",
-      "Долина Царей",
-      "Храм Хатшепсут"
-    ]
-  },
-  {
-    "name": "Барселона",
-    "slug": "barcelona",
-    "country": "spain",
-    "countryName": "Испания",
-    "image": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?w=800",
-    "description": "Столица Каталонии с архитектурой Гауди.",
-    "highlights": [
-      "Саграда Фамилия",
-      "Парк Гуэль",
-      "Ла Рамбла"
-    ]
-  },
-  {
-    "name": "Мадрид",
-    "slug": "madrid",
-    "country": "spain",
-    "countryName": "Испания",
-    "image": "https://images.pexels.com/photos/3254729/pexels-photo-3254729.jpeg?w=800",
-    "description": "Столица с музеями и тапас-барами.",
-    "highlights": [
-      "Прадо",
-      "Королевский дворец",
-      "Парк Ретиро"
-    ]
-  },
-  {
-    "name": "Валенсия",
-    "slug": "valencia",
-    "country": "spain",
-    "countryName": "Испания",
-    "image": "https://images.pexels.com/photos/1388014/pexels-photo-1388014.jpeg?w=800",
-    "description": "Родина паэльи с Городом искусств.",
-    "highlights": [
-      "Город искусств и наук",
-      "Пляж Мальваросса"
-    ]
-  },
-  {
-    "name": "Севилья",
-    "slug": "seville",
-    "country": "spain",
-    "countryName": "Испания",
-    "image": "https://images.pexels.com/photos/3889704/pexels-photo-3889704.jpeg?w=800",
-    "description": "Душа Андалусии — фламенко и тапас.",
-    "highlights": [
-      "Алькасар",
-      "Площадь Испании",
-      "Кафедральный собор"
-    ]
-  },
-  {
-    "name": "Малага",
-    "slug": "malaga",
-    "country": "spain",
-    "countryName": "Испания",
-    "image": "https://images.pexels.com/photos/1393382/pexels-photo-1393382.jpeg?w=800",
-    "description": "Ворота на Коста-дель-Соль.",
-    "highlights": [
-      "Музей Пикассо",
-      "Алькасаба",
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Пальма",
-    "slug": "palma",
-    "country": "spain",
-    "countryName": "Испания",
-    "image": "https://images.pexels.com/photos/2387871/pexels-photo-2387871.jpeg?w=800",
-    "description": "Столица Майорки.",
-    "highlights": [
-      "Кафедральный собор",
-      "Замок Бельвер",
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Париж",
-    "slug": "paris",
-    "country": "france",
-    "countryName": "Франция",
-    "image": "https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?w=800",
-    "description": "Город любви с Эйфелевой башней.",
-    "highlights": [
-      "Эйфелева башня",
-      "Лувр",
-      "Монмартр"
-    ]
-  },
-  {
-    "name": "Ницца",
-    "slug": "nice",
-    "country": "france",
-    "countryName": "Франция",
-    "image": "https://images.pexels.com/photos/2695232/pexels-photo-2695232.jpeg?w=800",
-    "description": "Жемчужина Лазурного берега.",
-    "highlights": [
-      "Английская набережная",
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Марсель",
-    "slug": "marseille",
-    "country": "france",
-    "countryName": "Франция",
-    "image": "https://images.pexels.com/photos/2404843/pexels-photo-2404843.jpeg?w=800",
-    "description": "Портовый город с каланками.",
-    "highlights": [
-      "Старый порт",
-      "Каланки",
-      "Замок Иф"
-    ]
-  },
-  {
-    "name": "Лион",
-    "slug": "lyon",
-    "country": "france",
-    "countryName": "Франция",
-    "image": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?w=800",
-    "description": "Гастрономическая столица.",
-    "highlights": [
-      "Старый Лион",
-      "Базилика Фурвьер"
-    ]
-  },
-  {
-    "name": "Канны",
-    "slug": "cannes",
-    "country": "france",
-    "countryName": "Франция",
-    "image": "https://images.pexels.com/photos/2404681/pexels-photo-2404681.jpeg?w=800",
-    "description": "Город кинофестиваля.",
-    "highlights": [
-      "Набережная Круазетт",
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Бордо",
-    "slug": "bordeaux",
-    "country": "france",
-    "countryName": "Франция",
-    "image": "https://images.pexels.com/photos/2404052/pexels-photo-2404052.jpeg?w=800",
-    "description": "Столица виноделия.",
-    "highlights": [
-      "Город вина",
-      "Площадь Биржи"
-    ]
-  },
-  {
-    "name": "Лимассол",
-    "slug": "limassol",
-    "country": "cyprus",
-    "countryName": "Кипр",
-    "image": "https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?w=800",
-    "description": "Космополитичный курорт.",
-    "highlights": [
-      "Марина",
-      "Курион",
-      "Винные деревни"
-    ]
-  },
-  {
-    "name": "Пафос",
-    "slug": "paphos",
-    "country": "cyprus",
-    "countryName": "Кипр",
-    "image": "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?w=800",
-    "description": "Родина Афродиты.",
-    "highlights": [
-      "Археологический парк",
-      "Скала Афродиты"
-    ]
-  },
-  {
-    "name": "Айя-Напа",
-    "slug": "ayia-napa",
-    "country": "cyprus",
-    "countryName": "Кипр",
-    "image": "https://images.pexels.com/photos/1450355/pexels-photo-1450355.jpeg?w=800",
-    "description": "Тусовочная столица Кипра.",
-    "highlights": [
-      "Нисси Бич",
-      "Морские пещеры",
-      "Клубы"
-    ]
-  },
-  {
-    "name": "Ларнака",
-    "slug": "larnaca",
-    "country": "cyprus",
-    "countryName": "Кипр",
-    "image": "https://images.pexels.com/photos/1450356/pexels-photo-1450356.jpeg?w=800",
-    "description": "Город с набережной Финикудес.",
-    "highlights": [
-      "Солёное озеро",
-      "Церковь Святого Лазаря"
-    ]
-  },
-  {
-    "name": "Протарас",
-    "slug": "protaras",
-    "country": "cyprus",
-    "countryName": "Кипр",
-    "image": "https://images.pexels.com/photos/1450359/pexels-photo-1450359.jpeg?w=800",
-    "description": "Семейный курорт.",
-    "highlights": [
-      "Залив Фигового дерева",
-      "Мыс Греко"
-    ]
-  },
-  {
-    "name": "Будва",
-    "slug": "budva",
-    "country": "montenegro",
-    "countryName": "Черногория",
-    "image": "https://images.pexels.com/photos/2440061/pexels-photo-2440061.jpeg?w=800",
-    "description": "Главный курорт Черногории.",
-    "highlights": [
-      "Старый город",
-      "Пляж Могрен"
-    ]
-  },
-  {
-    "name": "Котор",
-    "slug": "kotor",
-    "country": "montenegro",
-    "countryName": "Черногория",
-    "image": "https://images.pexels.com/photos/2440079/pexels-photo-2440079.jpeg?w=800",
-    "description": "Город в живописной бухте.",
-    "highlights": [
-      "Старый город",
-      "Крепость"
-    ]
-  },
-  {
-    "name": "Тиват",
-    "slug": "tivat",
-    "country": "montenegro",
-    "countryName": "Черногория",
-    "image": "https://images.pexels.com/photos/2440024/pexels-photo-2440024.jpeg?w=800",
-    "description": "Город с люксовой мариной.",
-    "highlights": [
-      "Porto Montenegro"
-    ]
-  },
-  {
-    "name": "Герцег-Нови",
-    "slug": "herceg-novi",
-    "country": "montenegro",
-    "countryName": "Черногория",
-    "image": "https://images.pexels.com/photos/2440053/pexels-photo-2440053.jpeg?w=800",
-    "description": "Город-сад.",
-    "highlights": [
-      "Старый город",
-      "Крепости"
-    ]
-  },
-  {
-    "name": "Свети-Стефан",
-    "slug": "sveti-stefan",
-    "country": "montenegro",
-    "countryName": "Черногория",
-    "image": "https://images.pexels.com/photos/2440066/pexels-photo-2440066.jpeg?w=800",
-    "description": "Остров-отель.",
-    "highlights": [
-      "Остров-отель",
-      "Пляж"
-    ]
-  },
-  {
-    "name": "Дубровник",
-    "slug": "dubrovnik",
-    "country": "croatia",
-    "countryName": "Хорватия",
-    "image": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?w=800",
-    "description": "Жемчужина Адриатики.",
-    "highlights": [
-      "Городские стены",
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Сплит",
-    "slug": "split",
-    "country": "croatia",
-    "countryName": "Хорватия",
-    "image": "https://images.pexels.com/photos/2044424/pexels-photo-2044424.jpeg?w=800",
-    "description": "Дворец Диоклетиана.",
-    "highlights": [
-      "Дворец Диоклетиана",
-      "Рива"
-    ]
-  },
-  {
-    "name": "Загреб",
-    "slug": "zagreb",
-    "country": "croatia",
-    "countryName": "Хорватия",
-    "image": "https://images.pexels.com/photos/2044445/pexels-photo-2044445.jpeg?w=800",
-    "description": "Столица Хорватии.",
-    "highlights": [
-      "Верхний город",
-      "Долац"
-    ]
-  },
-  {
-    "name": "Пула",
-    "slug": "pula",
-    "country": "croatia",
-    "countryName": "Хорватия",
-    "image": "https://images.pexels.com/photos/2044456/pexels-photo-2044456.jpeg?w=800",
-    "description": "Город с амфитеатром.",
-    "highlights": [
-      "Амфитеатр",
-      "Бриуны"
-    ]
-  },
-  {
-    "name": "Задар",
-    "slug": "zadar",
-    "country": "croatia",
-    "countryName": "Хорватия",
-    "image": "https://images.pexels.com/photos/2044467/pexels-photo-2044467.jpeg?w=800",
-    "description": "Город с морским органом.",
-    "highlights": [
-      "Морской орган",
-      "Закаты"
-    ]
-  },
-  {
-    "name": "Хвар",
-    "slug": "hvar",
-    "country": "croatia",
-    "countryName": "Хорватия",
-    "image": "https://images.pexels.com/photos/2044478/pexels-photo-2044478.jpeg?w=800",
-    "description": "Гламурный остров.",
-    "highlights": [
-      "Лавандовые поля",
-      "Город Хвар"
-    ]
-  },
-  {
-    "name": "Ханой",
-    "slug": "hanoi",
-    "country": "vietnam",
-    "countryName": "Вьетнам",
-    "image": "https://images.pexels.com/photos/2161467/pexels-photo-2161467.jpeg?w=800",
-    "description": "Столица с озёрами и уличной едой.",
-    "highlights": [
-      "Озеро Хоанкьем",
-      "Старый квартал"
-    ]
-  },
-  {
-    "name": "Хошимин",
-    "slug": "ho-chi-minh",
-    "country": "vietnam",
-    "countryName": "Вьетнам",
-    "image": "https://images.pexels.com/photos/2161473/pexels-photo-2161473.jpeg?w=800",
-    "description": "Экономический центр.",
-    "highlights": [
-      "Туннели Кути",
-      "Рынок Бен Тан"
-    ]
-  },
-  {
-    "name": "Дананг",
-    "slug": "da-nang",
-    "country": "vietnam",
-    "countryName": "Вьетнам",
-    "image": "https://images.pexels.com/photos/2161485/pexels-photo-2161485.jpeg?w=800",
-    "description": "Курорт с Золотым мостом.",
-    "highlights": [
-      "Золотой мост",
-      "Мраморные горы"
-    ]
-  },
-  {
-    "name": "Нячанг",
-    "slug": "nha-trang",
-    "country": "vietnam",
-    "countryName": "Вьетнам",
-    "image": "https://images.pexels.com/photos/2161497/pexels-photo-2161497.jpeg?w=800",
-    "description": "Главный пляжный курорт.",
-    "highlights": [
-      "Острова",
-      "Парк Винперл"
-    ]
-  },
-  {
-    "name": "Фукуок",
-    "slug": "phu-quoc",
-    "country": "vietnam",
-    "countryName": "Вьетнам",
-    "image": "https://images.pexels.com/photos/2161509/pexels-photo-2161509.jpeg?w=800",
-    "description": "Тропический остров.",
-    "highlights": [
-      "Пляж Сао",
-      "Ночной рынок"
-    ]
-  },
-  {
-    "name": "Хойан",
-    "slug": "hoi-an",
-    "country": "vietnam",
-    "countryName": "Вьетнам",
-    "image": "https://images.pexels.com/photos/2161521/pexels-photo-2161521.jpeg?w=800",
-    "description": "Древний город фонариков.",
-    "highlights": [
-      "Японский мост",
-      "Фонарики"
-    ]
-  },
-  {
-    "name": "Убуд",
-    "slug": "bali-ubud",
-    "country": "indonesia",
-    "countryName": "Индонезия",
-    "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?w=800",
-    "description": "Культурное сердце Бали.",
-    "highlights": [
-      "Рисовые террасы",
-      "Лес обезьян"
-    ]
-  },
-  {
-    "name": "Кута",
-    "slug": "bali-kuta",
-    "country": "indonesia",
-    "countryName": "Индонезия",
-    "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?w=800",
-    "description": "Тусовочный район.",
-    "highlights": [
-      "Серфинг",
-      "Шоппинг"
-    ]
-  },
-  {
-    "name": "Семиньяк",
-    "slug": "bali-seminyak",
-    "country": "indonesia",
-    "countryName": "Индонезия",
-    "image": "https://images.pexels.com/photos/2166571/pexels-photo-2166571.jpeg?w=800",
-    "description": "Модный район.",
-    "highlights": [
-      "Пляжные клубы",
-      "Рестораны"
-    ]
-  },
-  {
-    "name": "Джакарта",
-    "slug": "jakarta",
-    "country": "indonesia",
-    "countryName": "Индонезия",
-    "image": "https://images.pexels.com/photos/2166583/pexels-photo-2166583.jpeg?w=800",
-    "description": "Огромная столица.",
-    "highlights": [
-      "Монас",
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Ломбок",
-    "slug": "lombok",
-    "country": "indonesia",
-    "countryName": "Индонезия",
-    "image": "https://images.pexels.com/photos/2166595/pexels-photo-2166595.jpeg?w=800",
-    "description": "Сосед Бали с вулканом.",
-    "highlights": [
-      "Вулкан Ринджани",
-      "Острова Гили"
-    ]
-  },
-  {
-    "name": "Гили",
-    "slug": "gili",
-    "country": "indonesia",
-    "countryName": "Индонезия",
-    "image": "https://images.pexels.com/photos/2166607/pexels-photo-2166607.jpeg?w=800",
-    "description": "Острова без машин.",
-    "highlights": [
-      "Снорклинг",
-      "Черепахи"
-    ]
-  },
-  {
-    "name": "Канкун",
-    "slug": "cancun",
-    "country": "mexico",
-    "countryName": "Мексика",
-    "image": "https://images.pexels.com/photos/3290386/pexels-photo-3290386.jpeg?w=800",
-    "description": "Карибский рай.",
-    "highlights": [
-      "Пляжи",
-      "Руины майя"
-    ]
-  },
-  {
-    "name": "Плая-дель-Кармен",
-    "slug": "playa-del-carmen",
-    "country": "mexico",
-    "countryName": "Мексика",
-    "image": "https://images.pexels.com/photos/3290398/pexels-photo-3290398.jpeg?w=800",
-    "description": "Богемный курорт.",
-    "highlights": [
-      "5-я авеню",
-      "Сеноты"
-    ]
-  },
-  {
-    "name": "Мехико",
-    "slug": "mexico-city",
-    "country": "mexico",
-    "countryName": "Мексика",
-    "image": "https://images.pexels.com/photos/3290410/pexels-photo-3290410.jpeg?w=800",
-    "description": "Огромная столица.",
-    "highlights": [
-      "Теотиуакан",
-      "Музей антропологии"
-    ]
-  },
-  {
-    "name": "Тулум",
-    "slug": "tulum",
-    "country": "mexico",
-    "countryName": "Мексика",
-    "image": "https://images.pexels.com/photos/3290422/pexels-photo-3290422.jpeg?w=800",
-    "description": "Руины над морем.",
-    "highlights": [
-      "Руины Тулум",
-      "Сеноты"
-    ]
-  },
-  {
-    "name": "Косумель",
-    "slug": "cozumel",
-    "country": "mexico",
-    "countryName": "Мексика",
-    "image": "https://images.pexels.com/photos/3290434/pexels-photo-3290434.jpeg?w=800",
-    "description": "Остров для дайвинга.",
-    "highlights": [
-      "Дайвинг",
-      "Снорклинг"
-    ]
-  },
-  {
-    "name": "Лос-Кабос",
-    "slug": "los-cabos",
-    "country": "mexico",
-    "countryName": "Мексика",
-    "image": "https://images.pexels.com/photos/3290446/pexels-photo-3290446.jpeg?w=800",
-    "description": "Люксовый курорт.",
-    "highlights": [
-      "Арка",
-      "Киты"
-    ]
-  },
-  {
-    "name": "Пунта-Кана",
-    "slug": "punta-cana",
-    "country": "dominican-republic",
-    "countryName": "Доминикана",
-    "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?w=800",
-    "description": "Главный курорт.",
-    "highlights": [
-      "Пляж Баваро",
-      "Остров Саона"
-    ]
-  },
-  {
-    "name": "Санто-Доминго",
-    "slug": "santo-domingo",
-    "country": "dominican-republic",
-    "countryName": "Доминикана",
-    "image": "https://images.pexels.com/photos/3601437/pexels-photo-3601437.jpeg?w=800",
-    "description": "Старейший город Америки.",
-    "highlights": [
-      "Колониальная зона"
-    ]
-  },
-  {
-    "name": "Пуэрто-Плата",
-    "slug": "puerto-plata",
-    "country": "dominican-republic",
-    "countryName": "Доминикана",
-    "image": "https://images.pexels.com/photos/3601449/pexels-photo-3601449.jpeg?w=800",
-    "description": "Северный курорт.",
-    "highlights": [
-      "Канатная дорога",
-      "27 водопадов"
-    ]
-  },
-  {
-    "name": "Ла-Романа",
-    "slug": "la-romana",
-    "country": "dominican-republic",
-    "countryName": "Доминикана",
-    "image": "https://images.pexels.com/photos/3601461/pexels-photo-3601461.jpeg?w=800",
-    "description": "Люксовый курорт.",
-    "highlights": [
-      "Альтос-де-Чавон"
-    ]
-  },
-  {
-    "name": "Самана",
-    "slug": "samana",
-    "country": "dominican-republic",
-    "countryName": "Доминикана",
-    "image": "https://images.pexels.com/photos/3601473/pexels-photo-3601473.jpeg?w=800",
-    "description": "Полуостров с китами.",
-    "highlights": [
-      "Киты",
-      "Пляж Ринкон"
-    ]
-  },
-  {
-    "name": "Коломбо",
-    "slug": "colombo",
-    "country": "sri-lanka",
-    "countryName": "Шри-Ланка",
-    "image": "https://images.pexels.com/photos/4445236/pexels-photo-4445236.jpeg?w=800",
-    "description": "Столица и порт.",
-    "highlights": [
-      "Форт",
-      "Галле-Фейс"
-    ]
-  },
-  {
-    "name": "Канди",
-    "slug": "kandy",
-    "country": "sri-lanka",
-    "countryName": "Шри-Ланка",
-    "image": "https://images.pexels.com/photos/4445248/pexels-photo-4445248.jpeg?w=800",
-    "description": "Священный город.",
-    "highlights": [
-      "Храм Зуба Будды",
-      "Озеро"
-    ]
-  },
-  {
-    "name": "Галле",
-    "slug": "galle",
-    "country": "sri-lanka",
-    "countryName": "Шри-Ланка",
-    "image": "https://images.pexels.com/photos/4445260/pexels-photo-4445260.jpeg?w=800",
-    "description": "Колониальный форт.",
-    "highlights": [
-      "Форт Галле",
-      "Маяк"
-    ]
-  },
-  {
-    "name": "Бентота",
-    "slug": "bentota",
-    "country": "sri-lanka",
-    "countryName": "Шри-Ланка",
-    "image": "https://images.pexels.com/photos/4445272/pexels-photo-4445272.jpeg?w=800",
-    "description": "Пляжный курорт.",
-    "highlights": [
-      "Пляж",
-      "Река Бентота"
-    ]
-  },
-  {
-    "name": "Сигирия",
-    "slug": "sigiriya",
-    "country": "sri-lanka",
-    "countryName": "Шри-Ланка",
-    "image": "https://images.pexels.com/photos/4445284/pexels-photo-4445284.jpeg?w=800",
-    "description": "Скала со дворцом.",
-    "highlights": [
-      "Львиная скала",
-      "Фрески"
-    ]
-  },
-  {
-    "name": "Элла",
-    "slug": "ella",
-    "country": "sri-lanka",
-    "countryName": "Шри-Ланка",
-    "image": "https://images.pexels.com/photos/4445296/pexels-photo-4445296.jpeg?w=800",
-    "description": "Горный городок.",
-    "highlights": [
-      "Малый пик Адама",
-      "Девятиарочный мост"
-    ]
-  },
-  {
-    "name": "Гавана",
-    "slug": "havana",
-    "country": "cuba",
-    "countryName": "Куба",
-    "image": "https://images.pexels.com/photos/3622614/pexels-photo-3622614.jpeg?w=800",
-    "description": "Столица с ретро-авто.",
-    "highlights": [
-      "Малекон",
-      "Старая Гавана"
-    ]
-  },
-  {
-    "name": "Варадеро",
-    "slug": "varadero",
-    "country": "cuba",
-    "countryName": "Куба",
-    "image": "https://images.pexels.com/photos/3622626/pexels-photo-3622626.jpeg?w=800",
-    "description": "Главный пляжный курорт.",
-    "highlights": [
-      "Пляж 20 км",
-      "All-inclusive"
-    ]
-  },
-  {
-    "name": "Тринидад",
-    "slug": "trinidad",
-    "country": "cuba",
-    "countryName": "Куба",
-    "image": "https://images.pexels.com/photos/3622638/pexels-photo-3622638.jpeg?w=800",
-    "description": "Город-музей.",
-    "highlights": [
-      "Колониальный центр",
-      "Пляж Анкон"
-    ]
-  },
-  {
-    "name": "Сантьяго-де-Куба",
-    "slug": "santiago-de-cuba",
-    "country": "cuba",
-    "countryName": "Куба",
-    "image": "https://images.pexels.com/photos/3622650/pexels-photo-3622650.jpeg?w=800",
-    "description": "Культурная столица.",
-    "highlights": [
-      "Замок Морро",
-      "Музыка"
-    ]
-  },
-  {
-    "name": "Виньялес",
-    "slug": "vinales",
-    "country": "cuba",
-    "countryName": "Куба",
-    "image": "https://images.pexels.com/photos/3622662/pexels-photo-3622662.jpeg?w=800",
-    "description": "Долина моготес.",
-    "highlights": [
-      "Табачные плантации",
-      "Пещеры"
-    ]
-  },
-  {
-    "name": "Порт-Луи",
-    "slug": "port-louis",
-    "country": "mauritius",
-    "countryName": "Маврикий",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
-    "description": "Столица острова.",
+    "description": "Бодрум — популярное направление в стране Турция.",
     "highlights": [
-      "Рынок",
-      "Набережная"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Гранд-Бэ",
-    "slug": "grand-baie",
-    "country": "mauritius",
-    "countryName": "Маврикий",
-    "image": "https://images.pexels.com/photos/1450365/pexels-photo-1450365.jpeg?w=800",
-    "description": "Тусовочный курорт.",
+    "name": "Каппадокия",
+    "slug": "kappadokiya",
+    "country": "turkey",
+    "countryName": "Турция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Каппадокия — популярное направление в стране Турция.",
     "highlights": [
-      "Шоппинг",
-      "Ночная жизнь"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Флик-ан-Флак",
-    "slug": "flic-en-flac",
-    "country": "mauritius",
-    "countryName": "Маврикий",
-    "image": "https://images.pexels.com/photos/1450377/pexels-photo-1450377.jpeg?w=800",
-    "description": "Длинный пляж.",
+    "name": "Кемер",
+    "slug": "kemer",
+    "country": "turkey",
+    "countryName": "Турция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кемер — популярное направление в стране Турция.",
     "highlights": [
-      "Пляж",
-      "Закаты"
-    ]
-  },
-  {
-    "name": "Ле-Морн",
-    "slug": "le-morne",
-    "country": "mauritius",
-    "countryName": "Маврикий",
-    "image": "https://images.pexels.com/photos/1450389/pexels-photo-1450389.jpeg?w=800",
-    "description": "Гора и кайтинг.",
-    "highlights": [
-      "Кайтсерфинг",
-      "Гора Ле-Морн"
-    ]
-  },
-  {
-    "name": "Бель-Мар",
-    "slug": "belle-mare",
-    "country": "mauritius",
-    "countryName": "Маврикий",
-    "image": "https://images.pexels.com/photos/1450401/pexels-photo-1450401.jpeg?w=800",
-    "description": "Белый пляж.",
-    "highlights": [
-      "Люксовые отели",
-      "Гольф"
-    ]
-  },
-  {
-    "name": "Маэ",
-    "slug": "mahe",
-    "country": "seychelles",
-    "countryName": "Сейшелы",
-    "image": "https://images.pexels.com/photos/1802255/pexels-photo-1802255.jpeg?w=800",
-    "description": "Главный остров.",
-    "highlights": [
-      "Пляж Бо-Валлон",
-      "Виктория"
-    ]
-  },
-  {
-    "name": "Праслин",
-    "slug": "praslin",
-    "country": "seychelles",
-    "countryName": "Сейшелы",
-    "image": "https://images.pexels.com/photos/1802267/pexels-photo-1802267.jpeg?w=800",
-    "description": "Пальмы коко-де-мер.",
-    "highlights": [
-      "Валле-де-Мэ",
-      "Анс Лацио"
-    ]
-  },
-  {
-    "name": "Ла-Диг",
-    "slug": "la-digue",
-    "country": "seychelles",
-    "countryName": "Сейшелы",
-    "image": "https://images.pexels.com/photos/1802279/pexels-photo-1802279.jpeg?w=800",
-    "description": "Остров велосипедов.",
-    "highlights": [
-      "Анс Сурс д'Аржан"
-    ]
-  },
-  {
-    "name": "Виктория",
-    "slug": "victoria",
-    "country": "seychelles",
-    "countryName": "Сейшелы",
-    "image": "https://images.pexels.com/photos/1802291/pexels-photo-1802291.jpeg?w=800",
-    "description": "Столица.",
-    "highlights": [
-      "Часовая башня",
-      "Рынок"
-    ]
-  },
-  {
-    "name": "Занзибар",
-    "slug": "zanzibar",
-    "country": "tanzania",
-    "countryName": "Танзания",
-    "image": "https://images.pexels.com/photos/3935702/pexels-photo-3935702.jpeg?w=800",
-    "description": "Остров специй.",
-    "highlights": [
-      "Стоун-Таун",
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Дар-эс-Салам",
-    "slug": "dar-es-salaam",
-    "country": "tanzania",
-    "countryName": "Танзания",
-    "image": "https://images.pexels.com/photos/3935714/pexels-photo-3935714.jpeg?w=800",
-    "description": "Крупнейший город.",
-    "highlights": [
-      "Порт",
-      "Рынки"
-    ]
-  },
-  {
-    "name": "Серенгети",
-    "slug": "serengeti",
-    "country": "tanzania",
-    "countryName": "Танзания",
-    "image": "https://images.pexels.com/photos/3935726/pexels-photo-3935726.jpeg?w=800",
-    "description": "Великая миграция.",
-    "highlights": [
-      "Сафари",
-      "Большая пятёрка"
-    ]
-  },
-  {
-    "name": "Аруша",
-    "slug": "arusha",
-    "country": "tanzania",
-    "countryName": "Танзания",
-    "image": "https://images.pexels.com/photos/3935738/pexels-photo-3935738.jpeg?w=800",
-    "description": "Ворота на сафари.",
-    "highlights": [
-      "Килиманджаро",
-      "Национальные парки"
-    ]
-  },
-  {
-    "name": "Нгоронгоро",
-    "slug": "ngorongoro",
-    "country": "tanzania",
-    "countryName": "Танзания",
-    "image": "https://images.pexels.com/photos/3935750/pexels-photo-3935750.jpeg?w=800",
-    "description": "Кратер с животными.",
-    "highlights": [
-      "Кратер",
-      "Сафари"
-    ]
-  },
-  {
-    "name": "Марракеш",
-    "slug": "marrakech",
-    "country": "morocco",
-    "countryName": "Марокко",
-    "image": "https://images.pexels.com/photos/3889843/pexels-photo-3889843.jpeg?w=800",
-    "description": "Красный город.",
-    "highlights": [
-      "Медина",
-      "Джемаа-эль-Фна"
-    ]
-  },
-  {
-    "name": "Фес",
-    "slug": "fes",
-    "country": "morocco",
-    "countryName": "Марокко",
-    "image": "https://images.pexels.com/photos/3889855/pexels-photo-3889855.jpeg?w=800",
-    "description": "Духовная столица.",
-    "highlights": [
-      "Медина",
-      "Кожевенные мастерские"
-    ]
-  },
-  {
-    "name": "Касабланка",
-    "slug": "casablanca",
-    "country": "morocco",
-    "countryName": "Марокко",
-    "image": "https://images.pexels.com/photos/3889867/pexels-photo-3889867.jpeg?w=800",
-    "description": "Экономическая столица.",
-    "highlights": [
-      "Мечеть Хасана II"
-    ]
-  },
-  {
-    "name": "Шефшауэн",
-    "slug": "chefchaouen",
-    "country": "morocco",
-    "countryName": "Марокко",
-    "image": "https://images.pexels.com/photos/3889879/pexels-photo-3889879.jpeg?w=800",
-    "description": "Голубой город.",
-    "highlights": [
-      "Синие улицы",
-      "Горы"
-    ]
-  },
-  {
-    "name": "Агадир",
-    "slug": "agadir",
-    "country": "morocco",
-    "countryName": "Марокко",
-    "image": "https://images.pexels.com/photos/3889891/pexels-photo-3889891.jpeg?w=800",
-    "description": "Пляжный курорт.",
-    "highlights": [
-      "Пляж",
-      "Серфинг"
-    ]
-  },
-  {
-    "name": "Эссувейра",
-    "slug": "essaouira",
-    "country": "morocco",
-    "countryName": "Марокко",
-    "image": "https://images.pexels.com/photos/3889903/pexels-photo-3889903.jpeg?w=800",
-    "description": "Ветреный город.",
-    "highlights": [
-      "Медина",
-      "Кайтсерфинг"
-    ]
-  },
-  {
-    "name": "Амман",
-    "slug": "amman",
-    "country": "jordan",
-    "countryName": "Иордания",
-    "image": "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?w=800",
-    "description": "Столица на холмах.",
-    "highlights": [
-      "Цитадель",
-      "Римский театр"
-    ]
-  },
-  {
-    "name": "Петра",
-    "slug": "petra",
-    "country": "jordan",
-    "countryName": "Иордания",
-    "image": "https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?w=800",
-    "description": "Розовый город.",
-    "highlights": [
-      "Сокровищница",
-      "Сик"
-    ]
-  },
-  {
-    "name": "Акаба",
-    "slug": "aqaba",
-    "country": "jordan",
-    "countryName": "Иордания",
-    "image": "https://images.pexels.com/photos/1631689/pexels-photo-1631689.jpeg?w=800",
-    "description": "Курорт на Красном море.",
-    "highlights": [
-      "Дайвинг",
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Вади-Рам",
-    "slug": "wadi-rum",
-    "country": "jordan",
-    "countryName": "Иордания",
-    "image": "https://images.pexels.com/photos/1631701/pexels-photo-1631701.jpeg?w=800",
-    "description": "Марсианская пустыня.",
-    "highlights": [
-      "Кемпинг",
-      "Джип-туры"
-    ]
-  },
-  {
-    "name": "Мёртвое море",
-    "slug": "dead-sea",
-    "country": "jordan",
-    "countryName": "Иордания",
-    "image": "https://images.pexels.com/photos/1631713/pexels-photo-1631713.jpeg?w=800",
-    "description": "Самое солёное озеро.",
-    "highlights": [
-      "Плавание",
-      "Грязи"
-    ]
-  },
-  {
-    "name": "Тель-Авив",
-    "slug": "tel-aviv",
-    "country": "israel",
-    "countryName": "Израиль",
-    "image": "https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?w=800",
-    "description": "Город без остановки.",
-    "highlights": [
-      "Пляжи",
-      "Ночная жизнь"
-    ]
-  },
-  {
-    "name": "Иерусалим",
-    "slug": "jerusalem",
-    "country": "israel",
-    "countryName": "Израиль",
-    "image": "https://images.pexels.com/photos/2087403/pexels-photo-2087403.jpeg?w=800",
-    "description": "Святой город.",
-    "highlights": [
-      "Старый город",
-      "Стена Плача"
-    ]
-  },
-  {
-    "name": "Эйлат",
-    "slug": "eilat",
-    "country": "israel",
-    "countryName": "Израиль",
-    "image": "https://images.pexels.com/photos/2087415/pexels-photo-2087415.jpeg?w=800",
-    "description": "Курорт на Красном море.",
-    "highlights": [
-      "Дайвинг",
-      "Дельфины"
-    ]
-  },
-  {
-    "name": "Мёртвое море (Израиль)",
-    "slug": "dead-sea-israel",
-    "country": "israel",
-    "countryName": "Израиль",
-    "image": "https://images.pexels.com/photos/2087427/pexels-photo-2087427.jpeg?w=800",
-    "description": "СПА на берегу.",
-    "highlights": [
-      "Грязелечение",
-      "Эйн-Геди"
-    ]
-  },
-  {
-    "name": "Хайфа",
-    "slug": "haifa",
-    "country": "israel",
-    "countryName": "Израиль",
-    "image": "https://images.pexels.com/photos/2087439/pexels-photo-2087439.jpeg?w=800",
-    "description": "Город на горе.",
-    "highlights": [
-      "Бахайские сады"
-    ]
-  },
-  {
-    "name": "Назарет",
-    "slug": "nazareth",
-    "country": "israel",
-    "countryName": "Израиль",
-    "image": "https://images.pexels.com/photos/2087451/pexels-photo-2087451.jpeg?w=800",
-    "description": "Город детства Иисуса.",
-    "highlights": [
-      "Базилика Благовещения"
-    ]
-  },
-  {
-    "name": "Токио",
-    "slug": "tokyo",
-    "country": "japan",
-    "countryName": "Япония",
-    "image": "https://images.pexels.com/photos/590478/pexels-photo-590478.jpeg?w=800",
-    "description": "Мегаполис будущего.",
-    "highlights": [
-      "Сибуя",
-      "Асакуса",
-      "Акихабара"
-    ]
-  },
-  {
-    "name": "Киото",
-    "slug": "kyoto",
-    "country": "japan",
-    "countryName": "Япония",
-    "image": "https://images.pexels.com/photos/590490/pexels-photo-590490.jpeg?w=800",
-    "description": "Древняя столица.",
-    "highlights": [
-      "Храмы",
-      "Гейши",
-      "Бамбуковый лес"
-    ]
-  },
-  {
-    "name": "Осака",
-    "slug": "osaka",
-    "country": "japan",
-    "countryName": "Япония",
-    "image": "https://images.pexels.com/photos/590502/pexels-photo-590502.jpeg?w=800",
-    "description": "Гастрономическая столица.",
-    "highlights": [
-      "Дотонбори",
-      "Замок Осака"
-    ]
-  },
-  {
-    "name": "Хиросима",
-    "slug": "hiroshima",
-    "country": "japan",
-    "countryName": "Япония",
-    "image": "https://images.pexels.com/photos/590514/pexels-photo-590514.jpeg?w=800",
-    "description": "Город мира.",
-    "highlights": [
-      "Мемориальный парк",
-      "Миядзима"
-    ]
-  },
-  {
-    "name": "Нара",
-    "slug": "nara",
-    "country": "japan",
-    "countryName": "Япония",
-    "image": "https://images.pexels.com/photos/590526/pexels-photo-590526.jpeg?w=800",
-    "description": "Город оленей.",
-    "highlights": [
-      "Олени",
-      "Тодай-дзи"
-    ]
-  },
-  {
-    "name": "Хаконе",
-    "slug": "hakone",
-    "country": "japan",
-    "countryName": "Япония",
-    "image": "https://images.pexels.com/photos/590538/pexels-photo-590538.jpeg?w=800",
-    "description": "Горячие источники.",
-    "highlights": [
-      "Онсэны",
-      "Вид на Фудзи"
-    ]
-  },
-  {
-    "name": "Сеул",
-    "slug": "seoul",
-    "country": "south-korea",
-    "countryName": "Южная Корея",
-    "image": "https://images.pexels.com/photos/2376712/pexels-photo-2376712.jpeg?w=800",
-    "description": "Город K-pop.",
-    "highlights": [
-      "Кёнбоккун",
-      "Хондэ",
-      "Мёндон"
-    ]
-  },
-  {
-    "name": "Пусан",
-    "slug": "busan",
-    "country": "south-korea",
-    "countryName": "Южная Корея",
-    "image": "https://images.pexels.com/photos/2376724/pexels-photo-2376724.jpeg?w=800",
-    "description": "Портовый город.",
-    "highlights": [
-      "Хэундэ",
-      "Храм Хэдонъёнгунса"
-    ]
-  },
-  {
-    "name": "Чеджу",
-    "slug": "jeju",
-    "country": "south-korea",
-    "countryName": "Южная Корея",
-    "image": "https://images.pexels.com/photos/2376736/pexels-photo-2376736.jpeg?w=800",
-    "description": "Остров медового месяца.",
-    "highlights": [
-      "Халласан",
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Кёнджу",
-    "slug": "gyeongju",
-    "country": "south-korea",
-    "countryName": "Южная Корея",
-    "image": "https://images.pexels.com/photos/2376748/pexels-photo-2376748.jpeg?w=800",
-    "description": "Музей без стен.",
-    "highlights": [
-      "Курганы",
-      "Храм Пульгукса"
-    ]
-  },
-  {
-    "name": "Инчхон",
-    "slug": "incheon",
-    "country": "south-korea",
-    "countryName": "Южная Корея",
-    "image": "https://images.pexels.com/photos/2376760/pexels-photo-2376760.jpeg?w=800",
-    "description": "Город с аэропортом.",
-    "highlights": [
-      "Чайнатаун",
-      "Сондо"
-    ]
-  },
-  {
-    "name": "Пекин",
-    "slug": "beijing",
-    "country": "china",
-    "countryName": "Китай",
-    "image": "https://images.pexels.com/photos/2846034/pexels-photo-2846034.jpeg?w=800",
-    "description": "Столица империй.",
-    "highlights": [
-      "Запретный город",
-      "Великая стена"
-    ]
-  },
-  {
-    "name": "Шанхай",
-    "slug": "shanghai",
-    "country": "china",
-    "countryName": "Китай",
-    "image": "https://images.pexels.com/photos/2846046/pexels-photo-2846046.jpeg?w=800",
-    "description": "Город небоскрёбов.",
-    "highlights": [
-      "Бунд",
-      "Пудун"
-    ]
-  },
-  {
-    "name": "Гонконг",
-    "slug": "hong-kong",
-    "country": "china",
-    "countryName": "Китай",
-    "image": "https://images.pexels.com/photos/2846058/pexels-photo-2846058.jpeg?w=800",
-    "description": "Город контрастов.",
-    "highlights": [
-      "Пик Виктория",
-      "Димсам"
-    ]
-  },
-  {
-    "name": "Сиань",
-    "slug": "xian",
-    "country": "china",
-    "countryName": "Китай",
-    "image": "https://images.pexels.com/photos/2846070/pexels-photo-2846070.jpeg?w=800",
-    "description": "Терракотовая армия.",
-    "highlights": [
-      "Воины",
-      "Городская стена"
-    ]
-  },
-  {
-    "name": "Гуйлинь",
-    "slug": "guilin",
-    "country": "china",
-    "countryName": "Китай",
-    "image": "https://images.pexels.com/photos/2846082/pexels-photo-2846082.jpeg?w=800",
-    "description": "Карстовые горы.",
-    "highlights": [
-      "Река Ли",
-      "Яншо"
-    ]
-  },
-  {
-    "name": "Чэнду",
-    "slug": "chengdu",
-    "country": "china",
-    "countryName": "Китай",
-    "image": "https://images.pexels.com/photos/2846094/pexels-photo-2846094.jpeg?w=800",
-    "description": "Столица панд.",
-    "highlights": [
-      "Панды",
-      "Сычуаньская кухня"
-    ]
-  },
-  {
-    "name": "Дели",
-    "slug": "delhi",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?w=800",
-    "description": "Столица контрастов.",
-    "highlights": [
-      "Красный форт",
-      "Кутуб-Минар"
-    ]
-  },
-  {
-    "name": "Мумбаи",
-    "slug": "mumbai",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603662/pexels-photo-1603662.jpeg?w=800",
-    "description": "Город Болливуда.",
-    "highlights": [
-      "Ворота Индии",
-      "Дхоби Гхат"
-    ]
-  },
-  {
-    "name": "Гоа",
-    "slug": "goa",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603674/pexels-photo-1603674.jpeg?w=800",
-    "description": "Пляжный штат.",
-    "highlights": [
-      "Пляжи",
-      "Вечеринки"
-    ]
-  },
-  {
-    "name": "Джайпур",
-    "slug": "jaipur",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603686/pexels-photo-1603686.jpeg?w=800",
-    "description": "Розовый город.",
-    "highlights": [
-      "Хава-Махал",
-      "Амберский форт"
-    ]
-  },
-  {
-    "name": "Агра",
-    "slug": "agra",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603698/pexels-photo-1603698.jpeg?w=800",
-    "description": "Город Тадж-Махала.",
-    "highlights": [
-      "Тадж-Махал",
-      "Форт Агра"
-    ]
-  },
-  {
-    "name": "Варанаси",
-    "slug": "varanasi",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603710/pexels-photo-1603710.jpeg?w=800",
-    "description": "Священный город.",
-    "highlights": [
-      "Гаты",
-      "Церемония Ганги"
-    ]
-  },
-  {
-    "name": "Керала",
-    "slug": "kerala",
-    "country": "india",
-    "countryName": "Индия",
-    "image": "https://images.pexels.com/photos/1603722/pexels-photo-1603722.jpeg?w=800",
-    "description": "Заводи и аюрведа.",
-    "highlights": [
-      "Хаусботы",
-      "Аюрведа"
-    ]
-  },
-  {
-    "name": "Манила",
-    "slug": "manila",
-    "country": "philippines",
-    "countryName": "Филиппины",
-    "image": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?w=800",
-    "description": "Столица.",
-    "highlights": [
-      "Интрамурос",
-      "Моллы"
-    ]
-  },
-  {
-    "name": "Боракай",
-    "slug": "boracay",
-    "country": "philippines",
-    "countryName": "Филиппины",
-    "image": "https://images.pexels.com/photos/2387885/pexels-photo-2387885.jpeg?w=800",
-    "description": "Лучший пляж Азии.",
-    "highlights": [
-      "Белый пляж",
-      "Вечеринки"
-    ]
-  },
-  {
-    "name": "Палаван",
-    "slug": "palawan",
-    "country": "philippines",
-    "countryName": "Филиппины",
-    "image": "https://images.pexels.com/photos/2387897/pexels-photo-2387897.jpeg?w=800",
-    "description": "Последний фронтир.",
-    "highlights": [
-      "Эль-Нидо",
-      "Подземная река"
-    ]
-  },
-  {
-    "name": "Себу",
-    "slug": "cebu",
-    "country": "philippines",
-    "countryName": "Филиппины",
-    "image": "https://images.pexels.com/photos/2387909/pexels-photo-2387909.jpeg?w=800",
-    "description": "Остров с историей.",
-    "highlights": [
-      "Китовые акулы",
-      "Водопады"
-    ]
-  },
-  {
-    "name": "Бохол",
-    "slug": "bohol",
-    "country": "philippines",
-    "countryName": "Филиппины",
-    "image": "https://images.pexels.com/photos/2387921/pexels-photo-2387921.jpeg?w=800",
-    "description": "Шоколадные холмы.",
-    "highlights": [
-      "Холмы",
-      "Долгопяты"
-    ]
-  },
-  {
-    "name": "Сиаргао",
-    "slug": "siargao",
-    "country": "philippines",
-    "countryName": "Филиппины",
-    "image": "https://images.pexels.com/photos/2387933/pexels-photo-2387933.jpeg?w=800",
-    "description": "Столица сёрфинга.",
-    "highlights": [
-      "Cloud 9",
-      "Острова"
-    ]
-  },
-  {
-    "name": "Куала-Лумпур",
-    "slug": "kuala-lumpur",
-    "country": "malaysia",
-    "countryName": "Малайзия",
-    "image": "https://images.pexels.com/photos/433989/pexels-photo-433989.jpeg?w=800",
-    "description": "Город башен.",
-    "highlights": [
-      "Петронасы",
-      "Бату"
-    ]
-  },
-  {
-    "name": "Лангкави",
-    "slug": "langkawi",
-    "country": "malaysia",
-    "countryName": "Малайзия",
-    "image": "https://images.pexels.com/photos/434001/pexels-photo-434001.jpeg?w=800",
-    "description": "Остров легенд.",
-    "highlights": [
-      "Sky Bridge",
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Пенанг",
-    "slug": "penang",
-    "country": "malaysia",
-    "countryName": "Малайзия",
-    "image": "https://images.pexels.com/photos/434013/pexels-photo-434013.jpeg?w=800",
-    "description": "Город стрит-арта.",
-    "highlights": [
-      "Джорджтаун",
-      "Еда"
-    ]
-  },
-  {
-    "name": "Борнео",
-    "slug": "borneo",
-    "country": "malaysia",
-    "countryName": "Малайзия",
-    "image": "https://images.pexels.com/photos/434025/pexels-photo-434025.jpeg?w=800",
-    "description": "Джунгли и орангутаны.",
-    "highlights": [
-      "Кинабалу",
-      "Орангутаны"
-    ]
-  },
-  {
-    "name": "Малакка",
-    "slug": "malacca",
-    "country": "malaysia",
-    "countryName": "Малайзия",
-    "image": "https://images.pexels.com/photos/434037/pexels-photo-434037.jpeg?w=800",
-    "description": "Колониальный город.",
-    "highlights": [
-      "Церковь Христа",
-      "Джонкер"
-    ]
-  },
-  {
-    "name": "Камерон",
-    "slug": "cameron-highlands",
-    "country": "malaysia",
-    "countryName": "Малайзия",
-    "image": "https://images.pexels.com/photos/434049/pexels-photo-434049.jpeg?w=800",
-    "description": "Чайные плантации.",
-    "highlights": [
-      "Чай",
-      "Клубника"
-    ]
-  },
-  {
-    "name": "Сингапур",
-    "slug": "singapore-city",
-    "country": "singapore",
-    "countryName": "Сингапур",
-    "image": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?w=800",
-    "description": "Город-государство.",
-    "highlights": [
-      "Marina Bay",
-      "Gardens by the Bay"
-    ]
-  },
-  {
-    "name": "Сентоза",
-    "slug": "sentosa",
-    "country": "singapore",
-    "countryName": "Сингапур",
-    "image": "https://images.pexels.com/photos/777071/pexels-photo-777071.jpeg?w=800",
-    "description": "Остров развлечений.",
-    "highlights": [
-      "Universal",
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Сием-Рип",
-    "slug": "siem-reap",
-    "country": "cambodia",
-    "countryName": "Камбоджа",
-    "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?w=800",
-    "description": "Ворота в Ангкор.",
-    "highlights": [
-      "Ангкор-Ват",
-      "Закаты"
-    ]
-  },
-  {
-    "name": "Пномпень",
-    "slug": "phnom-penh",
-    "country": "cambodia",
-    "countryName": "Камбоджа",
-    "image": "https://images.pexels.com/photos/2166571/pexels-photo-2166571.jpeg?w=800",
-    "description": "Столица.",
-    "highlights": [
-      "Королевский дворец",
-      "Музей геноцида"
-    ]
-  },
-  {
-    "name": "Сиануквиль",
-    "slug": "sihanoukville",
-    "country": "cambodia",
-    "countryName": "Камбоджа",
-    "image": "https://images.pexels.com/photos/2166583/pexels-photo-2166583.jpeg?w=800",
-    "description": "Пляжный курорт.",
-    "highlights": [
-      "Пляжи",
-      "Острова"
-    ]
-  },
-  {
-    "name": "Ко-Ронг",
-    "slug": "koh-rong",
-    "country": "cambodia",
-    "countryName": "Камбоджа",
-    "image": "https://images.pexels.com/photos/2166595/pexels-photo-2166595.jpeg?w=800",
-    "description": "Тропический остров.",
-    "highlights": [
-      "Пляжи",
-      "Биолюминесценция"
-    ]
-  },
-  {
-    "name": "Кампот",
-    "slug": "kampot",
-    "country": "cambodia",
-    "countryName": "Камбоджа",
-    "image": "https://images.pexels.com/photos/2166607/pexels-photo-2166607.jpeg?w=800",
-    "description": "Город перца.",
-    "highlights": [
-      "Перец",
-      "Река"
-    ]
-  },
-  {
-    "name": "Тбилиси",
-    "slug": "tbilisi",
-    "country": "georgia",
-    "countryName": "Грузия",
-    "image": "https://images.pexels.com/photos/5094673/pexels-photo-5094673.jpeg?w=800",
-    "description": "Древняя столица.",
-    "highlights": [
-      "Старый город",
-      "Серные бани"
-    ]
-  },
-  {
-    "name": "Батуми",
-    "slug": "batumi",
-    "country": "georgia",
-    "countryName": "Грузия",
-    "image": "https://images.pexels.com/photos/5094685/pexels-photo-5094685.jpeg?w=800",
-    "description": "Черноморский курорт.",
-    "highlights": [
-      "Набережная",
-      "Казино"
-    ]
-  },
-  {
-    "name": "Казбеги",
-    "slug": "kazbegi",
-    "country": "georgia",
-    "countryName": "Грузия",
-    "image": "https://images.pexels.com/photos/5094697/pexels-photo-5094697.jpeg?w=800",
-    "description": "Горы и церковь Гергети.",
-    "highlights": [
-      "Гергети",
-      "Горы"
-    ]
-  },
-  {
-    "name": "Кутаиси",
-    "slug": "kutaisi",
-    "country": "georgia",
-    "countryName": "Грузия",
-    "image": "https://images.pexels.com/photos/5094709/pexels-photo-5094709.jpeg?w=800",
-    "description": "Вторая столица.",
-    "highlights": [
-      "Гелати",
-      "Пещера Прометея"
-    ]
-  },
-  {
-    "name": "Сванетия",
-    "slug": "svaneti",
-    "country": "georgia",
-    "countryName": "Грузия",
-    "image": "https://images.pexels.com/photos/5094721/pexels-photo-5094721.jpeg?w=800",
-    "description": "Край башен.",
-    "highlights": [
-      "Ушгули",
-      "Башни"
-    ]
-  },
-  {
-    "name": "Кахетия",
-    "slug": "kakheti",
-    "country": "georgia",
-    "countryName": "Грузия",
-    "image": "https://images.pexels.com/photos/5094733/pexels-photo-5094733.jpeg?w=800",
-    "description": "Винный регион.",
-    "highlights": [
-      "Вино",
-      "Монастыри"
-    ]
-  },
-  {
-    "name": "Ереван",
-    "slug": "yerevan",
-    "country": "armenia",
-    "countryName": "Армения",
-    "image": "https://images.pexels.com/photos/5007067/pexels-photo-5007067.jpeg?w=800",
-    "description": "Розовый город.",
-    "highlights": [
-      "Каскад",
-      "Площадь Республики"
-    ]
-  },
-  {
-    "name": "Гюмри",
-    "slug": "gyumri",
-    "country": "armenia",
-    "countryName": "Армения",
-    "image": "https://images.pexels.com/photos/5007079/pexels-photo-5007079.jpeg?w=800",
-    "description": "Культурная столица.",
-    "highlights": [
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Дилижан",
-    "slug": "dilijan",
-    "country": "armenia",
-    "countryName": "Армения",
-    "image": "https://images.pexels.com/photos/5007091/pexels-photo-5007091.jpeg?w=800",
-    "description": "Армянская Швейцария.",
-    "highlights": [
-      "Леса",
-      "Монастыри"
-    ]
-  },
-  {
-    "name": "Татев",
-    "slug": "tatev",
-    "country": "armenia",
-    "countryName": "Армения",
-    "image": "https://images.pexels.com/photos/5007103/pexels-photo-5007103.jpeg?w=800",
-    "description": "Канатка и монастырь.",
-    "highlights": [
-      "Канатная дорога",
-      "Монастырь"
-    ]
-  },
-  {
-    "name": "Севан",
-    "slug": "sevan",
-    "country": "armenia",
-    "countryName": "Армения",
-    "image": "https://images.pexels.com/photos/5007115/pexels-photo-5007115.jpeg?w=800",
-    "description": "Высокогорное озеро.",
-    "highlights": [
-      "Озеро",
-      "Монастырь Севанаванк"
-    ]
-  },
-  {
-    "name": "Баку",
-    "slug": "baku",
-    "country": "azerbaijan",
-    "countryName": "Азербайджан",
-    "image": "https://images.pexels.com/photos/4388167/pexels-photo-4388167.jpeg?w=800",
-    "description": "Город ветров.",
-    "highlights": [
-      "Пламенные башни",
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Шеки",
-    "slug": "sheki",
-    "country": "azerbaijan",
-    "countryName": "Азербайджан",
-    "image": "https://images.pexels.com/photos/4388179/pexels-photo-4388179.jpeg?w=800",
-    "description": "Дворец ханов.",
-    "highlights": [
-      "Дворец",
-      "Караван-сарай"
-    ]
-  },
-  {
-    "name": "Куба",
-    "slug": "quba",
-    "country": "azerbaijan",
-    "countryName": "Азербайджан",
-    "image": "https://images.pexels.com/photos/4388191/pexels-photo-4388191.jpeg?w=800",
-    "description": "Ковры и горы.",
-    "highlights": [
-      "Хыналыг",
-      "Ковры"
-    ]
-  },
-  {
-    "name": "Габала",
-    "slug": "gabala",
-    "country": "azerbaijan",
-    "countryName": "Азербайджан",
-    "image": "https://images.pexels.com/photos/4388203/pexels-photo-4388203.jpeg?w=800",
-    "description": "Горный курорт.",
-    "highlights": [
-      "Туфандаг",
-      "Водопады"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
     "name": "Вена",
-    "slug": "vienna",
+    "slug": "vena",
     "country": "austria",
     "countryName": "Австрия",
-    "image": "https://images.pexels.com/photos/2351425/pexels-photo-2351425.jpeg?w=800",
-    "description": "Имперская столица.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Вена — популярное направление в стране Австрия.",
     "highlights": [
-      "Шёнбрунн",
-      "Опера"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
     "name": "Зальцбург",
-    "slug": "salzburg",
+    "slug": "zaltsburg",
     "country": "austria",
     "countryName": "Австрия",
-    "image": "https://images.pexels.com/photos/2351437/pexels-photo-2351437.jpeg?w=800",
-    "description": "Город Моцарта.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Зальцбург — популярное направление в стране Австрия.",
     "highlights": [
-      "Крепость",
-      "Мирабель"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Инсбрук",
-    "slug": "innsbruck",
+    "name": "Бадгастайн",
+    "slug": "badgastayn",
     "country": "austria",
     "countryName": "Австрия",
-    "image": "https://images.pexels.com/photos/2351449/pexels-photo-2351449.jpeg?w=800",
-    "description": "Альпийская столица.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бадгастайн — популярное направление в стране Австрия.",
     "highlights": [
-      "Золотая крыша",
-      "Лыжи"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Гальштат",
-    "slug": "hallstatt",
+    "name": "Заальбах",
+    "slug": "zaalbakh",
     "country": "austria",
     "countryName": "Австрия",
-    "image": "https://images.pexels.com/photos/2351461/pexels-photo-2351461.jpeg?w=800",
-    "description": "Открыточный город.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Заальбах — популярное направление в стране Австрия.",
     "highlights": [
-      "Озеро",
-      "Соляная шахта"
-    ]
-  },
-  {
-    "name": "Цюрих",
-    "slug": "zurich",
-    "country": "switzerland",
-    "countryName": "Швейцария",
-    "image": "https://images.pexels.com/photos/2422497/pexels-photo-2422497.jpeg?w=800",
-    "description": "Финансовая столица.",
-    "highlights": [
-      "Старый город",
-      "Озеро"
-    ]
-  },
-  {
-    "name": "Женева",
-    "slug": "geneva",
-    "country": "switzerland",
-    "countryName": "Швейцария",
-    "image": "https://images.pexels.com/photos/2422509/pexels-photo-2422509.jpeg?w=800",
-    "description": "Город ООН.",
-    "highlights": [
-      "Фонтан",
-      "Озеро Леман"
-    ]
-  },
-  {
-    "name": "Люцерн",
-    "slug": "lucerne",
-    "country": "switzerland",
-    "countryName": "Швейцария",
-    "image": "https://images.pexels.com/photos/2422521/pexels-photo-2422521.jpeg?w=800",
-    "description": "Сердце Швейцарии.",
-    "highlights": [
-      "Мост",
-      "Пилатус"
-    ]
-  },
-  {
-    "name": "Интерлакен",
-    "slug": "interlaken",
-    "country": "switzerland",
-    "countryName": "Швейцария",
-    "image": "https://images.pexels.com/photos/2422533/pexels-photo-2422533.jpeg?w=800",
-    "description": "Между двух озёр.",
-    "highlights": [
-      "Юнгфрау",
-      "Парапланы"
-    ]
-  },
-  {
-    "name": "Церматт",
-    "slug": "zermatt",
-    "country": "switzerland",
-    "countryName": "Швейцария",
-    "image": "https://images.pexels.com/photos/2422545/pexels-photo-2422545.jpeg?w=800",
-    "description": "Маттерхорн.",
-    "highlights": [
-      "Маттерхорн",
-      "Лыжи"
-    ]
-  },
-  {
-    "name": "Прага",
-    "slug": "prague",
-    "country": "czech-republic",
-    "countryName": "Чехия",
-    "image": "https://images.pexels.com/photos/2346216/pexels-photo-2346216.jpeg?w=800",
-    "description": "Золотой город.",
-    "highlights": [
-      "Карлов мост",
-      "Град"
-    ]
-  },
-  {
-    "name": "Чески-Крумлов",
-    "slug": "cesky-krumlov",
-    "country": "czech-republic",
-    "countryName": "Чехия",
-    "image": "https://images.pexels.com/photos/2346228/pexels-photo-2346228.jpeg?w=800",
-    "description": "Сказочный городок.",
-    "highlights": [
-      "Замок",
-      "Влтава"
-    ]
-  },
-  {
-    "name": "Карловы Вары",
-    "slug": "karlovy-vary",
-    "country": "czech-republic",
-    "countryName": "Чехия",
-    "image": "https://images.pexels.com/photos/2346240/pexels-photo-2346240.jpeg?w=800",
-    "description": "Город источников.",
-    "highlights": [
-      "Источники",
-      "Бехеровка"
-    ]
-  },
-  {
-    "name": "Брно",
-    "slug": "brno",
-    "country": "czech-republic",
-    "countryName": "Чехия",
-    "image": "https://images.pexels.com/photos/2346252/pexels-photo-2346252.jpeg?w=800",
-    "description": "Вторая столица.",
-    "highlights": [
-      "Шпильберг"
-    ]
-  },
-  {
-    "name": "Лиссабон",
-    "slug": "lisbon",
-    "country": "portugal",
-    "countryName": "Португалия",
-    "image": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?w=800",
-    "description": "Город на холмах.",
-    "highlights": [
-      "Белен",
-      "Трамвай 28"
-    ]
-  },
-  {
-    "name": "Порту",
-    "slug": "porto",
-    "country": "portugal",
-    "countryName": "Португалия",
-    "image": "https://images.pexels.com/photos/1534572/pexels-photo-1534572.jpeg?w=800",
-    "description": "Город портвейна.",
-    "highlights": [
-      "Рибейра",
-      "Винные погреба"
-    ]
-  },
-  {
-    "name": "Синтра",
-    "slug": "sintra",
-    "country": "portugal",
-    "countryName": "Португалия",
-    "image": "https://images.pexels.com/photos/1534584/pexels-photo-1534584.jpeg?w=800",
-    "description": "Дворцы в лесу.",
-    "highlights": [
-      "Пена"
-    ]
-  },
-  {
-    "name": "Мадейра",
-    "slug": "madeira",
-    "country": "portugal",
-    "countryName": "Португалия",
-    "image": "https://images.pexels.com/photos/1534596/pexels-photo-1534596.jpeg?w=800",
-    "description": "Остров вечной весны.",
-    "highlights": [
-      "Левады",
-      "Фуншал"
-    ]
-  },
-  {
-    "name": "Алгарве",
-    "slug": "algarve",
-    "country": "portugal",
-    "countryName": "Португалия",
-    "image": "https://images.pexels.com/photos/1534608/pexels-photo-1534608.jpeg?w=800",
-    "description": "Южное побережье.",
-    "highlights": [
-      "Пляжи",
-      "Скалы"
-    ]
-  },
-  {
-    "name": "София",
-    "slug": "sofia",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029720/pexels-photo-2029720.jpeg?w=800",
-    "description": "Столица.",
-    "highlights": [
-      "Александр Невский"
-    ]
-  },
-  {
-    "name": "Пловдив",
-    "slug": "plovdiv",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029732/pexels-photo-2029732.jpeg?w=800",
-    "description": "Культурная столица.",
-    "highlights": [
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Варна",
-    "slug": "varna",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029744/pexels-photo-2029744.jpeg?w=800",
-    "description": "Морская столица.",
-    "highlights": [
-      "Пляжи"
-    ]
-  },
-  {
-    "name": "Несебр",
-    "slug": "nessebar",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029768/pexels-photo-2029768.jpeg?w=800",
-    "description": "Древний полуостров.",
-    "highlights": [
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Солнечный Берег",
-    "slug": "sunny-beach",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029780/pexels-photo-2029780.jpeg?w=800",
-    "description": "Главный курорт.",
-    "highlights": [
-      "Пляж"
-    ]
-  },
-  {
-    "name": "Золотые Пески",
-    "slug": "golden-sands",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029792/pexels-photo-2029792.jpeg?w=800",
-    "description": "Северный курорт.",
-    "highlights": [
-      "Аквапарк"
-    ]
-  },
-  {
-    "name": "Банско",
-    "slug": "bansko",
-    "country": "bulgaria",
-    "countryName": "Болгария",
-    "image": "https://images.pexels.com/photos/2029804/pexels-photo-2029804.jpeg?w=800",
-    "description": "Горнолыжный курорт.",
-    "highlights": [
-      "Лыжи"
-    ]
-  },
-  {
-    "name": "Будапешт",
-    "slug": "budapest",
-    "country": "hungary",
-    "countryName": "Венгрия",
-    "image": "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?w=800",
-    "description": "Жемчужина Дуная.",
-    "highlights": [
-      "Парламент",
-      "Купальни"
-    ]
-  },
-  {
-    "name": "Варшава",
-    "slug": "warsaw",
-    "country": "poland",
-    "countryName": "Польша",
-    "image": "https://images.pexels.com/photos/3566120/pexels-photo-3566120.jpeg?w=800",
-    "description": "Восставшая столица.",
-    "highlights": [
-      "Старый город"
-    ]
-  },
-  {
-    "name": "Краков",
-    "slug": "krakow",
-    "country": "poland",
-    "countryName": "Польша",
-    "image": "https://images.pexels.com/photos/3566132/pexels-photo-3566132.jpeg?w=800",
-    "description": "Королевский город.",
-    "highlights": [
-      "Вавель",
-      "Рынок"
-    ]
-  },
-  {
-    "name": "Гданьск",
-    "slug": "gdansk",
-    "country": "poland",
-    "countryName": "Польша",
-    "image": "https://images.pexels.com/photos/3566144/pexels-photo-3566144.jpeg?w=800",
-    "description": "Янтарная столица.",
-    "highlights": [
-      "Длуга"
-    ]
-  },
-  {
-    "name": "Берлин",
-    "slug": "berlin",
-    "country": "germany",
-    "countryName": "Германия",
-    "image": "https://images.pexels.com/photos/109630/pexels-photo-109630.jpeg?w=800",
-    "description": "Город истории.",
-    "highlights": [
-      "Стена",
-      "Бранденбург"
-    ]
-  },
-  {
-    "name": "Мюнхен",
-    "slug": "munich",
-    "country": "germany",
-    "countryName": "Германия",
-    "image": "https://images.pexels.com/photos/109642/pexels-photo-109642.jpeg?w=800",
-    "description": "Столица Баварии.",
-    "highlights": [
-      "Мариенплац",
-      "Пиво"
-    ]
-  },
-  {
-    "name": "Амстердам",
-    "slug": "amsterdam",
-    "country": "netherlands",
-    "countryName": "Нидерланды",
-    "image": "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?w=800",
-    "description": "Город каналов.",
-    "highlights": [
-      "Каналы",
-      "Ван Гог"
-    ]
-  },
-  {
-    "name": "Брюссель",
-    "slug": "brussels",
-    "country": "belgium",
-    "countryName": "Бельгия",
-    "image": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?w=800",
-    "description": "Столица ЕС.",
-    "highlights": [
-      "Гранд-Плас"
-    ]
-  },
-  {
-    "name": "Брюгге",
-    "slug": "bruges",
-    "country": "belgium",
-    "countryName": "Бельгия",
-    "image": "https://images.pexels.com/photos/1595097/pexels-photo-1595097.jpeg?w=800",
-    "description": "Северная Венеция.",
-    "highlights": [
-      "Каналы",
-      "Шоколад"
-    ]
-  },
-  {
-    "name": "Валлетта",
-    "slug": "valletta",
-    "country": "malta",
-    "countryName": "Мальта",
-    "image": "https://images.pexels.com/photos/3732494/pexels-photo-3732494.jpeg?w=800",
-    "description": "Крепость в море.",
-    "highlights": [
-      "Собор",
-      "Форт"
-    ]
-  },
-  {
-    "name": "Гозо",
-    "slug": "gozo",
-    "country": "malta",
-    "countryName": "Мальта",
-    "image": "https://images.pexels.com/photos/3732518/pexels-photo-3732518.jpeg?w=800",
-    "description": "Остров Калипсо.",
-    "highlights": [
-      "Виктория"
-    ]
-  },
-  {
-    "name": "Хельсинки",
-    "slug": "helsinki",
-    "country": "finland",
-    "countryName": "Финляндия",
-    "image": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?w=800",
-    "description": "Дизайн и сауна.",
-    "highlights": [
-      "Суоменлинна"
-    ]
-  },
-  {
-    "name": "Лапландия",
-    "slug": "lapland",
-    "country": "finland",
-    "countryName": "Финляндия",
-    "image": "https://images.pexels.com/photos/1823693/pexels-photo-1823693.jpeg?w=800",
-    "description": "Родина Санты.",
-    "highlights": [
-      "Северное сияние"
-    ]
-  },
-  {
-    "name": "Осло",
-    "slug": "oslo",
-    "country": "norway",
-    "countryName": "Норвегия",
-    "image": "https://images.pexels.com/photos/1562058/pexels-photo-1562058.jpeg?w=800",
-    "description": "Столица фьордов.",
-    "highlights": [
-      "Опера"
-    ]
-  },
-  {
-    "name": "Берген",
-    "slug": "bergen",
-    "country": "norway",
-    "countryName": "Норвегия",
-    "image": "https://images.pexels.com/photos/1562070/pexels-photo-1562070.jpeg?w=800",
-    "description": "Ворота во фьорды.",
-    "highlights": [
-      "Брюгген"
-    ]
-  },
-  {
-    "name": "Тромсё",
-    "slug": "tromso",
-    "country": "norway",
-    "countryName": "Норвегия",
-    "image": "https://images.pexels.com/photos/1562082/pexels-photo-1562082.jpeg?w=800",
-    "description": "Арктические ворота.",
-    "highlights": [
-      "Сияние",
-      "Киты"
-    ]
-  },
-  {
-    "name": "Лофотены",
-    "slug": "lofoten",
-    "country": "norway",
-    "countryName": "Норвегия",
-    "image": "https://images.pexels.com/photos/1562094/pexels-photo-1562094.jpeg?w=800",
-    "description": "Острова викингов.",
-    "highlights": [
-      "Рыбацкие домики"
-    ]
-  },
-  {
-    "name": "Стокгольм",
-    "slug": "stockholm",
-    "country": "sweden",
-    "countryName": "Швеция",
-    "image": "https://images.pexels.com/photos/2376566/pexels-photo-2376566.jpeg?w=800",
-    "description": "Северная Венеция.",
-    "highlights": [
-      "Гамла Стан",
-      "Васа"
-    ]
-  },
-  {
-    "name": "Копенгаген",
-    "slug": "copenhagen",
-    "country": "denmark",
-    "countryName": "Дания",
-    "image": "https://images.pexels.com/photos/2566860/pexels-photo-2566860.jpeg?w=800",
-    "description": "Город хюгге.",
-    "highlights": [
-      "Нюхавн",
-      "Русалочка"
-    ]
-  },
-  {
-    "name": "Рейкьявик",
-    "slug": "reykjavik",
-    "country": "iceland",
-    "countryName": "Исландия",
-    "image": "https://images.pexels.com/photos/2113566/pexels-photo-2113566.jpeg?w=800",
-    "description": "Край гейзеров.",
-    "highlights": [
-      "Золотое кольцо",
-      "Сияние"
-    ]
-  },
-  {
-    "name": "Дублин",
-    "slug": "dublin",
-    "country": "ireland",
-    "countryName": "Ирландия",
-    "image": "https://images.pexels.com/photos/2416653/pexels-photo-2416653.jpeg?w=800",
-    "description": "Город пабов.",
-    "highlights": [
-      "Temple Bar",
-      "Guinness"
-    ]
-  },
-  {
-    "name": "Эдинбург",
-    "slug": "edinburgh",
-    "country": "united-kingdom",
-    "countryName": "Великобритания",
-    "image": "https://images.pexels.com/photos/2893285/pexels-photo-2893285.jpeg?w=800",
-    "description": "Шотландская столица.",
-    "highlights": [
-      "Замок",
-      "Роял Майл"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
@@ -2844,235 +312,2056 @@
     "slug": "london",
     "country": "united-kingdom",
     "countryName": "Великобритания",
-    "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?w=800",
-    "description": "Столица королевства.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Лондон — популярное направление в стране Великобритания.",
     "highlights": [
-      "Биг-Бен",
-      "Тауэр"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Салоники",
-    "slug": "thessaloniki",
+    "name": "Бат",
+    "slug": "bat",
+    "country": "united-kingdom",
+    "countryName": "Великобритания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бат — популярное направление в стране Великобритания.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бирмингем",
+    "slug": "birmingem",
+    "country": "united-kingdom",
+    "countryName": "Великобритания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бирмингем — популярное направление в стране Великобритания.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Манчестер",
+    "slug": "manchester",
+    "country": "united-kingdom",
+    "countryName": "Великобритания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Манчестер — популярное направление в стране Великобритания.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Джерси",
+    "slug": "dzhersi",
+    "country": "united-kingdom",
+    "countryName": "Великобритания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Джерси — популярное направление в стране Великобритания.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Афины",
+    "slug": "afiny",
     "country": "greece",
     "countryName": "Греция",
-    "image": "https://images.pexels.com/photos/772773/pexels-photo-772773.jpeg?w=800",
-    "description": "Северная столица.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Афины — популярное направление в стране Греция.",
     "highlights": [
-      "Белая башня"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Закинтос",
-    "slug": "zakynthos",
+    "name": "Крит",
+    "slug": "krit",
     "country": "greece",
     "countryName": "Греция",
-    "image": "https://images.pexels.com/photos/772761/pexels-photo-772761.jpeg?w=800",
-    "description": "Бухта Навагио.",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Крит — популярное направление в стране Греция.",
     "highlights": [
-      "Навагио"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Эгер",
-    "slug": "eger",
-    "country": "hungary",
-    "countryName": "Венгрия",
-    "image": "https://images.pexels.com/photos/1438773/pexels-photo-1438773.jpeg?w=800",
-    "description": "Город вина.",
+    "name": "Родос",
+    "slug": "rodos",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Родос — популярное направление в стране Греция.",
     "highlights": [
-      "Крепость"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Балатон",
-    "slug": "balaton",
-    "country": "hungary",
-    "countryName": "Венгрия",
-    "image": "https://images.pexels.com/photos/1438785/pexels-photo-1438785.jpeg?w=800",
-    "description": "Венгерское море.",
+    "name": "Корфу",
+    "slug": "korfu",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Корфу — популярное направление в стране Греция.",
     "highlights": [
-      "Тихань"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Вроцлав",
-    "slug": "wroclaw",
-    "country": "poland",
-    "countryName": "Польша",
-    "image": "https://images.pexels.com/photos/3566156/pexels-photo-3566156.jpeg?w=800",
-    "description": "Город гномов.",
+    "name": "Халкидики",
+    "slug": "khalkidiki",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Халкидики — популярное направление в стране Греция.",
     "highlights": [
-      "Рынок",
-      "Гномы"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Закопане",
-    "slug": "zakopane",
-    "country": "poland",
-    "countryName": "Польша",
-    "image": "https://images.pexels.com/photos/3566168/pexels-photo-3566168.jpeg?w=800",
-    "description": "Зимняя столица.",
+    "name": "Пелопоннес",
+    "slug": "peloponnes",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Пелопоннес — популярное направление в стране Греция.",
     "highlights": [
-      "Татры"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Гамбург",
-    "slug": "hamburg",
-    "country": "germany",
-    "countryName": "Германия",
-    "image": "https://images.pexels.com/photos/109654/pexels-photo-109654.jpeg?w=800",
-    "description": "Портовый город.",
+    "name": "Закинф",
+    "slug": "zakinf",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Закинф — популярное направление в стране Греция.",
     "highlights": [
-      "Шпайхерштадт"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Кёльн",
-    "slug": "cologne",
-    "country": "germany",
-    "countryName": "Германия",
-    "image": "https://images.pexels.com/photos/109666/pexels-photo-109666.jpeg?w=800",
-    "description": "Город собора.",
+    "name": "Кея",
+    "slug": "keya",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кея — популярное направление в стране Греция.",
     "highlights": [
-      "Собор"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Дрезден",
-    "slug": "dresden",
-    "country": "germany",
-    "countryName": "Германия",
-    "image": "https://images.pexels.com/photos/109678/pexels-photo-109678.jpeg?w=800",
-    "description": "Флоренция на Эльбе.",
+    "name": "Кос",
+    "slug": "kos",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кос — популярное направление в стране Греция.",
     "highlights": [
-      "Цвингер"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Роттердам",
-    "slug": "rotterdam",
-    "country": "netherlands",
-    "countryName": "Нидерланды",
-    "image": "https://images.pexels.com/photos/2031718/pexels-photo-2031718.jpeg?w=800",
-    "description": "Город архитектуры.",
+    "name": "Копенгаген",
+    "slug": "kopengagen",
+    "country": "denmark",
+    "countryName": "Дания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Копенгаген — популярное направление в стране Дания.",
     "highlights": [
-      "Кубические дома"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Гент",
-    "slug": "ghent",
-    "country": "belgium",
-    "countryName": "Бельгия",
-    "image": "https://images.pexels.com/photos/1595109/pexels-photo-1595109.jpeg?w=800",
-    "description": "Студенческий город.",
+    "name": "Леголенд",
+    "slug": "legolend",
+    "country": "denmark",
+    "countryName": "Дания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Леголенд — популярное направление в стране Дания.",
     "highlights": [
-      "Граффити"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Антверпен",
-    "slug": "antwerp",
-    "country": "belgium",
-    "countryName": "Бельгия",
-    "image": "https://images.pexels.com/photos/1595121/pexels-photo-1595121.jpeg?w=800",
-    "description": "Город алмазов.",
+    "name": "Рейкьявик",
+    "slug": "reykyavik",
+    "country": "iceland",
+    "countryName": "Исландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Рейкьявик — популярное направление в стране Исландия.",
     "highlights": [
-      "Вокзал"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Мдина",
-    "slug": "mdina",
-    "country": "malta",
-    "countryName": "Мальта",
-    "image": "https://images.pexels.com/photos/3732506/pexels-photo-3732506.jpeg?w=800",
-    "description": "Молчаливый город.",
+    "name": "Будир",
+    "slug": "budir",
+    "country": "iceland",
+    "countryName": "Исландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Будир — популярное направление в стране Исландия.",
     "highlights": [
-      "Стены"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Слима",
-    "slug": "sliema",
-    "country": "malta",
-    "countryName": "Мальта",
-    "image": "https://images.pexels.com/photos/3732530/pexels-photo-3732530.jpeg?w=800",
-    "description": "Курортный город.",
+    "name": "Гриндавик",
+    "slug": "grindavik",
+    "country": "iceland",
+    "countryName": "Исландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Гриндавик — популярное направление в стране Исландия.",
     "highlights": [
-      "Набережная"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Тампере",
-    "slug": "tampere",
-    "country": "finland",
-    "countryName": "Финляндия",
-    "image": "https://images.pexels.com/photos/1823705/pexels-photo-1823705.jpeg?w=800",
-    "description": "Сауна-столица.",
+    "name": "Хузафелль",
+    "slug": "khuzafell",
+    "country": "iceland",
+    "countryName": "Исландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Хузафелль — популярное направление в стране Исландия.",
     "highlights": [
-      "Муми-музей"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Гётеборг",
-    "slug": "gothenburg",
-    "country": "sweden",
-    "countryName": "Швеция",
-    "image": "https://images.pexels.com/photos/2376578/pexels-photo-2376578.jpeg?w=800",
-    "description": "Морской город.",
+    "name": "Барселона",
+    "slug": "barselona",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Барселона — популярное направление в стране Испания.",
     "highlights": [
-      "Лисеберг"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Мальмё",
-    "slug": "malmo",
-    "country": "sweden",
-    "countryName": "Швеция",
-    "image": "https://images.pexels.com/photos/2376590/pexels-photo-2376590.jpeg?w=800",
-    "description": "Город дизайна.",
+    "name": "Мадрид",
+    "slug": "madrid",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Мадрид — популярное направление в стране Испания.",
     "highlights": [
-      "Turning Torso"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Абхазия Гагра",
-    "slug": "gagra",
-    "country": "abkhazia",
-    "countryName": "Абхазия",
-    "image": "https://images.pexels.com/photos/2440079/pexels-photo-2440079.jpeg?w=800",
-    "description": "Субтропический курорт.",
+    "name": "Малага",
+    "slug": "malaga",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Малага — популярное направление в стране Испания.",
     "highlights": [
-      "Колоннада",
-      "Пляжи"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Пицунда",
-    "slug": "pitsunda",
-    "country": "abkhazia",
-    "countryName": "Абхазия",
-    "image": "https://images.pexels.com/photos/2440061/pexels-photo-2440061.jpeg?w=800",
-    "description": "Реликтовые сосны.",
+    "name": "Тенерифе",
+    "slug": "tenerife",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Тенерифе — популярное направление в стране Испания.",
     "highlights": [
-      "Роща",
-      "Пляж"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   },
   {
-    "name": "Сухум",
-    "slug": "sukhum",
-    "country": "abkhazia",
-    "countryName": "Абхазия",
-    "image": "https://images.pexels.com/photos/2440053/pexels-photo-2440053.jpeg?w=800",
-    "description": "Столица.",
+    "name": "Рим",
+    "slug": "rim",
+    "country": "italy",
+    "countryName": "Италия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Рим — популярное направление в стране Италия.",
     "highlights": [
-      "Набережная",
-      "Обезьяний питомник"
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Венеция",
+    "slug": "venetsiya",
+    "country": "italy",
+    "countryName": "Италия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Венеция — популярное направление в стране Италия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Милан",
+    "slug": "milan",
+    "country": "italy",
+    "countryName": "Италия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Милан — популярное направление в стране Италия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Флоренция",
+    "slug": "florentsiya",
+    "country": "italy",
+    "countryName": "Италия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Флоренция — популярное направление в стране Италия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сардиния",
+    "slug": "sardiniya",
+    "country": "italy",
+    "countryName": "Италия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сардиния — популярное направление в стране Италия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сицилия",
+    "slug": "sitsiliya",
+    "country": "italy",
+    "countryName": "Италия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сицилия — популярное направление в стране Италия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Шпицберген",
+    "slug": "shpitsbergen",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Шпицберген — популярное направление в стране Норвегия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Гейло",
+    "slug": "geylo",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Гейло — популярное направление в стране Норвегия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Хемседал",
+    "slug": "khemsedal",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Хемседал — популярное направление в стране Норвегия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Белград",
+    "slug": "belgrad",
+    "country": "serbia",
+    "countryName": "Сербия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Белград — популярное направление в стране Сербия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Врнячка-Баня",
+    "slug": "vrnyachka-banya",
+    "country": "serbia",
+    "countryName": "Сербия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Врнячка-Баня — популярное направление в стране Сербия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Златибор",
+    "slug": "zlatibor",
+    "country": "serbia",
+    "countryName": "Сербия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Златибор — популярное направление в стране Сербия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Копаоник",
+    "slug": "kopaonik",
+    "country": "serbia",
+    "countryName": "Сербия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Копаоник — популярное направление в стране Сербия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Париж",
+    "slug": "parizh",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Париж — популярное направление в стране Франция.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ницца",
+    "slug": "nitstsa",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ницца — популярное направление в стране Франция.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Канны",
+    "slug": "kanny",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Канны — популярное направление в стране Франция.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сен-Тропе",
+    "slug": "sen-trope",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сен-Тропе — популярное направление в стране Франция.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Монте-Карло",
+    "slug": "monte-karlo",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Монте-Карло — популярное направление в стране Франция.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Корсика",
+    "slug": "korsika",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Корсика — популярное направление в стране Франция.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Цюрих",
+    "slug": "tsyurikh",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Цюрих — популярное направление в стране Швейцария.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Женева",
+    "slug": "zheneva",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Женева — популярное направление в стране Швейцария.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Люцерн",
+    "slug": "lyutsern",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Люцерн — популярное направление в стране Швейцария.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Санкт-Мориц",
+    "slug": "sankt-morits",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Санкт-Мориц — популярное направление в стране Швейцария.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Церматт",
+    "slug": "tsermatt",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Церматт — популярное направление в стране Швейцария.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Керала",
+    "slug": "kerala",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Керала — популярное направление в стране Индия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бали",
+    "slug": "bali",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бали — популярное направление в стране Индонезия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бинтан",
+    "slug": "bintan",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бинтан — популярное направление в стране Индонезия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ломбок",
+    "slug": "lombok",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ломбок — популярное направление в стране Индонезия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Мойо",
+    "slug": "moyo",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Мойо — популярное направление в стране Индонезия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Пекин",
+    "slug": "pekin",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Пекин — популярное направление в стране Китай.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Шанхай",
+    "slug": "shankhay",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Шанхай — популярное направление в стране Китай.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Гонконг",
+    "slug": "gonkong",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Гонконг — популярное направление в стране Китай.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Хайнань",
+    "slug": "khaynan",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Хайнань — популярное направление в стране Китай.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сеул",
+    "slug": "seul",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сеул — популярное направление в стране Южная Корея.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Пусан",
+    "slug": "pusan",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Пусан — популярное направление в стране Южная Корея.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Инчхон",
+    "slug": "inchkhon",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Инчхон — популярное направление в стране Южная Корея.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Чеджудо",
+    "slug": "chedzhudo",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Чеджудо — популярное направление в стране Южная Корея.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кота-Кинабалу",
+    "slug": "kota-kinabalu",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кота-Кинабалу — популярное направление в стране Малайзия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кучинг",
+    "slug": "kuching",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кучинг — популярное направление в стране Малайзия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "о. Гайя",
+    "slug": "o-gayya",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "о. Гайя — популярное направление в стране Малайзия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "о. Тига",
+    "slug": "o-tiga",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "о. Тига — популярное направление в стране Малайзия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Катманду",
+    "slug": "katmandu",
+    "country": "nepal",
+    "countryName": "Непал",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Катманду — популярное направление в стране Непал.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Покхара",
+    "slug": "pokkhara",
+    "country": "nepal",
+    "countryName": "Непал",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Покхара — популярное направление в стране Непал.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "нац. парк Читван",
+    "slug": "nats-park-chitvan",
+    "country": "nepal",
+    "countryName": "Непал",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "нац. парк Читван — популярное направление в стране Непал.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сингапур",
+    "slug": "singapur",
+    "country": "singapore",
+    "countryName": "Сингапур",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сингапур — популярное направление в стране Сингапур.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сентоза",
+    "slug": "sentoza",
+    "country": "singapore",
+    "countryName": "Сингапур",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сентоза — популярное направление в стране Сингапур.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бангкок",
+    "slug": "bangkok",
+    "country": "thailand",
+    "countryName": "Таиланд",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бангкок — популярное направление в стране Таиланд.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Пхукет",
+    "slug": "pkhuket",
+    "country": "thailand",
+    "countryName": "Таиланд",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Пхукет — популярное направление в стране Таиланд.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Самуй",
+    "slug": "samuy",
+    "country": "thailand",
+    "countryName": "Таиланд",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Самуй — популярное направление в стране Таиланд.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Краби",
+    "slug": "krabi",
+    "country": "thailand",
+    "countryName": "Таиланд",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Краби — популярное направление в стране Таиланд.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кхаолак",
+    "slug": "kkhaolak",
+    "country": "thailand",
+    "countryName": "Таиланд",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кхаолак — популярное направление в стране Таиланд.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Паттайя",
+    "slug": "pattayya",
+    "country": "thailand",
+    "countryName": "Таиланд",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Паттайя — популярное направление в стране Таиланд.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Манила",
+    "slug": "manila",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Манила — популярное направление в стране Филиппины.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Боракай",
+    "slug": "borakay",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Боракай — популярное направление в стране Филиппины.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бохоль",
+    "slug": "bokhol",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бохоль — популярное направление в стране Филиппины.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Палаван",
+    "slug": "palavan",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Палаван — популярное направление в стране Филиппины.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Себу",
+    "slug": "sebu",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Себу — популярное направление в стране Филиппины.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Коломбо",
+    "slug": "kolombo",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Коломбо — популярное направление в стране Шри-Ланка.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Восточное побережье",
+    "slug": "vostochnoe-poberezhe",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Восточное побережье — популярное направление в стране Шри-Ланка.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Западное побережье",
+    "slug": "zapadnoe-poberezhe",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Западное побережье — популярное направление в стране Шри-Ланка.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Южное побережье",
+    "slug": "yuzhnoe-poberezhe",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Южное побережье — популярное направление в стране Шри-Ланка.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Токио",
+    "slug": "tokio",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Токио — популярное направление в стране Япония.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Киото",
+    "slug": "kioto",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Киото — популярное направление в стране Япония.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Осака",
+    "slug": "osaka",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Осака — популярное направление в стране Япония.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Нара",
+    "slug": "nara",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Нара — популярное направление в стране Япония.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Хаконе",
+    "slug": "khakone",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Хаконе — популярное направление в стране Япония.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Окинава",
+    "slug": "okinava",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Окинава — популярное направление в стране Япония.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Манама",
+    "slug": "manama",
+    "country": "bahrain",
+    "countryName": "Бахрейн",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Манама — популярное направление в стране Бахрейн.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Заллак",
+    "slug": "zallak",
+    "country": "bahrain",
+    "countryName": "Бахрейн",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Заллак — популярное направление в стране Бахрейн.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "архипелаг Амвадж",
+    "slug": "arkhipelag-amvadzh",
+    "country": "bahrain",
+    "countryName": "Бахрейн",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "архипелаг Амвадж — популярное направление в стране Бахрейн.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "архипелаг Хавар",
+    "slug": "arkhipelag-khavar",
+    "country": "bahrain",
+    "countryName": "Бахрейн",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "архипелаг Хавар — популярное направление в стране Бахрейн.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Тель-Авив",
+    "slug": "tel-aviv",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Тель-Авив — популярное направление в стране Израиль.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Иерусалим",
+    "slug": "ierusalim",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Иерусалим — популярное направление в стране Израиль.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Эйлат",
+    "slug": "eylat",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Эйлат — популярное направление в стране Израиль.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Мёртвое море",
+    "slug": "mertvoe-more",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Мёртвое море — популярное направление в стране Израиль.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Герцлия",
+    "slug": "gertsliya",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Герцлия — популярное направление в стране Израиль.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Доха",
+    "slug": "dokha",
+    "country": "qatar",
+    "countryName": "Катар",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Доха — популярное направление в стране Катар.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Духан",
+    "slug": "dukhan",
+    "country": "qatar",
+    "countryName": "Катар",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Духан — популярное направление в стране Катар.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Эр-Рувайс",
+    "slug": "er-ruvays",
+    "country": "qatar",
+    "countryName": "Катар",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Эр-Рувайс — популярное направление в стране Катар.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Маскат",
+    "slug": "maskat",
+    "country": "oman",
+    "countryName": "Оман",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Маскат — популярное направление в стране Оман.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Низва",
+    "slug": "nizva",
+    "country": "oman",
+    "countryName": "Оман",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Низва — популярное направление в стране Оман.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "п-ов Мусандам",
+    "slug": "p-ov-musandam",
+    "country": "oman",
+    "countryName": "Оман",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "п-ов Мусандам — популярное направление в стране Оман.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Салала",
+    "slug": "salala",
+    "country": "oman",
+    "countryName": "Оман",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Салала — популярное направление в стране Оман.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Эр-Рияд",
+    "slug": "er-riyad",
+    "country": "saudi-arabia",
+    "countryName": "Саудовская Аравия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Эр-Рияд — популярное направление в стране Саудовская Аравия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Джидда",
+    "slug": "dzhidda",
+    "country": "saudi-arabia",
+    "countryName": "Саудовская Аравия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Джидда — популярное направление в стране Саудовская Аравия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Аль-Ула",
+    "slug": "al-ula",
+    "country": "saudi-arabia",
+    "countryName": "Саудовская Аравия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Аль-Ула — популярное направление в стране Саудовская Аравия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Red Sea Project",
+    "slug": "red-sea-project",
+    "country": "saudi-arabia",
+    "countryName": "Саудовская Аравия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Red Sea Project — популярное направление в стране Саудовская Аравия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Найроби",
+    "slug": "nayrobi",
+    "country": "kenya",
+    "countryName": "Кения",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Найроби — популярное направление в стране Кения.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Масаи-Мара",
+    "slug": "masai-mara",
+    "country": "kenya",
+    "countryName": "Кения",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Масаи-Мара — популярное направление в стране Кения.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Самбуру",
+    "slug": "samburu",
+    "country": "kenya",
+    "countryName": "Кения",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Самбуру — популярное направление в стране Кения.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Амбосели",
+    "slug": "amboseli",
+    "country": "kenya",
+    "countryName": "Кения",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Амбосели — популярное направление в стране Кения.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Северное побережье",
+    "slug": "severnoe-poberezhe",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Северное побережье — популярное направление в стране Маврикий.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Южное побережье",
+    "slug": "yuzhnoe-poberezhe",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Южное побережье — популярное направление в стране Маврикий.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Восточное побережье",
+    "slug": "vostochnoe-poberezhe",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Восточное побережье — популярное направление в стране Маврикий.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Западное побережье",
+    "slug": "zapadnoe-poberezhe",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Западное побережье — популярное направление в стране Маврикий.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Марракеш",
+    "slug": "marrakesh",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Марракеш — популярное направление в стране Марокко.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Касабланка",
+    "slug": "kasablanka",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Касабланка — популярное направление в стране Марокко.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Агадир",
+    "slug": "agadir",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Агадир — популярное направление в стране Марокко.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Рабат",
+    "slug": "rabat",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Рабат — популярное направление в стране Марокко.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Виндхук",
+    "slug": "vindkhuk",
+    "country": "namibia",
+    "countryName": "Намибия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Виндхук — популярное направление в стране Намибия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Свакопмунд",
+    "slug": "svakopmund",
+    "country": "namibia",
+    "countryName": "Намибия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Свакопмунд — популярное направление в стране Намибия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Этоша",
+    "slug": "etosha",
+    "country": "namibia",
+    "countryName": "Намибия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Этоша — популярное направление в стране Намибия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "пустыня Намиб",
+    "slug": "pustynya-namib",
+    "country": "namibia",
+    "countryName": "Намибия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "пустыня Намиб — популярное направление в стране Намибия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Маэ",
+    "slug": "mae",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Маэ — популярное направление в стране Сейшелы.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ла-Диг",
+    "slug": "la-dig",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ла-Диг — популярное направление в стране Сейшелы.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Денис",
+    "slug": "denis",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Денис — популярное направление в стране Сейшелы.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Дерош",
+    "slug": "derosh",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Дерош — популярное направление в стране Сейшелы.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кузин",
+    "slug": "kuzin",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кузин — популярное направление в стране Сейшелы.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кейптаун",
+    "slug": "keyptaun",
+    "country": "south-africa",
+    "countryName": "ЮАР",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кейптаун — популярное направление в стране ЮАР.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Йоханнесбург",
+    "slug": "yokhannesburg",
+    "country": "south-africa",
+    "countryName": "ЮАР",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Йоханнесбург — популярное направление в стране ЮАР.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Дурбан",
+    "slug": "durban",
+    "country": "south-africa",
+    "countryName": "ЮАР",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Дурбан — популярное направление в стране ЮАР.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "нац. парк Крюгера",
+    "slug": "nats-park-kryugera",
+    "country": "south-africa",
+    "countryName": "ЮАР",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "нац. парк Крюгера — популярное направление в стране ЮАР.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Буэнос-Айрес",
+    "slug": "buenos-ayres",
+    "country": "argentina",
+    "countryName": "Аргентина",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Буэнос-Айрес — популярное направление в стране Аргентина.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Игуасу",
+    "slug": "iguasu",
+    "country": "argentina",
+    "countryName": "Аргентина",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Игуасу — популярное направление в стране Аргентина.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ушуая",
+    "slug": "ushuaya",
+    "country": "argentina",
+    "countryName": "Аргентина",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ушуая — популярное направление в стране Аргентина.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Мендоса",
+    "slug": "mendosa",
+    "country": "argentina",
+    "countryName": "Аргентина",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Мендоса — популярное направление в стране Аргентина.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Рио-де-Жанейро",
+    "slug": "rio-de-zhaneyro",
+    "country": "brazil",
+    "countryName": "Бразилия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Рио-де-Жанейро — популярное направление в стране Бразилия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Амазония",
+    "slug": "amazoniya",
+    "country": "brazil",
+    "countryName": "Бразилия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Амазония — популярное направление в стране Бразилия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бузиос",
+    "slug": "buzios",
+    "country": "brazil",
+    "countryName": "Бразилия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бузиос — популярное направление в стране Бразилия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Игуасу",
+    "slug": "iguasu",
+    "country": "brazil",
+    "countryName": "Бразилия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Игуасу — популярное направление в стране Бразилия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Пунта-Кана",
+    "slug": "punta-kana",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Пунта-Кана — популярное направление в стране Доминикана.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ла-Романа",
+    "slug": "la-romana",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ла-Романа — популярное направление в стране Доминикана.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Самана",
+    "slug": "samana",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Самана — популярное направление в стране Доминикана.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Богота",
+    "slug": "bogota",
+    "country": "colombia",
+    "countryName": "Колумбия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Богота — популярное направление в стране Колумбия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Картахена",
+    "slug": "kartakhena",
+    "country": "colombia",
+    "countryName": "Колумбия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Картахена — популярное направление в стране Колумбия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сан-Хосе",
+    "slug": "san-khose",
+    "country": "costa-rica",
+    "countryName": "Коста-Рика",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сан-Хосе — популярное направление в стране Коста-Рика.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "вулкан Ареналь",
+    "slug": "vulkan-arenal",
+    "country": "costa-rica",
+    "countryName": "Коста-Рика",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "вулкан Ареналь — популярное направление в стране Коста-Рика.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Папагайо",
+    "slug": "papagayo",
+    "country": "costa-rica",
+    "countryName": "Коста-Рика",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Папагайо — популярное направление в стране Коста-Рика.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Лима",
+    "slug": "lima",
+    "country": "peru",
+    "countryName": "Перу",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Лима — популярное направление в стране Перу.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Куско",
+    "slug": "kusko",
+    "country": "peru",
+    "countryName": "Перу",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Куско — популярное направление в стране Перу.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Мачу-Пикчу",
+    "slug": "machu-pikchu",
+    "country": "peru",
+    "countryName": "Перу",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Мачу-Пикчу — популярное направление в стране Перу.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Арекипа",
+    "slug": "arekipa",
+    "country": "peru",
+    "countryName": "Перу",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Арекипа — популярное направление в стране Перу.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кито",
+    "slug": "kito",
+    "country": "ecuador",
+    "countryName": "Эквадор",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кито — популярное направление в стране Эквадор.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Гуаякиль",
+    "slug": "guayakil",
+    "country": "ecuador",
+    "countryName": "Эквадор",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Гуаякиль — популярное направление в стране Эквадор.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Галапагосские острова",
+    "slug": "galapagosskie-ostrova",
+    "country": "ecuador",
+    "countryName": "Эквадор",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Галапагосские острова — популярное направление в стране Эквадор.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Сидней",
+    "slug": "sidney",
+    "country": "australia",
+    "countryName": "Австралия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Сидней — популярное направление в стране Австралия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Мельбурн",
+    "slug": "melburn",
+    "country": "australia",
+    "countryName": "Австралия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Мельбурн — популярное направление в стране Австралия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Золотой берег",
+    "slug": "zolotoy-bereg",
+    "country": "australia",
+    "countryName": "Австралия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Золотой берег — популярное направление в стране Австралия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Кэрнс",
+    "slug": "kerns",
+    "country": "australia",
+    "countryName": "Австралия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Кэрнс — популярное направление в стране Австралия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Барьерный риф",
+    "slug": "barernyy-rif",
+    "country": "australia",
+    "countryName": "Австралия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Барьерный риф — популярное направление в стране Австралия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Окленд",
+    "slug": "oklend",
+    "country": "new-zealand",
+    "countryName": "Новая Зеландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Окленд — популярное направление в стране Новая Зеландия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Роторуа",
+    "slug": "rotorua",
+    "country": "new-zealand",
+    "countryName": "Новая Зеландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Роторуа — популярное направление в стране Новая Зеландия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бей-оф-Айлендс",
+    "slug": "bey-of-aylends",
+    "country": "new-zealand",
+    "countryName": "Новая Зеландия",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бей-оф-Айлендс — популярное направление в стране Новая Зеландия.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бора-Бора",
+    "slug": "bora-bora",
+    "country": "tahiti",
+    "countryName": "Таити",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бора-Бора — популярное направление в стране Таити.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Муреа",
+    "slug": "murea",
+    "country": "tahiti",
+    "countryName": "Таити",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Муреа — популярное направление в стране Таити.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Рангироа",
+    "slug": "rangiroa",
+    "country": "tahiti",
+    "countryName": "Таити",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Рангироа — популярное направление в стране Таити.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Вити-Леву",
+    "slug": "viti-levu",
+    "country": "fiji",
+    "countryName": "Фиджи",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Вити-Леву — популярное направление в стране Фиджи.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Вануа-Леву",
+    "slug": "vanua-levu",
+    "country": "fiji",
+    "countryName": "Фиджи",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Вануа-Леву — популярное направление в стране Фиджи.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Маманута",
+    "slug": "mamanuta",
+    "country": "fiji",
+    "countryName": "Фиджи",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Маманута — популярное направление в стране Фиджи.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Баку",
+    "slug": "baku",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Баку — популярное направление в стране Азербайджан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Габала",
+    "slug": "gabala",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Габала — популярное направление в стране Азербайджан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ленкорань",
+    "slug": "lenkoran",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ленкорань — популярное направление в стране Азербайджан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Шахдаг",
+    "slug": "shakhdag",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Шахдаг — популярное направление в стране Азербайджан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ереван",
+    "slug": "erevan",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ереван — популярное направление в стране Армения.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Джермук",
+    "slug": "dzhermuk",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Джермук — популярное направление в стране Армения.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Минск",
+    "slug": "minsk",
+    "country": "belarus",
+    "countryName": "Беларусь",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Минск — популярное направление в стране Беларусь.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Брест",
+    "slug": "brest",
+    "country": "belarus",
+    "countryName": "Беларусь",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Брест — популярное направление в стране Беларусь.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Витебск",
+    "slug": "vitebsk",
+    "country": "belarus",
+    "countryName": "Беларусь",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Витебск — популярное направление в стране Беларусь.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Гродно",
+    "slug": "grodno",
+    "country": "belarus",
+    "countryName": "Беларусь",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Гродно — популярное направление в стране Беларусь.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Ташкент",
+    "slug": "tashkent",
+    "country": "uzbekistan",
+    "countryName": "Узбекистан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Ташкент — популярное направление в стране Узбекистан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Самарканд",
+    "slug": "samarkand",
+    "country": "uzbekistan",
+    "countryName": "Узбекистан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Самарканд — популярное направление в стране Узбекистан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Бухара",
+    "slug": "bukhara",
+    "country": "uzbekistan",
+    "countryName": "Узбекистан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Бухара — популярное направление в стране Узбекистан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
+    ]
+  },
+  {
+    "name": "Хива",
+    "slug": "khiva",
+    "country": "uzbekistan",
+    "countryName": "Узбекистан",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Хива — популярное направление в стране Узбекистан.",
+    "highlights": [
+      "[ТЕКСТ ОТ ЗАКАЗЧИКА]"
     ]
   }
 ]
