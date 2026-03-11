@@ -574,5 +574,101 @@
     "visa": "Электронное разрешение",
     "flight": "24+ часа из Москвы",
     "cities": ["auckland", "queenstown", "wellington", "rotorua", "milford-sound"]
+  },
+  {
+    "name": "Болгария",
+    "slug": "bulgaria",
+    "region": "Европа",
+    "image": "https://images.unsplash.com/photo-1601284620121-8af05c54731b?w=1200",
+    "description": "Золотые пески, горнолыжные курорты и доступные цены. Бюджетный отдых на Чёрном море.",
+    "climate": "Умеренно-континентальный. Жаркое лето на побережье.",
+    "bestTime": "Июнь — сентябрь (пляж), декабрь — март (лыжи)",
+    "visa": "Шенген или национальная",
+    "flight": "2.5 часа из Москвы",
+    "cities": ["sofia", "varna", "burgas", "sunny-beach", "bansko", "plovdiv"]
+  },
+  {
+    "name": "Тунис",
+    "slug": "tunisia",
+    "region": "Африка",
+    "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=1200",
+    "description": "Средиземноморские пляжи, талассотерапия и руины Карфагена. Доступная Африка.",
+    "climate": "Средиземноморский на севере, пустынный на юге.",
+    "bestTime": "Апрель — июнь, сентябрь — октябрь",
+    "visa": "Не нужна до 90 дней",
+    "flight": "4 часа из Москвы",
+    "cities": ["tunis", "hammamet", "sousse", "djerba", "carthage"]
+  },
+  {
+    "name": "Словения",
+    "slug": "slovenia",
+    "region": "Европа",
+    "image": "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=1200",
+    "description": "Озеро Блед, Альпы и пещеры. Компактная зелёная страна между Италией и Хорватией.",
+    "climate": "Умеренный континентальный, средиземноморский на побережье.",
+    "bestTime": "Май — сентябрь",
+    "visa": "Шенген",
+    "flight": "2.5 часа из Москвы",
+    "cities": ["ljubljana", "bled", "piran", "postojna", "bohinj"]
+  },
+  {
+    "name": "Венгрия",
+    "slug": "hungary",
+    "region": "Европа",
+    "image": "https://images.unsplash.com/photo-1551867633-194f125bddfa?w=1200",
+    "description": "Будапешт, термальные купальни и гуляш. Роскошная архитектура и доступные цены.",
+    "climate": "Умеренно-континентальный. Тёплое лето, холодная зима.",
+    "bestTime": "Апрель — октябрь",
+    "visa": "Шенген",
+    "flight": "2.5 часа из Москвы",
+    "cities": ["budapest", "balaton", "eger", "szentendre", "heviz"]
+  },
+  {
+    "name": "Польша",
+    "slug": "poland",
+    "region": "Европа",
+    "image": "https://images.unsplash.com/photo-1519197924294-4ba991a11128?w=1200",
+    "description": "Краков, Варшава и Татры. История, культура и гостеприимство за разумные деньги.",
+    "climate": "Умеренный. Тёплое лето, снежная зима.",
+    "bestTime": "Май — сентябрь, декабрь (рождественские ярмарки)",
+    "visa": "Шенген",
+    "flight": "2 часа из Москвы",
+    "cities": ["warsaw", "krakow", "gdansk", "wroclaw", "zakopane", "poznan"]
+  },
+  {
+    "name": "Бельгия",
+    "slug": "belgium",
+    "region": "Европа",
+    "image": "https://images.unsplash.com/photo-1559113513-d5e09c78b9dd?w=1200",
+    "description": "Брюссель, шоколад, вафли и пиво. Компактная страна с богатой историей.",
+    "climate": "Умеренный морской. Мягкий климат круглый год.",
+    "bestTime": "Апрель — октябрь",
+    "visa": "Шенген",
+    "flight": "3.5 часа из Москвы",
+    "cities": ["brussels", "bruges", "ghent", "antwerp"]
+  },
+  {
+    "name": "Узбекистан",
+    "slug": "uzbekistan",
+    "region": "Азия",
+    "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=1200",
+    "description": "Самарканд, Бухара и Шёлковый путь. Древние города с бирюзовыми куполами.",
+    "climate": "Резко континентальный. Жаркое лето, холодная зима.",
+    "bestTime": "Апрель — июнь, сентябрь — октябрь",
+    "visa": "Не нужна до 30 дней",
+    "flight": "3.5 часа из Москвы",
+    "cities": ["samarkand", "bukhara", "khiva", "tashkent", "fergana"]
+  },
+  {
+    "name": "Абхазия",
+    "slug": "abkhazia",
+    "region": "Кавказ",
+    "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=1200",
+    "description": "Субтропики и горы рядом с Россией. Озеро Рица, Гагра и советская ностальгия.",
+    "climate": "Субтропический влажный на побережье.",
+    "bestTime": "Май — октябрь",
+    "visa": "Не нужна для граждан РФ",
+    "flight": "2 часа до Сочи + трансфер",
+    "cities": ["gagra", "pitsunda", "sukhumi", "new-athos", "ritsa"]
   }
 ]
