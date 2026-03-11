@@ -1,0 +1,60 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import HeroBanner from '../../components/HeroBanner.astro'
+import RequestForm from '../../components/RequestForm.astro'
+import cities from '../../data/cities.json'
+
+// Группируем города по странам
+const citiesByCountry = cities.reduce((acc, city) => {
+  if (!acc[city.countryName]) {
+    acc[city.countryName] = []
+  }
+  acc[city.countryName].push(city)
+  return acc
+}, {} as Record<string, typeof cities>)
+---
+
+<Layout title="Города и курорты" description="Более 250 городов и курортов по всему миру. Выберите место для вашего путешествия.">
+  <HeroBanner 
+    title="Города и курорты"
+    subtitle="Откройте лучшие места для отдыха"
+    image="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=1920"
+  />
+
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      {Object.entries(citiesByCountry).map(([countryName, countryCities]) => (
+        <div class="mb-12">
+          <h2 class="text-2xl font-bold text-[var(--color-primary)] mb-6 flex items-center gap-3">
+            <span class="w-2 h-8 bg-[var(--color-secondary)] rounded-full"></span>
+            {countryName}
+          </h2>
+          
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {countryCities.map(city => (
+              <a 
+                href={`/cities/${city.slug}`}
+                class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-shadow"
+              >
+                <div class="relative h-40 overflow-hidden">
+                  <img 
+                    src={city.image} 
+                    alt={city.name}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                  />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+                  <h3 class="absolute bottom-3 left-4 text-white text-lg font-bold">{city.name}</h3>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+
+    </div>
+  </section>
+
+  <RequestForm source="cities-list" />
+</Layout>

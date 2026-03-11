@@ -1,0 +1,155 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import HeroBanner from '../../components/HeroBanner.astro'
+import RequestForm from '../../components/RequestForm.astro'
+import cities from '../../data/cities.json'
+import countries from '../../data/countries.json'
+
+export function getStaticPaths() {
+  return cities.map(city => ({
+    params: { slug: city.slug },
+    props: { city }
+  }))
+}
+
+const { city } = Astro.props
+const country = countries.find(c => c.slug === city.country)
+
+// Другие города этой страны
+const otherCities = cities.filter(c => c.country === city.country && c.slug !== city.slug)
+---
+
+<Layout title={`${city.name}, ${city.countryName}`} description={city.description}>
+  <HeroBanner 
+    title={city.name}
+    subtitle={city.countryName}
+    image={city.image}
+  />
+
+  <!-- Хлебные крошки -->
+  <div class="bg-gray-50 border-b">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+      <nav class="flex items-center gap-2 text-sm text-gray-600">
+        <a href="/" class="hover:text-[var(--color-primary)]">Главная</a>
+        <span>/</span>
+        <a href="/countries" class="hover:text-[var(--color-primary)]">Страны</a>
+        <span>/</span>
+        <a href={`/countries/${city.country}`} class="hover:text-[var(--color-primary)]">{city.countryName}</a>
+        <span>/</span>
+        <span class="text-[var(--color-primary)] font-medium">{city.name}</span>
+      </nav>
+    </div>
+  </div>
+
+  <section class="py-12 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+        
+        <!-- Основной контент -->
+        <div class="lg:col-span-2">
+          <h2 class="text-2xl font-bold text-[var(--color-primary)] mb-6">О курорте</h2>
+          <p class="text-gray-700 text-lg leading-relaxed mb-8">
+            {city.description}
+          </p>
+
+          <!-- Что посмотреть -->
+          {city.highlights && city.highlights.length > 0 && (
+            <div class="bg-[var(--color-light)] rounded-xl p-6 mb-8">
+              <h3 class="text-xl font-semibold text-[var(--color-primary)] mb-4 flex items-center gap-2">
+                <span>⭐</span> Что посмотреть
+              </h3>
+              <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {city.highlights.map((item: string) => (
+                  <li class="flex items-center gap-2 text-gray-700">
+                    <svg class="w-5 h-5 text-[var(--color-secondary)]" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+                    </svg>
+                    {item}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          <!-- Виджет погоды (заглушка) -->
+          <div class="bg-gradient-to-r from-blue-500 to-blue-600 rounded-xl p-6 text-white mb-8">
+            <h3 class="text-xl font-semibold mb-4 flex items-center gap-2">
+              <span>🌤️</span> Погода в {city.name}
+            </h3>
+            <div class="flex items-center gap-8">
+              <div class="text-5xl font-light">28°C</div>
+              <div class="text-blue-100">
+                <p>Переменная облачность</p>
+                <p class="text-sm mt-1">Влажность: 65% • Ветер: 12 км/ч</p>
+              </div>
+            </div>
+            <p class="text-xs text-blue-200 mt-4">* Данные погоды будут подключены позже</p>
+          </div>
+
+          <!-- Другие города страны -->
+          {otherCities.length > 0 && (
+            <div>
+              <h3 class="text-xl font-semibold text-[var(--color-primary)] mb-4">
+                Другие города {city.countryName}
+              </h3>
+              <div class="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                {otherCities.slice(0, 6).map(otherCity => (
+                  <a 
+                    href={`/cities/${otherCity.slug}`}
+                    class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                  >
+                    <img 
+                      src={otherCity.image} 
+                      alt={otherCity.name}
+                      class="w-12 h-12 object-cover rounded-lg"
+                      loading="lazy"
+                    />
+                    <span class="font-medium text-gray-800">{otherCity.name}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+
+        <!-- Сайдбар -->
+        <aside>
+          <div class="sticky top-24 space-y-6">
+            
+            <!-- CTA -->
+            <div class="bg-[var(--color-primary)] text-white rounded-xl p-6">
+              <h3 class="text-xl font-bold mb-3">Хотите в {city.name}?</h3>
+              <p class="text-gray-300 mb-6 text-sm">Оставьте заявку — подберём лучшие отели и экскурсии</p>
+              <a 
+                href="#request-form"
+                class="block text-center bg-[var(--color-secondary)] py-3 rounded-lg font-semibold hover:bg-[var(--color-secondary)]/90 transition-colors"
+              >
+                Подобрать тур
+              </a>
+            </div>
+
+            <!-- Информация о стране -->
+            {country && (
+              <div class="bg-white border border-gray-200 rounded-xl p-6">
+                <h3 class="font-bold text-[var(--color-primary)] mb-4">О стране</h3>
+                <a href={`/countries/${country.slug}`} class="block group">
+                  <img 
+                    src={country.image} 
+                    alt={country.name}
+                    class="w-full h-32 object-cover rounded-lg mb-3 group-hover:opacity-90 transition-opacity"
+                  />
+                  <h4 class="font-semibold text-gray-800 group-hover:text-[var(--color-primary)]">{country.name}</h4>
+                  <p class="text-sm text-gray-500 mt-1">Лучшее время: {country.bestTime}</p>
+                </a>
+              </div>
+            )}
+
+          </div>
+        </aside>
+
+      </div>
+    </div>
+  </section>
+
+  <RequestForm source={`city-${city.slug}`} />
+</Layout>
