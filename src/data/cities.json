@@ -6,7 +6,12 @@
     "countryName": "Мальдивы",
     "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1200",
     "description": "Столица Мальдив — компактный островной город с мечетями, рынками и колоритной набережной. Отправная точка для трансфера на курортные атоллы.",
-    "highlights": ["Пятничная мечеть", "Рыбный рынок", "Национальный музей", "Парк Султана"]
+    "highlights": [
+      "Пятничная мечеть",
+      "Рыбный рынок",
+      "Национальный музей",
+      "Парк Султана"
+    ]
   },
   {
     "name": "Маафуши",
@@ -15,7 +20,12 @@
     "countryName": "Мальдивы",
     "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=1200",
     "description": "Популярный локальный остров с бюджетными гестхаусами и отличным снорклингом. Бикини-пляж и экскурсии на соседние атоллы.",
-    "highlights": ["Бикини-пляж", "Снорклинг с акулами", "Дайвинг-центры", "Экскурсии на песчаные отмели"]
+    "highlights": [
+      "Бикини-пляж",
+      "Снорклинг с акулами",
+      "Дайвинг-центры",
+      "Экскурсии на песчаные отмели"
+    ]
   },
   {
     "name": "Хулхумале",
@@ -24,7 +34,12 @@
     "countryName": "Мальдивы",
     "image": "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=1200",
     "description": "Искусственный остров рядом с аэропортом. Современная инфраструктура, длинный пляж и удобный транзит.",
-    "highlights": ["Центральный пляж", "Близость к аэропорту", "Кафе и рестораны", "Водные виды спорта"]
+    "highlights": [
+      "Центральный пляж",
+      "Близость к аэропорту",
+      "Кафе и рестораны",
+      "Водные виды спорта"
+    ]
   },
   {
     "name": "Бангкок",
@@ -33,7 +48,13 @@
     "countryName": "Таиланд",
     "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1200",
     "description": "Столица Таиланда — мегаполис контрастов с древними храмами, небоскрёбами, уличной едой и бурной ночной жизнью.",
-    "highlights": ["Храм Ват Пхо", "Королевский дворец", "Каосан Роуд", "Плавучие рынки", "Скайбары"]
+    "highlights": [
+      "Храм Ват Пхо",
+      "Королевский дворец",
+      "Каосан Роуд",
+      "Плавучие рынки",
+      "Скайбары"
+    ]
   },
   {
     "name": "Пхукет",
@@ -42,7 +63,13 @@
     "countryName": "Таиланд",
     "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=1200",
     "description": "Крупнейший остров Таиланда с десятками пляжей, от тусовочного Патонга до спокойного Най Харна.",
-    "highlights": ["Патонг Бич", "Старый город", "Большой Будда", "Мыс Промтеп", "Острова Пхи-Пхи"]
+    "highlights": [
+      "Патонг Бич",
+      "Старый город",
+      "Большой Будда",
+      "Мыс Промтеп",
+      "Острова Пхи-Пхи"
+    ]
   },
   {
     "name": "Паттайя",
@@ -51,7 +78,12 @@
     "countryName": "Таиланд",
     "image": "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=1200",
     "description": "Курорт на берегу Сиамского залива в 2 часах от Бангкока. Пляжи, шоу, аквапарки и активная ночная жизнь.",
-    "highlights": ["Уокинг Стрит", "Храм Истины", "Коралловый остров", "Аквапарк Рамаяна"]
+    "highlights": [
+      "Уокинг Стрит",
+      "Храм Истины",
+      "Коралловый остров",
+      "Аквапарк Рамаяна"
+    ]
   },
   {
     "name": "Краби",
@@ -60,7 +92,12 @@
     "countryName": "Таиланд",
     "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=1200",
     "description": "Провинция с драматическими известняковыми скалами, джунглями и райскими островами. Рейлей-бич — мекка скалолазов.",
-    "highlights": ["Рейлей Бич", "Острова 4-х островов", "Изумрудное озеро", "Храм Тигра"]
+    "highlights": [
+      "Рейлей Бич",
+      "Острова 4-х островов",
+      "Изумрудное озеро",
+      "Храм Тигра"
+    ]
   },
   {
     "name": "Самуи",
@@ -69,7 +106,12 @@
     "countryName": "Таиланд",
     "image": "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=1200",
     "description": "Остров с кокосовыми пальмами, люксовыми резортами и расслабленной атмосферой. Ворота к острову Пханган.",
-    "highlights": ["Чавенг Бич", "Храм Большого Будды", "Водопад Намуанг", "Национальный парк Анг Тонг"]
+    "highlights": [
+      "Чавенг Бич",
+      "Храм Большого Будды",
+      "Водопад Намуанг",
+      "Национальный парк Анг Тонг"
+    ]
   },
   {
     "name": "Дубай",
@@ -78,7 +120,13 @@
     "countryName": "ОАЭ",
     "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200",
     "description": "Город будущего с небоскрёбами, торговыми моллами и искусственными островами. Роскошь, шоппинг и развлечения.",
-    "highlights": ["Бурдж-Халифа", "Дубай Молл", "Пальма Джумейра", "Старый город", "Пустынное сафари"]
+    "highlights": [
+      "Бурдж-Халифа",
+      "Дубай Молл",
+      "Пальма Джумейра",
+      "Старый город",
+      "Пустынное сафари"
+    ]
   },
   {
     "name": "Абу-Даби",
@@ -87,7 +135,12 @@
     "countryName": "ОАЭ",
     "image": "https://images.unsplash.com/photo-1558452919-bc053b973f11?w=1200",
     "description": "Столица ОАЭ — более спокойная альтернатива Дубаю с культурными достопримечательностями и премиальными отелями.",
-    "highlights": ["Мечеть шейха Зайда", "Лувр Абу-Даби", "Остров Яс", "Ferrari World"]
+    "highlights": [
+      "Мечеть шейха Зайда",
+      "Лувр Абу-Даби",
+      "Остров Яс",
+      "Ferrari World"
+    ]
   },
   {
     "name": "Шарджа",
@@ -96,7 +149,12 @@
     "countryName": "ОАЭ",
     "image": "https://images.unsplash.com/photo-1581804726379-d6896c9e4d49?w=1200",
     "description": "Культурная столица ОАЭ с музеями, галереями и традиционными рынками. Более консервативная и бюджетная.",
-    "highlights": ["Музей исламской цивилизации", "Голубой рынок", "Набережная Аль-Касба", "Аквариум"]
+    "highlights": [
+      "Музей исламской цивилизации",
+      "Голубой рынок",
+      "Набережная Аль-Касба",
+      "Аквариум"
+    ]
   },
   {
     "name": "Рас-эль-Хайма",
@@ -105,7 +163,12 @@
     "countryName": "ОАЭ",
     "image": "https://images.unsplash.com/photo-1586181196105-e8a7f78c9f8e?w=1200",
     "description": "Северный эмират с горами, пустыней и пляжами. Приключенческий туризм и спокойный отдых.",
-    "highlights": ["Гора Джебель Джайс", "Зиплайн", "Пустынный кемпинг", "Горячие источники"]
+    "highlights": [
+      "Гора Джебель Джайс",
+      "Зиплайн",
+      "Пустынный кемпинг",
+      "Горячие источники"
+    ]
   },
   {
     "name": "Стамбул",
@@ -114,7 +177,13 @@
     "countryName": "Турция",
     "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=1200",
     "description": "Город на двух континентах с тысячелетней историей. Мечети, дворцы, базары и вид на Босфор.",
-    "highlights": ["Айя-София", "Голубая мечеть", "Гранд-базар", "Дворец Топкапы", "Босфорский круиз"]
+    "highlights": [
+      "Айя-София",
+      "Голубая мечеть",
+      "Гранд-базар",
+      "Дворец Топкапы",
+      "Босфорский круиз"
+    ]
   },
   {
     "name": "Анталья",
@@ -123,7 +192,12 @@
     "countryName": "Турция",
     "image": "https://images.unsplash.com/photo-1593238739364-18cfde865947?w=1200",
     "description": "Главный курортный регион Турции. Песчаные пляжи, горы, античные руины и система «всё включено».",
-    "highlights": ["Старый город Калеичи", "Водопады Дюден", "Пляж Коньяалты", "Античный Аспендос"]
+    "highlights": [
+      "Старый город Калеичи",
+      "Водопады Дюден",
+      "Пляж Коньяалты",
+      "Античный Аспендос"
+    ]
   },
   {
     "name": "Бодрум",
@@ -132,7 +206,12 @@
     "countryName": "Турция",
     "image": "https://images.unsplash.com/photo-1568322503363-556c9add7e06?w=1200",
     "description": "Турецкий Сен-Тропе на Эгейском море. Белоснежные домики, яхты, клубы и богемная атмосфера.",
-    "highlights": ["Замок Святого Петра", "Античный театр", "Пляж Битез", "Ночные клубы"]
+    "highlights": [
+      "Замок Святого Петра",
+      "Античный театр",
+      "Пляж Битез",
+      "Ночные клубы"
+    ]
   },
   {
     "name": "Мармарис",
@@ -141,7 +220,12 @@
     "countryName": "Турция",
     "image": "https://images.unsplash.com/photo-1601922397014-4b1f4949dfa1?w=1200",
     "description": "Курорт в живописной бухте на стыке Эгейского и Средиземного морей. Яхтинг и активная ночная жизнь.",
-    "highlights": ["Набережная", "Замок Мармарис", "Бар-стрит", "Остров Клеопатры"]
+    "highlights": [
+      "Набережная",
+      "Замок Мармарис",
+      "Бар-стрит",
+      "Остров Клеопатры"
+    ]
   },
   {
     "name": "Фетхие",
@@ -150,7 +234,12 @@
     "countryName": "Турция",
     "image": "https://images.unsplash.com/photo-1605809038051-e5c0e8c1d965?w=1200",
     "description": "Уютный город с бирюзовой лагуной Олюдениз и ликийскими гробницами. Параглайдинг с горы Бабадаг.",
-    "highlights": ["Голубая лагуна Олюдениз", "Параглайдинг", "Ликийский путь", "Долина бабочек"]
+    "highlights": [
+      "Голубая лагуна Олюдениз",
+      "Параглайдинг",
+      "Ликийский путь",
+      "Долина бабочек"
+    ]
   },
   {
     "name": "Аланья",
@@ -159,7 +248,12 @@
     "countryName": "Турция",
     "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=1200",
     "description": "Популярный курорт с песчаными пляжами, крепостью на скале и демократичными ценами.",
-    "highlights": ["Крепость Аланьи", "Пляж Клеопатры", "Пещера Дамлаташ", "Красная башня"]
+    "highlights": [
+      "Крепость Аланьи",
+      "Пляж Клеопатры",
+      "Пещера Дамлаташ",
+      "Красная башня"
+    ]
   },
   {
     "name": "Рим",
@@ -168,7 +262,13 @@
     "countryName": "Италия",
     "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1200",
     "description": "Вечный город с Колизеем, Ватиканом и фонтанами. Две тысячи лет истории на каждом шагу.",
-    "highlights": ["Колизей", "Ватикан", "Фонтан Треви", "Пантеон", "Испанская лестница"]
+    "highlights": [
+      "Колизей",
+      "Ватикан",
+      "Фонтан Треви",
+      "Пантеон",
+      "Испанская лестница"
+    ]
   },
   {
     "name": "Венеция",
@@ -177,7 +277,12 @@
     "countryName": "Италия",
     "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=1200",
     "description": "Город на воде с каналами вместо улиц, гондолами и карнавальными масками. Романтика и искусство.",
-    "highlights": ["Площадь Сан-Марко", "Гранд-канал", "Мост Риальто", "Острова Мурано и Бурано"]
+    "highlights": [
+      "Площадь Сан-Марко",
+      "Гранд-канал",
+      "Мост Риальто",
+      "Острова Мурано и Бурано"
+    ]
   },
   {
     "name": "Флоренция",
@@ -186,7 +291,12 @@
     "countryName": "Италия",
     "image": "https://images.unsplash.com/photo-1543429258-0709c42946c7?w=1200",
     "description": "Колыбель Ренессанса с шедеврами Микеланджело и Боттичелли. Тосканская кухня и вино.",
-    "highlights": ["Галерея Уффици", "Собор Дуомо", "Понте Веккьо", "Давид Микеланджело"]
+    "highlights": [
+      "Галерея Уффици",
+      "Собор Дуомо",
+      "Понте Веккьо",
+      "Давид Микеланджело"
+    ]
   },
   {
     "name": "Милан",
@@ -195,7 +305,12 @@
     "countryName": "Италия",
     "image": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?w=1200",
     "description": "Столица моды и дизайна. Готический собор, оперный театр Ла Скала и бутики мировых брендов.",
-    "highlights": ["Дуомо", "Галерея Виктора Эммануила", "Тайная вечеря", "Квартал Навильи"]
+    "highlights": [
+      "Дуомо",
+      "Галерея Виктора Эммануила",
+      "Тайная вечеря",
+      "Квартал Навильи"
+    ]
   },
   {
     "name": "Неаполь",
@@ -204,7 +319,12 @@
     "countryName": "Италия",
     "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=1200",
     "description": "Шумный южный город у подножия Везувия. Родина пиццы и ворота на Амальфитанское побережье.",
-    "highlights": ["Помпеи", "Везувий", "Исторический центр", "Остров Капри"]
+    "highlights": [
+      "Помпеи",
+      "Везувий",
+      "Исторический центр",
+      "Остров Капри"
+    ]
   },
   {
     "name": "Амальфи",
@@ -213,7 +333,12 @@
     "countryName": "Италия",
     "image": "https://images.unsplash.com/photo-1533934190375-a3d0fa3a2c6b?w=1200",
     "description": "Живописное побережье с разноцветными домиками на скалах. Лимончелло, серпантины и романтика.",
-    "highlights": ["Позитано", "Равелло", "Собор Амальфи", "Тропа богов"]
+    "highlights": [
+      "Позитано",
+      "Равелло",
+      "Собор Амальфи",
+      "Тропа богов"
+    ]
   },
   {
     "name": "Афины",
@@ -222,7 +347,12 @@
     "countryName": "Греция",
     "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200",
     "description": "Колыбель демократии с Акрополем и Парфеноном. Античность, таверны и средиземноморский ритм жизни.",
-    "highlights": ["Акрополь", "Плака", "Храм Зевса", "Национальный музей"]
+    "highlights": [
+      "Акрополь",
+      "Плака",
+      "Храм Зевса",
+      "Национальный музей"
+    ]
   },
   {
     "name": "Санторини",
@@ -231,7 +361,13 @@
     "countryName": "Греция",
     "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200",
     "description": "Остров-открытка с белыми домами и синими куполами на краю вулканической кальдеры. Закаты в Ойе.",
-    "highlights": ["Закат в Ойе", "Фира", "Красный пляж", "Винодельни", "Круиз на вулкан"]
+    "highlights": [
+      "Закат в Ойе",
+      "Фира",
+      "Красный пляж",
+      "Винодельни",
+      "Круиз на вулкан"
+    ]
   },
   {
     "name": "Миконос",
@@ -240,7 +376,12 @@
     "countryName": "Греция",
     "image": "https://images.unsplash.com/photo-1601581875039-e899893d520c?w=1200",
     "description": "Остров вечеринок и богемы. Ветряные мельницы, лабиринты улочек и пляжные клубы.",
-    "highlights": ["Маленькая Венеция", "Ветряные мельницы", "Пляж Парадайз", "Делос"]
+    "highlights": [
+      "Маленькая Венеция",
+      "Ветряные мельницы",
+      "Пляж Парадайз",
+      "Делос"
+    ]
   },
   {
     "name": "Родос",
@@ -249,7 +390,12 @@
     "countryName": "Греция",
     "image": "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?w=1200",
     "description": "Остров рыцарей с средневековым городом-крепостью. Пляжи, античность и греческое гостеприимство.",
-    "highlights": ["Старый город", "Дворец Великих магистров", "Линдос", "Долина бабочек"]
+    "highlights": [
+      "Старый город",
+      "Дворец Великих магистров",
+      "Линдос",
+      "Долина бабочек"
+    ]
   },
   {
     "name": "Крит",
@@ -258,7 +404,12 @@
     "countryName": "Греция",
     "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1200",
     "description": "Крупнейший греческий остров с минойскими дворцами, ущельями и лучшими пляжами Средиземноморья.",
-    "highlights": ["Кносский дворец", "Самарийское ущелье", "Пляж Элафониси", "Ханья"]
+    "highlights": [
+      "Кносский дворец",
+      "Самарийское ущелье",
+      "Пляж Элафониси",
+      "Ханья"
+    ]
   },
   {
     "name": "Корфу",
@@ -267,6 +418,1879 @@
     "countryName": "Греция",
     "image": "https://images.unsplash.com/photo-1588942262473-c0ec94e254b1?w=1200",
     "description": "Зелёный остров с венецианским наследием. Оливковые рощи, уютные бухты и дворец Ахиллеон.",
-    "highlights": ["Керкира", "Дворец Ахиллеон", "Палеокастрица", "Канал любви"]
+    "highlights": [
+      "Керкира",
+      "Дворец Ахиллеон",
+      "Палеокастрица",
+      "Канал любви"
+    ]
+  },
+  {
+    "name": "Каир",
+    "slug": "cairo",
+    "country": "egypt",
+    "countryName": "Египет",
+    "image": "https://images.pexels.com/photos/3290068/pexels-photo-3290068.jpeg?w=800",
+    "description": "Столица Египта у подножия пирамид Гизы.",
+    "highlights": [
+      "Пирамиды Гизы",
+      "Сфинкс",
+      "Египетский музей"
+    ]
+  },
+  {
+    "name": "Шарм-эль-Шейх",
+    "slug": "sharm-el-sheikh",
+    "country": "egypt",
+    "countryName": "Египет",
+    "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?w=800",
+    "description": "Главный курорт Красного моря.",
+    "highlights": [
+      "Рас-Мохаммед",
+      "Дайвинг",
+      "Наама-Бей"
+    ]
+  },
+  {
+    "name": "Хургада",
+    "slug": "hurghada",
+    "country": "egypt",
+    "countryName": "Египет",
+    "image": "https://images.pexels.com/photos/1450354/pexels-photo-1450354.jpeg?w=800",
+    "description": "Популярный курорт с песчаными пляжами.",
+    "highlights": [
+      "Пляжи",
+      "Острова Гифтун",
+      "Аквариум"
+    ]
+  },
+  {
+    "name": "Луксор",
+    "slug": "luxor",
+    "country": "egypt",
+    "countryName": "Египет",
+    "image": "https://images.pexels.com/photos/2583852/pexels-photo-2583852.jpeg?w=800",
+    "description": "Город-музей с храмами и Долиной Царей.",
+    "highlights": [
+      "Карнакский храм",
+      "Долина Царей",
+      "Храм Хатшепсут"
+    ]
+  },
+  {
+    "name": "Барселона",
+    "slug": "barcelona",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?w=800",
+    "description": "Столица Каталонии с архитектурой Гауди.",
+    "highlights": [
+      "Саграда Фамилия",
+      "Парк Гуэль",
+      "Ла Рамбла"
+    ]
+  },
+  {
+    "name": "Мадрид",
+    "slug": "madrid",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/3254729/pexels-photo-3254729.jpeg?w=800",
+    "description": "Столица с музеями и тапас-барами.",
+    "highlights": [
+      "Прадо",
+      "Королевский дворец",
+      "Парк Ретиро"
+    ]
+  },
+  {
+    "name": "Валенсия",
+    "slug": "valencia",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1388014/pexels-photo-1388014.jpeg?w=800",
+    "description": "Родина паэльи с Городом искусств.",
+    "highlights": [
+      "Город искусств и наук",
+      "Пляж Мальваросса"
+    ]
+  },
+  {
+    "name": "Севилья",
+    "slug": "seville",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/3889704/pexels-photo-3889704.jpeg?w=800",
+    "description": "Душа Андалусии — фламенко и тапас.",
+    "highlights": [
+      "Алькасар",
+      "Площадь Испании",
+      "Кафедральный собор"
+    ]
+  },
+  {
+    "name": "Малага",
+    "slug": "malaga",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/1393382/pexels-photo-1393382.jpeg?w=800",
+    "description": "Ворота на Коста-дель-Соль.",
+    "highlights": [
+      "Музей Пикассо",
+      "Алькасаба",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Пальма",
+    "slug": "palma",
+    "country": "spain",
+    "countryName": "Испания",
+    "image": "https://images.pexels.com/photos/2387871/pexels-photo-2387871.jpeg?w=800",
+    "description": "Столица Майорки.",
+    "highlights": [
+      "Кафедральный собор",
+      "Замок Бельвер",
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Париж",
+    "slug": "paris",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?w=800",
+    "description": "Город любви с Эйфелевой башней.",
+    "highlights": [
+      "Эйфелева башня",
+      "Лувр",
+      "Монмартр"
+    ]
+  },
+  {
+    "name": "Ницца",
+    "slug": "nice",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/2695232/pexels-photo-2695232.jpeg?w=800",
+    "description": "Жемчужина Лазурного берега.",
+    "highlights": [
+      "Английская набережная",
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Марсель",
+    "slug": "marseille",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/2404843/pexels-photo-2404843.jpeg?w=800",
+    "description": "Портовый город с каланками.",
+    "highlights": [
+      "Старый порт",
+      "Каланки",
+      "Замок Иф"
+    ]
+  },
+  {
+    "name": "Лион",
+    "slug": "lyon",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?w=800",
+    "description": "Гастрономическая столица.",
+    "highlights": [
+      "Старый Лион",
+      "Базилика Фурвьер"
+    ]
+  },
+  {
+    "name": "Канны",
+    "slug": "cannes",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/2404681/pexels-photo-2404681.jpeg?w=800",
+    "description": "Город кинофестиваля.",
+    "highlights": [
+      "Набережная Круазетт",
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Бордо",
+    "slug": "bordeaux",
+    "country": "france",
+    "countryName": "Франция",
+    "image": "https://images.pexels.com/photos/2404052/pexels-photo-2404052.jpeg?w=800",
+    "description": "Столица виноделия.",
+    "highlights": [
+      "Город вина",
+      "Площадь Биржи"
+    ]
+  },
+  {
+    "name": "Лимассол",
+    "slug": "limassol",
+    "country": "cyprus",
+    "countryName": "Кипр",
+    "image": "https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?w=800",
+    "description": "Космополитичный курорт.",
+    "highlights": [
+      "Марина",
+      "Курион",
+      "Винные деревни"
+    ]
+  },
+  {
+    "name": "Пафос",
+    "slug": "paphos",
+    "country": "cyprus",
+    "countryName": "Кипр",
+    "image": "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?w=800",
+    "description": "Родина Афродиты.",
+    "highlights": [
+      "Археологический парк",
+      "Скала Афродиты"
+    ]
+  },
+  {
+    "name": "Айя-Напа",
+    "slug": "ayia-napa",
+    "country": "cyprus",
+    "countryName": "Кипр",
+    "image": "https://images.pexels.com/photos/1450355/pexels-photo-1450355.jpeg?w=800",
+    "description": "Тусовочная столица Кипра.",
+    "highlights": [
+      "Нисси Бич",
+      "Морские пещеры",
+      "Клубы"
+    ]
+  },
+  {
+    "name": "Ларнака",
+    "slug": "larnaca",
+    "country": "cyprus",
+    "countryName": "Кипр",
+    "image": "https://images.pexels.com/photos/1450356/pexels-photo-1450356.jpeg?w=800",
+    "description": "Город с набережной Финикудес.",
+    "highlights": [
+      "Солёное озеро",
+      "Церковь Святого Лазаря"
+    ]
+  },
+  {
+    "name": "Протарас",
+    "slug": "protaras",
+    "country": "cyprus",
+    "countryName": "Кипр",
+    "image": "https://images.pexels.com/photos/1450359/pexels-photo-1450359.jpeg?w=800",
+    "description": "Семейный курорт.",
+    "highlights": [
+      "Залив Фигового дерева",
+      "Мыс Греко"
+    ]
+  },
+  {
+    "name": "Будва",
+    "slug": "budva",
+    "country": "montenegro",
+    "countryName": "Черногория",
+    "image": "https://images.pexels.com/photos/2440061/pexels-photo-2440061.jpeg?w=800",
+    "description": "Главный курорт Черногории.",
+    "highlights": [
+      "Старый город",
+      "Пляж Могрен"
+    ]
+  },
+  {
+    "name": "Котор",
+    "slug": "kotor",
+    "country": "montenegro",
+    "countryName": "Черногория",
+    "image": "https://images.pexels.com/photos/2440079/pexels-photo-2440079.jpeg?w=800",
+    "description": "Город в живописной бухте.",
+    "highlights": [
+      "Старый город",
+      "Крепость"
+    ]
+  },
+  {
+    "name": "Тиват",
+    "slug": "tivat",
+    "country": "montenegro",
+    "countryName": "Черногория",
+    "image": "https://images.pexels.com/photos/2440024/pexels-photo-2440024.jpeg?w=800",
+    "description": "Город с люксовой мариной.",
+    "highlights": [
+      "Porto Montenegro"
+    ]
+  },
+  {
+    "name": "Герцег-Нови",
+    "slug": "herceg-novi",
+    "country": "montenegro",
+    "countryName": "Черногория",
+    "image": "https://images.pexels.com/photos/2440053/pexels-photo-2440053.jpeg?w=800",
+    "description": "Город-сад.",
+    "highlights": [
+      "Старый город",
+      "Крепости"
+    ]
+  },
+  {
+    "name": "Свети-Стефан",
+    "slug": "sveti-stefan",
+    "country": "montenegro",
+    "countryName": "Черногория",
+    "image": "https://images.pexels.com/photos/2440066/pexels-photo-2440066.jpeg?w=800",
+    "description": "Остров-отель.",
+    "highlights": [
+      "Остров-отель",
+      "Пляж"
+    ]
+  },
+  {
+    "name": "Дубровник",
+    "slug": "dubrovnik",
+    "country": "croatia",
+    "countryName": "Хорватия",
+    "image": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?w=800",
+    "description": "Жемчужина Адриатики.",
+    "highlights": [
+      "Городские стены",
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Сплит",
+    "slug": "split",
+    "country": "croatia",
+    "countryName": "Хорватия",
+    "image": "https://images.pexels.com/photos/2044424/pexels-photo-2044424.jpeg?w=800",
+    "description": "Дворец Диоклетиана.",
+    "highlights": [
+      "Дворец Диоклетиана",
+      "Рива"
+    ]
+  },
+  {
+    "name": "Загреб",
+    "slug": "zagreb",
+    "country": "croatia",
+    "countryName": "Хорватия",
+    "image": "https://images.pexels.com/photos/2044445/pexels-photo-2044445.jpeg?w=800",
+    "description": "Столица Хорватии.",
+    "highlights": [
+      "Верхний город",
+      "Долац"
+    ]
+  },
+  {
+    "name": "Пула",
+    "slug": "pula",
+    "country": "croatia",
+    "countryName": "Хорватия",
+    "image": "https://images.pexels.com/photos/2044456/pexels-photo-2044456.jpeg?w=800",
+    "description": "Город с амфитеатром.",
+    "highlights": [
+      "Амфитеатр",
+      "Бриуны"
+    ]
+  },
+  {
+    "name": "Задар",
+    "slug": "zadar",
+    "country": "croatia",
+    "countryName": "Хорватия",
+    "image": "https://images.pexels.com/photos/2044467/pexels-photo-2044467.jpeg?w=800",
+    "description": "Город с морским органом.",
+    "highlights": [
+      "Морской орган",
+      "Закаты"
+    ]
+  },
+  {
+    "name": "Хвар",
+    "slug": "hvar",
+    "country": "croatia",
+    "countryName": "Хорватия",
+    "image": "https://images.pexels.com/photos/2044478/pexels-photo-2044478.jpeg?w=800",
+    "description": "Гламурный остров.",
+    "highlights": [
+      "Лавандовые поля",
+      "Город Хвар"
+    ]
+  },
+  {
+    "name": "Ханой",
+    "slug": "hanoi",
+    "country": "vietnam",
+    "countryName": "Вьетнам",
+    "image": "https://images.pexels.com/photos/2161467/pexels-photo-2161467.jpeg?w=800",
+    "description": "Столица с озёрами и уличной едой.",
+    "highlights": [
+      "Озеро Хоанкьем",
+      "Старый квартал"
+    ]
+  },
+  {
+    "name": "Хошимин",
+    "slug": "ho-chi-minh",
+    "country": "vietnam",
+    "countryName": "Вьетнам",
+    "image": "https://images.pexels.com/photos/2161473/pexels-photo-2161473.jpeg?w=800",
+    "description": "Экономический центр.",
+    "highlights": [
+      "Туннели Кути",
+      "Рынок Бен Тан"
+    ]
+  },
+  {
+    "name": "Дананг",
+    "slug": "da-nang",
+    "country": "vietnam",
+    "countryName": "Вьетнам",
+    "image": "https://images.pexels.com/photos/2161485/pexels-photo-2161485.jpeg?w=800",
+    "description": "Курорт с Золотым мостом.",
+    "highlights": [
+      "Золотой мост",
+      "Мраморные горы"
+    ]
+  },
+  {
+    "name": "Нячанг",
+    "slug": "nha-trang",
+    "country": "vietnam",
+    "countryName": "Вьетнам",
+    "image": "https://images.pexels.com/photos/2161497/pexels-photo-2161497.jpeg?w=800",
+    "description": "Главный пляжный курорт.",
+    "highlights": [
+      "Острова",
+      "Парк Винперл"
+    ]
+  },
+  {
+    "name": "Фукуок",
+    "slug": "phu-quoc",
+    "country": "vietnam",
+    "countryName": "Вьетнам",
+    "image": "https://images.pexels.com/photos/2161509/pexels-photo-2161509.jpeg?w=800",
+    "description": "Тропический остров.",
+    "highlights": [
+      "Пляж Сао",
+      "Ночной рынок"
+    ]
+  },
+  {
+    "name": "Хойан",
+    "slug": "hoi-an",
+    "country": "vietnam",
+    "countryName": "Вьетнам",
+    "image": "https://images.pexels.com/photos/2161521/pexels-photo-2161521.jpeg?w=800",
+    "description": "Древний город фонариков.",
+    "highlights": [
+      "Японский мост",
+      "Фонарики"
+    ]
+  },
+  {
+    "name": "Убуд",
+    "slug": "bali-ubud",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?w=800",
+    "description": "Культурное сердце Бали.",
+    "highlights": [
+      "Рисовые террасы",
+      "Лес обезьян"
+    ]
+  },
+  {
+    "name": "Кута",
+    "slug": "bali-kuta",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?w=800",
+    "description": "Тусовочный район.",
+    "highlights": [
+      "Серфинг",
+      "Шоппинг"
+    ]
+  },
+  {
+    "name": "Семиньяк",
+    "slug": "bali-seminyak",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/2166571/pexels-photo-2166571.jpeg?w=800",
+    "description": "Модный район.",
+    "highlights": [
+      "Пляжные клубы",
+      "Рестораны"
+    ]
+  },
+  {
+    "name": "Джакарта",
+    "slug": "jakarta",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/2166583/pexels-photo-2166583.jpeg?w=800",
+    "description": "Огромная столица.",
+    "highlights": [
+      "Монас",
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Ломбок",
+    "slug": "lombok",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/2166595/pexels-photo-2166595.jpeg?w=800",
+    "description": "Сосед Бали с вулканом.",
+    "highlights": [
+      "Вулкан Ринджани",
+      "Острова Гили"
+    ]
+  },
+  {
+    "name": "Гили",
+    "slug": "gili",
+    "country": "indonesia",
+    "countryName": "Индонезия",
+    "image": "https://images.pexels.com/photos/2166607/pexels-photo-2166607.jpeg?w=800",
+    "description": "Острова без машин.",
+    "highlights": [
+      "Снорклинг",
+      "Черепахи"
+    ]
+  },
+  {
+    "name": "Канкун",
+    "slug": "cancun",
+    "country": "mexico",
+    "countryName": "Мексика",
+    "image": "https://images.pexels.com/photos/3290386/pexels-photo-3290386.jpeg?w=800",
+    "description": "Карибский рай.",
+    "highlights": [
+      "Пляжи",
+      "Руины майя"
+    ]
+  },
+  {
+    "name": "Плая-дель-Кармен",
+    "slug": "playa-del-carmen",
+    "country": "mexico",
+    "countryName": "Мексика",
+    "image": "https://images.pexels.com/photos/3290398/pexels-photo-3290398.jpeg?w=800",
+    "description": "Богемный курорт.",
+    "highlights": [
+      "5-я авеню",
+      "Сеноты"
+    ]
+  },
+  {
+    "name": "Мехико",
+    "slug": "mexico-city",
+    "country": "mexico",
+    "countryName": "Мексика",
+    "image": "https://images.pexels.com/photos/3290410/pexels-photo-3290410.jpeg?w=800",
+    "description": "Огромная столица.",
+    "highlights": [
+      "Теотиуакан",
+      "Музей антропологии"
+    ]
+  },
+  {
+    "name": "Тулум",
+    "slug": "tulum",
+    "country": "mexico",
+    "countryName": "Мексика",
+    "image": "https://images.pexels.com/photos/3290422/pexels-photo-3290422.jpeg?w=800",
+    "description": "Руины над морем.",
+    "highlights": [
+      "Руины Тулум",
+      "Сеноты"
+    ]
+  },
+  {
+    "name": "Косумель",
+    "slug": "cozumel",
+    "country": "mexico",
+    "countryName": "Мексика",
+    "image": "https://images.pexels.com/photos/3290434/pexels-photo-3290434.jpeg?w=800",
+    "description": "Остров для дайвинга.",
+    "highlights": [
+      "Дайвинг",
+      "Снорклинг"
+    ]
+  },
+  {
+    "name": "Лос-Кабос",
+    "slug": "los-cabos",
+    "country": "mexico",
+    "countryName": "Мексика",
+    "image": "https://images.pexels.com/photos/3290446/pexels-photo-3290446.jpeg?w=800",
+    "description": "Люксовый курорт.",
+    "highlights": [
+      "Арка",
+      "Киты"
+    ]
+  },
+  {
+    "name": "Пунта-Кана",
+    "slug": "punta-cana",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?w=800",
+    "description": "Главный курорт.",
+    "highlights": [
+      "Пляж Баваро",
+      "Остров Саона"
+    ]
+  },
+  {
+    "name": "Санто-Доминго",
+    "slug": "santo-domingo",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/3601437/pexels-photo-3601437.jpeg?w=800",
+    "description": "Старейший город Америки.",
+    "highlights": [
+      "Колониальная зона"
+    ]
+  },
+  {
+    "name": "Пуэрто-Плата",
+    "slug": "puerto-plata",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/3601449/pexels-photo-3601449.jpeg?w=800",
+    "description": "Северный курорт.",
+    "highlights": [
+      "Канатная дорога",
+      "27 водопадов"
+    ]
+  },
+  {
+    "name": "Ла-Романа",
+    "slug": "la-romana",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/3601461/pexels-photo-3601461.jpeg?w=800",
+    "description": "Люксовый курорт.",
+    "highlights": [
+      "Альтос-де-Чавон"
+    ]
+  },
+  {
+    "name": "Самана",
+    "slug": "samana",
+    "country": "dominican-republic",
+    "countryName": "Доминикана",
+    "image": "https://images.pexels.com/photos/3601473/pexels-photo-3601473.jpeg?w=800",
+    "description": "Полуостров с китами.",
+    "highlights": [
+      "Киты",
+      "Пляж Ринкон"
+    ]
+  },
+  {
+    "name": "Коломбо",
+    "slug": "colombo",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/4445236/pexels-photo-4445236.jpeg?w=800",
+    "description": "Столица и порт.",
+    "highlights": [
+      "Форт",
+      "Галле-Фейс"
+    ]
+  },
+  {
+    "name": "Канди",
+    "slug": "kandy",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/4445248/pexels-photo-4445248.jpeg?w=800",
+    "description": "Священный город.",
+    "highlights": [
+      "Храм Зуба Будды",
+      "Озеро"
+    ]
+  },
+  {
+    "name": "Галле",
+    "slug": "galle",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/4445260/pexels-photo-4445260.jpeg?w=800",
+    "description": "Колониальный форт.",
+    "highlights": [
+      "Форт Галле",
+      "Маяк"
+    ]
+  },
+  {
+    "name": "Бентота",
+    "slug": "bentota",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/4445272/pexels-photo-4445272.jpeg?w=800",
+    "description": "Пляжный курорт.",
+    "highlights": [
+      "Пляж",
+      "Река Бентота"
+    ]
+  },
+  {
+    "name": "Сигирия",
+    "slug": "sigiriya",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/4445284/pexels-photo-4445284.jpeg?w=800",
+    "description": "Скала со дворцом.",
+    "highlights": [
+      "Львиная скала",
+      "Фрески"
+    ]
+  },
+  {
+    "name": "Элла",
+    "slug": "ella",
+    "country": "sri-lanka",
+    "countryName": "Шри-Ланка",
+    "image": "https://images.pexels.com/photos/4445296/pexels-photo-4445296.jpeg?w=800",
+    "description": "Горный городок.",
+    "highlights": [
+      "Малый пик Адама",
+      "Девятиарочный мост"
+    ]
+  },
+  {
+    "name": "Гавана",
+    "slug": "havana",
+    "country": "cuba",
+    "countryName": "Куба",
+    "image": "https://images.pexels.com/photos/3622614/pexels-photo-3622614.jpeg?w=800",
+    "description": "Столица с ретро-авто.",
+    "highlights": [
+      "Малекон",
+      "Старая Гавана"
+    ]
+  },
+  {
+    "name": "Варадеро",
+    "slug": "varadero",
+    "country": "cuba",
+    "countryName": "Куба",
+    "image": "https://images.pexels.com/photos/3622626/pexels-photo-3622626.jpeg?w=800",
+    "description": "Главный пляжный курорт.",
+    "highlights": [
+      "Пляж 20 км",
+      "All-inclusive"
+    ]
+  },
+  {
+    "name": "Тринидад",
+    "slug": "trinidad",
+    "country": "cuba",
+    "countryName": "Куба",
+    "image": "https://images.pexels.com/photos/3622638/pexels-photo-3622638.jpeg?w=800",
+    "description": "Город-музей.",
+    "highlights": [
+      "Колониальный центр",
+      "Пляж Анкон"
+    ]
+  },
+  {
+    "name": "Сантьяго-де-Куба",
+    "slug": "santiago-de-cuba",
+    "country": "cuba",
+    "countryName": "Куба",
+    "image": "https://images.pexels.com/photos/3622650/pexels-photo-3622650.jpeg?w=800",
+    "description": "Культурная столица.",
+    "highlights": [
+      "Замок Морро",
+      "Музыка"
+    ]
+  },
+  {
+    "name": "Виньялес",
+    "slug": "vinales",
+    "country": "cuba",
+    "countryName": "Куба",
+    "image": "https://images.pexels.com/photos/3622662/pexels-photo-3622662.jpeg?w=800",
+    "description": "Долина моготес.",
+    "highlights": [
+      "Табачные плантации",
+      "Пещеры"
+    ]
+  },
+  {
+    "name": "Порт-Луи",
+    "slug": "port-louis",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
+    "description": "Столица острова.",
+    "highlights": [
+      "Рынок",
+      "Набережная"
+    ]
+  },
+  {
+    "name": "Гранд-Бэ",
+    "slug": "grand-baie",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450365/pexels-photo-1450365.jpeg?w=800",
+    "description": "Тусовочный курорт.",
+    "highlights": [
+      "Шоппинг",
+      "Ночная жизнь"
+    ]
+  },
+  {
+    "name": "Флик-ан-Флак",
+    "slug": "flic-en-flac",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450377/pexels-photo-1450377.jpeg?w=800",
+    "description": "Длинный пляж.",
+    "highlights": [
+      "Пляж",
+      "Закаты"
+    ]
+  },
+  {
+    "name": "Ле-Морн",
+    "slug": "le-morne",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450389/pexels-photo-1450389.jpeg?w=800",
+    "description": "Гора и кайтинг.",
+    "highlights": [
+      "Кайтсерфинг",
+      "Гора Ле-Морн"
+    ]
+  },
+  {
+    "name": "Бель-Мар",
+    "slug": "belle-mare",
+    "country": "mauritius",
+    "countryName": "Маврикий",
+    "image": "https://images.pexels.com/photos/1450401/pexels-photo-1450401.jpeg?w=800",
+    "description": "Белый пляж.",
+    "highlights": [
+      "Люксовые отели",
+      "Гольф"
+    ]
+  },
+  {
+    "name": "Маэ",
+    "slug": "mahe",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1802255/pexels-photo-1802255.jpeg?w=800",
+    "description": "Главный остров.",
+    "highlights": [
+      "Пляж Бо-Валлон",
+      "Виктория"
+    ]
+  },
+  {
+    "name": "Праслин",
+    "slug": "praslin",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1802267/pexels-photo-1802267.jpeg?w=800",
+    "description": "Пальмы коко-де-мер.",
+    "highlights": [
+      "Валле-де-Мэ",
+      "Анс Лацио"
+    ]
+  },
+  {
+    "name": "Ла-Диг",
+    "slug": "la-digue",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1802279/pexels-photo-1802279.jpeg?w=800",
+    "description": "Остров велосипедов.",
+    "highlights": [
+      "Анс Сурс д'Аржан"
+    ]
+  },
+  {
+    "name": "Виктория",
+    "slug": "victoria",
+    "country": "seychelles",
+    "countryName": "Сейшелы",
+    "image": "https://images.pexels.com/photos/1802291/pexels-photo-1802291.jpeg?w=800",
+    "description": "Столица.",
+    "highlights": [
+      "Часовая башня",
+      "Рынок"
+    ]
+  },
+  {
+    "name": "Занзибар",
+    "slug": "zanzibar",
+    "country": "tanzania",
+    "countryName": "Танзания",
+    "image": "https://images.pexels.com/photos/3935702/pexels-photo-3935702.jpeg?w=800",
+    "description": "Остров специй.",
+    "highlights": [
+      "Стоун-Таун",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Дар-эс-Салам",
+    "slug": "dar-es-salaam",
+    "country": "tanzania",
+    "countryName": "Танзания",
+    "image": "https://images.pexels.com/photos/3935714/pexels-photo-3935714.jpeg?w=800",
+    "description": "Крупнейший город.",
+    "highlights": [
+      "Порт",
+      "Рынки"
+    ]
+  },
+  {
+    "name": "Серенгети",
+    "slug": "serengeti",
+    "country": "tanzania",
+    "countryName": "Танзания",
+    "image": "https://images.pexels.com/photos/3935726/pexels-photo-3935726.jpeg?w=800",
+    "description": "Великая миграция.",
+    "highlights": [
+      "Сафари",
+      "Большая пятёрка"
+    ]
+  },
+  {
+    "name": "Аруша",
+    "slug": "arusha",
+    "country": "tanzania",
+    "countryName": "Танзания",
+    "image": "https://images.pexels.com/photos/3935738/pexels-photo-3935738.jpeg?w=800",
+    "description": "Ворота на сафари.",
+    "highlights": [
+      "Килиманджаро",
+      "Национальные парки"
+    ]
+  },
+  {
+    "name": "Нгоронгоро",
+    "slug": "ngorongoro",
+    "country": "tanzania",
+    "countryName": "Танзания",
+    "image": "https://images.pexels.com/photos/3935750/pexels-photo-3935750.jpeg?w=800",
+    "description": "Кратер с животными.",
+    "highlights": [
+      "Кратер",
+      "Сафари"
+    ]
+  },
+  {
+    "name": "Марракеш",
+    "slug": "marrakech",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/3889843/pexels-photo-3889843.jpeg?w=800",
+    "description": "Красный город.",
+    "highlights": [
+      "Медина",
+      "Джемаа-эль-Фна"
+    ]
+  },
+  {
+    "name": "Фес",
+    "slug": "fes",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/3889855/pexels-photo-3889855.jpeg?w=800",
+    "description": "Духовная столица.",
+    "highlights": [
+      "Медина",
+      "Кожевенные мастерские"
+    ]
+  },
+  {
+    "name": "Касабланка",
+    "slug": "casablanca",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/3889867/pexels-photo-3889867.jpeg?w=800",
+    "description": "Экономическая столица.",
+    "highlights": [
+      "Мечеть Хасана II"
+    ]
+  },
+  {
+    "name": "Шефшауэн",
+    "slug": "chefchaouen",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/3889879/pexels-photo-3889879.jpeg?w=800",
+    "description": "Голубой город.",
+    "highlights": [
+      "Синие улицы",
+      "Горы"
+    ]
+  },
+  {
+    "name": "Агадир",
+    "slug": "agadir",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/3889891/pexels-photo-3889891.jpeg?w=800",
+    "description": "Пляжный курорт.",
+    "highlights": [
+      "Пляж",
+      "Серфинг"
+    ]
+  },
+  {
+    "name": "Эссувейра",
+    "slug": "essaouira",
+    "country": "morocco",
+    "countryName": "Марокко",
+    "image": "https://images.pexels.com/photos/3889903/pexels-photo-3889903.jpeg?w=800",
+    "description": "Ветреный город.",
+    "highlights": [
+      "Медина",
+      "Кайтсерфинг"
+    ]
+  },
+  {
+    "name": "Амман",
+    "slug": "amman",
+    "country": "jordan",
+    "countryName": "Иордания",
+    "image": "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?w=800",
+    "description": "Столица на холмах.",
+    "highlights": [
+      "Цитадель",
+      "Римский театр"
+    ]
+  },
+  {
+    "name": "Петра",
+    "slug": "petra",
+    "country": "jordan",
+    "countryName": "Иордания",
+    "image": "https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?w=800",
+    "description": "Розовый город.",
+    "highlights": [
+      "Сокровищница",
+      "Сик"
+    ]
+  },
+  {
+    "name": "Акаба",
+    "slug": "aqaba",
+    "country": "jordan",
+    "countryName": "Иордания",
+    "image": "https://images.pexels.com/photos/1631689/pexels-photo-1631689.jpeg?w=800",
+    "description": "Курорт на Красном море.",
+    "highlights": [
+      "Дайвинг",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Вади-Рам",
+    "slug": "wadi-rum",
+    "country": "jordan",
+    "countryName": "Иордания",
+    "image": "https://images.pexels.com/photos/1631701/pexels-photo-1631701.jpeg?w=800",
+    "description": "Марсианская пустыня.",
+    "highlights": [
+      "Кемпинг",
+      "Джип-туры"
+    ]
+  },
+  {
+    "name": "Мёртвое море",
+    "slug": "dead-sea",
+    "country": "jordan",
+    "countryName": "Иордания",
+    "image": "https://images.pexels.com/photos/1631713/pexels-photo-1631713.jpeg?w=800",
+    "description": "Самое солёное озеро.",
+    "highlights": [
+      "Плавание",
+      "Грязи"
+    ]
+  },
+  {
+    "name": "Тель-Авив",
+    "slug": "tel-aviv",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?w=800",
+    "description": "Город без остановки.",
+    "highlights": [
+      "Пляжи",
+      "Ночная жизнь"
+    ]
+  },
+  {
+    "name": "Иерусалим",
+    "slug": "jerusalem",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/2087403/pexels-photo-2087403.jpeg?w=800",
+    "description": "Святой город.",
+    "highlights": [
+      "Старый город",
+      "Стена Плача"
+    ]
+  },
+  {
+    "name": "Эйлат",
+    "slug": "eilat",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/2087415/pexels-photo-2087415.jpeg?w=800",
+    "description": "Курорт на Красном море.",
+    "highlights": [
+      "Дайвинг",
+      "Дельфины"
+    ]
+  },
+  {
+    "name": "Мёртвое море (Израиль)",
+    "slug": "dead-sea-israel",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/2087427/pexels-photo-2087427.jpeg?w=800",
+    "description": "СПА на берегу.",
+    "highlights": [
+      "Грязелечение",
+      "Эйн-Геди"
+    ]
+  },
+  {
+    "name": "Хайфа",
+    "slug": "haifa",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/2087439/pexels-photo-2087439.jpeg?w=800",
+    "description": "Город на горе.",
+    "highlights": [
+      "Бахайские сады"
+    ]
+  },
+  {
+    "name": "Назарет",
+    "slug": "nazareth",
+    "country": "israel",
+    "countryName": "Израиль",
+    "image": "https://images.pexels.com/photos/2087451/pexels-photo-2087451.jpeg?w=800",
+    "description": "Город детства Иисуса.",
+    "highlights": [
+      "Базилика Благовещения"
+    ]
+  },
+  {
+    "name": "Токио",
+    "slug": "tokyo",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/590478/pexels-photo-590478.jpeg?w=800",
+    "description": "Мегаполис будущего.",
+    "highlights": [
+      "Сибуя",
+      "Асакуса",
+      "Акихабара"
+    ]
+  },
+  {
+    "name": "Киото",
+    "slug": "kyoto",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/590490/pexels-photo-590490.jpeg?w=800",
+    "description": "Древняя столица.",
+    "highlights": [
+      "Храмы",
+      "Гейши",
+      "Бамбуковый лес"
+    ]
+  },
+  {
+    "name": "Осака",
+    "slug": "osaka",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/590502/pexels-photo-590502.jpeg?w=800",
+    "description": "Гастрономическая столица.",
+    "highlights": [
+      "Дотонбори",
+      "Замок Осака"
+    ]
+  },
+  {
+    "name": "Хиросима",
+    "slug": "hiroshima",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/590514/pexels-photo-590514.jpeg?w=800",
+    "description": "Город мира.",
+    "highlights": [
+      "Мемориальный парк",
+      "Миядзима"
+    ]
+  },
+  {
+    "name": "Нара",
+    "slug": "nara",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/590526/pexels-photo-590526.jpeg?w=800",
+    "description": "Город оленей.",
+    "highlights": [
+      "Олени",
+      "Тодай-дзи"
+    ]
+  },
+  {
+    "name": "Хаконе",
+    "slug": "hakone",
+    "country": "japan",
+    "countryName": "Япония",
+    "image": "https://images.pexels.com/photos/590538/pexels-photo-590538.jpeg?w=800",
+    "description": "Горячие источники.",
+    "highlights": [
+      "Онсэны",
+      "Вид на Фудзи"
+    ]
+  },
+  {
+    "name": "Сеул",
+    "slug": "seoul",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/2376712/pexels-photo-2376712.jpeg?w=800",
+    "description": "Город K-pop.",
+    "highlights": [
+      "Кёнбоккун",
+      "Хондэ",
+      "Мёндон"
+    ]
+  },
+  {
+    "name": "Пусан",
+    "slug": "busan",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/2376724/pexels-photo-2376724.jpeg?w=800",
+    "description": "Портовый город.",
+    "highlights": [
+      "Хэундэ",
+      "Храм Хэдонъёнгунса"
+    ]
+  },
+  {
+    "name": "Чеджу",
+    "slug": "jeju",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/2376736/pexels-photo-2376736.jpeg?w=800",
+    "description": "Остров медового месяца.",
+    "highlights": [
+      "Халласан",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Кёнджу",
+    "slug": "gyeongju",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/2376748/pexels-photo-2376748.jpeg?w=800",
+    "description": "Музей без стен.",
+    "highlights": [
+      "Курганы",
+      "Храм Пульгукса"
+    ]
+  },
+  {
+    "name": "Инчхон",
+    "slug": "incheon",
+    "country": "south-korea",
+    "countryName": "Южная Корея",
+    "image": "https://images.pexels.com/photos/2376760/pexels-photo-2376760.jpeg?w=800",
+    "description": "Город с аэропортом.",
+    "highlights": [
+      "Чайнатаун",
+      "Сондо"
+    ]
+  },
+  {
+    "name": "Пекин",
+    "slug": "beijing",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/2846034/pexels-photo-2846034.jpeg?w=800",
+    "description": "Столица империй.",
+    "highlights": [
+      "Запретный город",
+      "Великая стена"
+    ]
+  },
+  {
+    "name": "Шанхай",
+    "slug": "shanghai",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/2846046/pexels-photo-2846046.jpeg?w=800",
+    "description": "Город небоскрёбов.",
+    "highlights": [
+      "Бунд",
+      "Пудун"
+    ]
+  },
+  {
+    "name": "Гонконг",
+    "slug": "hong-kong",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/2846058/pexels-photo-2846058.jpeg?w=800",
+    "description": "Город контрастов.",
+    "highlights": [
+      "Пик Виктория",
+      "Димсам"
+    ]
+  },
+  {
+    "name": "Сиань",
+    "slug": "xian",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/2846070/pexels-photo-2846070.jpeg?w=800",
+    "description": "Терракотовая армия.",
+    "highlights": [
+      "Воины",
+      "Городская стена"
+    ]
+  },
+  {
+    "name": "Гуйлинь",
+    "slug": "guilin",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/2846082/pexels-photo-2846082.jpeg?w=800",
+    "description": "Карстовые горы.",
+    "highlights": [
+      "Река Ли",
+      "Яншо"
+    ]
+  },
+  {
+    "name": "Чэнду",
+    "slug": "chengdu",
+    "country": "china",
+    "countryName": "Китай",
+    "image": "https://images.pexels.com/photos/2846094/pexels-photo-2846094.jpeg?w=800",
+    "description": "Столица панд.",
+    "highlights": [
+      "Панды",
+      "Сычуаньская кухня"
+    ]
+  },
+  {
+    "name": "Дели",
+    "slug": "delhi",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?w=800",
+    "description": "Столица контрастов.",
+    "highlights": [
+      "Красный форт",
+      "Кутуб-Минар"
+    ]
+  },
+  {
+    "name": "Мумбаи",
+    "slug": "mumbai",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603662/pexels-photo-1603662.jpeg?w=800",
+    "description": "Город Болливуда.",
+    "highlights": [
+      "Ворота Индии",
+      "Дхоби Гхат"
+    ]
+  },
+  {
+    "name": "Гоа",
+    "slug": "goa",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603674/pexels-photo-1603674.jpeg?w=800",
+    "description": "Пляжный штат.",
+    "highlights": [
+      "Пляжи",
+      "Вечеринки"
+    ]
+  },
+  {
+    "name": "Джайпур",
+    "slug": "jaipur",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603686/pexels-photo-1603686.jpeg?w=800",
+    "description": "Розовый город.",
+    "highlights": [
+      "Хава-Махал",
+      "Амберский форт"
+    ]
+  },
+  {
+    "name": "Агра",
+    "slug": "agra",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603698/pexels-photo-1603698.jpeg?w=800",
+    "description": "Город Тадж-Махала.",
+    "highlights": [
+      "Тадж-Махал",
+      "Форт Агра"
+    ]
+  },
+  {
+    "name": "Варанаси",
+    "slug": "varanasi",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603710/pexels-photo-1603710.jpeg?w=800",
+    "description": "Священный город.",
+    "highlights": [
+      "Гаты",
+      "Церемония Ганги"
+    ]
+  },
+  {
+    "name": "Керала",
+    "slug": "kerala",
+    "country": "india",
+    "countryName": "Индия",
+    "image": "https://images.pexels.com/photos/1603722/pexels-photo-1603722.jpeg?w=800",
+    "description": "Заводи и аюрведа.",
+    "highlights": [
+      "Хаусботы",
+      "Аюрведа"
+    ]
+  },
+  {
+    "name": "Манила",
+    "slug": "manila",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?w=800",
+    "description": "Столица.",
+    "highlights": [
+      "Интрамурос",
+      "Моллы"
+    ]
+  },
+  {
+    "name": "Боракай",
+    "slug": "boracay",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/2387885/pexels-photo-2387885.jpeg?w=800",
+    "description": "Лучший пляж Азии.",
+    "highlights": [
+      "Белый пляж",
+      "Вечеринки"
+    ]
+  },
+  {
+    "name": "Палаван",
+    "slug": "palawan",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/2387897/pexels-photo-2387897.jpeg?w=800",
+    "description": "Последний фронтир.",
+    "highlights": [
+      "Эль-Нидо",
+      "Подземная река"
+    ]
+  },
+  {
+    "name": "Себу",
+    "slug": "cebu",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/2387909/pexels-photo-2387909.jpeg?w=800",
+    "description": "Остров с историей.",
+    "highlights": [
+      "Китовые акулы",
+      "Водопады"
+    ]
+  },
+  {
+    "name": "Бохол",
+    "slug": "bohol",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/2387921/pexels-photo-2387921.jpeg?w=800",
+    "description": "Шоколадные холмы.",
+    "highlights": [
+      "Холмы",
+      "Долгопяты"
+    ]
+  },
+  {
+    "name": "Сиаргао",
+    "slug": "siargao",
+    "country": "philippines",
+    "countryName": "Филиппины",
+    "image": "https://images.pexels.com/photos/2387933/pexels-photo-2387933.jpeg?w=800",
+    "description": "Столица сёрфинга.",
+    "highlights": [
+      "Cloud 9",
+      "Острова"
+    ]
+  },
+  {
+    "name": "Куала-Лумпур",
+    "slug": "kuala-lumpur",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/433989/pexels-photo-433989.jpeg?w=800",
+    "description": "Город башен.",
+    "highlights": [
+      "Петронасы",
+      "Бату"
+    ]
+  },
+  {
+    "name": "Лангкави",
+    "slug": "langkawi",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/434001/pexels-photo-434001.jpeg?w=800",
+    "description": "Остров легенд.",
+    "highlights": [
+      "Sky Bridge",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Пенанг",
+    "slug": "penang",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/434013/pexels-photo-434013.jpeg?w=800",
+    "description": "Город стрит-арта.",
+    "highlights": [
+      "Джорджтаун",
+      "Еда"
+    ]
+  },
+  {
+    "name": "Борнео",
+    "slug": "borneo",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/434025/pexels-photo-434025.jpeg?w=800",
+    "description": "Джунгли и орангутаны.",
+    "highlights": [
+      "Кинабалу",
+      "Орангутаны"
+    ]
+  },
+  {
+    "name": "Малакка",
+    "slug": "malacca",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/434037/pexels-photo-434037.jpeg?w=800",
+    "description": "Колониальный город.",
+    "highlights": [
+      "Церковь Христа",
+      "Джонкер"
+    ]
+  },
+  {
+    "name": "Камерон",
+    "slug": "cameron-highlands",
+    "country": "malaysia",
+    "countryName": "Малайзия",
+    "image": "https://images.pexels.com/photos/434049/pexels-photo-434049.jpeg?w=800",
+    "description": "Чайные плантации.",
+    "highlights": [
+      "Чай",
+      "Клубника"
+    ]
+  },
+  {
+    "name": "Сингапур",
+    "slug": "singapore-city",
+    "country": "singapore",
+    "countryName": "Сингапур",
+    "image": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?w=800",
+    "description": "Город-государство.",
+    "highlights": [
+      "Marina Bay",
+      "Gardens by the Bay"
+    ]
+  },
+  {
+    "name": "Сентоза",
+    "slug": "sentosa",
+    "country": "singapore",
+    "countryName": "Сингапур",
+    "image": "https://images.pexels.com/photos/777071/pexels-photo-777071.jpeg?w=800",
+    "description": "Остров развлечений.",
+    "highlights": [
+      "Universal",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Сием-Рип",
+    "slug": "siem-reap",
+    "country": "cambodia",
+    "countryName": "Камбоджа",
+    "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?w=800",
+    "description": "Ворота в Ангкор.",
+    "highlights": [
+      "Ангкор-Ват",
+      "Закаты"
+    ]
+  },
+  {
+    "name": "Пномпень",
+    "slug": "phnom-penh",
+    "country": "cambodia",
+    "countryName": "Камбоджа",
+    "image": "https://images.pexels.com/photos/2166571/pexels-photo-2166571.jpeg?w=800",
+    "description": "Столица.",
+    "highlights": [
+      "Королевский дворец",
+      "Музей геноцида"
+    ]
+  },
+  {
+    "name": "Сиануквиль",
+    "slug": "sihanoukville",
+    "country": "cambodia",
+    "countryName": "Камбоджа",
+    "image": "https://images.pexels.com/photos/2166583/pexels-photo-2166583.jpeg?w=800",
+    "description": "Пляжный курорт.",
+    "highlights": [
+      "Пляжи",
+      "Острова"
+    ]
+  },
+  {
+    "name": "Ко-Ронг",
+    "slug": "koh-rong",
+    "country": "cambodia",
+    "countryName": "Камбоджа",
+    "image": "https://images.pexels.com/photos/2166595/pexels-photo-2166595.jpeg?w=800",
+    "description": "Тропический остров.",
+    "highlights": [
+      "Пляжи",
+      "Биолюминесценция"
+    ]
+  },
+  {
+    "name": "Кампот",
+    "slug": "kampot",
+    "country": "cambodia",
+    "countryName": "Камбоджа",
+    "image": "https://images.pexels.com/photos/2166607/pexels-photo-2166607.jpeg?w=800",
+    "description": "Город перца.",
+    "highlights": [
+      "Перец",
+      "Река"
+    ]
+  },
+  {
+    "name": "Тбилиси",
+    "slug": "tbilisi",
+    "country": "georgia",
+    "countryName": "Грузия",
+    "image": "https://images.pexels.com/photos/5094673/pexels-photo-5094673.jpeg?w=800",
+    "description": "Древняя столица.",
+    "highlights": [
+      "Старый город",
+      "Серные бани"
+    ]
+  },
+  {
+    "name": "Батуми",
+    "slug": "batumi",
+    "country": "georgia",
+    "countryName": "Грузия",
+    "image": "https://images.pexels.com/photos/5094685/pexels-photo-5094685.jpeg?w=800",
+    "description": "Черноморский курорт.",
+    "highlights": [
+      "Набережная",
+      "Казино"
+    ]
+  },
+  {
+    "name": "Казбеги",
+    "slug": "kazbegi",
+    "country": "georgia",
+    "countryName": "Грузия",
+    "image": "https://images.pexels.com/photos/5094697/pexels-photo-5094697.jpeg?w=800",
+    "description": "Горы и церковь Гергети.",
+    "highlights": [
+      "Гергети",
+      "Горы"
+    ]
+  },
+  {
+    "name": "Кутаиси",
+    "slug": "kutaisi",
+    "country": "georgia",
+    "countryName": "Грузия",
+    "image": "https://images.pexels.com/photos/5094709/pexels-photo-5094709.jpeg?w=800",
+    "description": "Вторая столица.",
+    "highlights": [
+      "Гелати",
+      "Пещера Прометея"
+    ]
+  },
+  {
+    "name": "Сванетия",
+    "slug": "svaneti",
+    "country": "georgia",
+    "countryName": "Грузия",
+    "image": "https://images.pexels.com/photos/5094721/pexels-photo-5094721.jpeg?w=800",
+    "description": "Край башен.",
+    "highlights": [
+      "Ушгули",
+      "Башни"
+    ]
+  },
+  {
+    "name": "Кахетия",
+    "slug": "kakheti",
+    "country": "georgia",
+    "countryName": "Грузия",
+    "image": "https://images.pexels.com/photos/5094733/pexels-photo-5094733.jpeg?w=800",
+    "description": "Винный регион.",
+    "highlights": [
+      "Вино",
+      "Монастыри"
+    ]
+  },
+  {
+    "name": "Ереван",
+    "slug": "yerevan",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/5007067/pexels-photo-5007067.jpeg?w=800",
+    "description": "Розовый город.",
+    "highlights": [
+      "Каскад",
+      "Площадь Республики"
+    ]
+  },
+  {
+    "name": "Гюмри",
+    "slug": "gyumri",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/5007079/pexels-photo-5007079.jpeg?w=800",
+    "description": "Культурная столица.",
+    "highlights": [
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Дилижан",
+    "slug": "dilijan",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/5007091/pexels-photo-5007091.jpeg?w=800",
+    "description": "Армянская Швейцария.",
+    "highlights": [
+      "Леса",
+      "Монастыри"
+    ]
+  },
+  {
+    "name": "Татев",
+    "slug": "tatev",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/5007103/pexels-photo-5007103.jpeg?w=800",
+    "description": "Канатка и монастырь.",
+    "highlights": [
+      "Канатная дорога",
+      "Монастырь"
+    ]
+  },
+  {
+    "name": "Севан",
+    "slug": "sevan",
+    "country": "armenia",
+    "countryName": "Армения",
+    "image": "https://images.pexels.com/photos/5007115/pexels-photo-5007115.jpeg?w=800",
+    "description": "Высокогорное озеро.",
+    "highlights": [
+      "Озеро",
+      "Монастырь Севанаванк"
+    ]
+  },
+  {
+    "name": "Баку",
+    "slug": "baku",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/4388167/pexels-photo-4388167.jpeg?w=800",
+    "description": "Город ветров.",
+    "highlights": [
+      "Пламенные башни",
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Шеки",
+    "slug": "sheki",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/4388179/pexels-photo-4388179.jpeg?w=800",
+    "description": "Дворец ханов.",
+    "highlights": [
+      "Дворец",
+      "Караван-сарай"
+    ]
+  },
+  {
+    "name": "Куба",
+    "slug": "quba",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/4388191/pexels-photo-4388191.jpeg?w=800",
+    "description": "Ковры и горы.",
+    "highlights": [
+      "Хыналыг",
+      "Ковры"
+    ]
+  },
+  {
+    "name": "Габала",
+    "slug": "gabala",
+    "country": "azerbaijan",
+    "countryName": "Азербайджан",
+    "image": "https://images.pexels.com/photos/4388203/pexels-photo-4388203.jpeg?w=800",
+    "description": "Горный курорт.",
+    "highlights": [
+      "Туфандаг",
+      "Водопады"
+    ]
   }
 ]
