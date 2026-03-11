@@ -46,26 +46,51 @@ const { title, subtitle, image, showForm = false } = Astro.props
         <div class="bg-white rounded-2xl p-6 shadow-2xl">
           <h2 class="text-xl font-bold text-[var(--color-primary)] mb-4">Быстрая заявка</h2>
           <form class="space-y-4" id="hero-form">
-            <input 
-              type="text" 
-              name="name" 
-              placeholder="Ваше имя" 
-              required
-              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
-            />
-            <input 
-              type="tel" 
-              name="phone" 
-              placeholder="+7 (___) ___-__-__" 
-              required
-              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
-            />
-            <input 
-              type="text" 
-              name="destination" 
-              placeholder="Куда хотите поехать?"
-              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
-            />
+            <div>
+              <input 
+                type="text" 
+                name="name" 
+                id="hero-name"
+                placeholder="Ваше имя" 
+                required
+                pattern="[А-Яа-яЁёA-Za-z\s\-]+"
+                title="Только буквы"
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
+              />
+            </div>
+            <div>
+              <input 
+                type="tel" 
+                name="phone" 
+                id="hero-phone"
+                placeholder="+7 (___) ___-__-__" 
+                required
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
+              />
+            </div>
+            <div>
+              <input 
+                type="text" 
+                name="destination" 
+                id="hero-destination"
+                placeholder="Куда хотите поехать?"
+                pattern="[А-Яа-яЁёA-Za-z\s\-,]+"
+                title="Только буквы"
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
+              />
+            </div>
+            <div class="flex items-start gap-2">
+              <input 
+                type="checkbox" 
+                id="hero-consent" 
+                name="consent" 
+                required
+                class="mt-1 w-4 h-4 text-[var(--color-secondary)] border-gray-300 rounded"
+              />
+              <label for="hero-consent" class="text-xs text-gray-600">
+                Согласен на <a href="/privacy" class="text-[var(--color-primary)] hover:underline">обработку данных</a>
+              </label>
+            </div>
             <button 
               type="submit"
               class="w-full bg-[var(--color-secondary)] text-white py-3 rounded-lg font-semibold hover:bg-[var(--color-secondary)]/90 transition-colors"
@@ -73,8 +98,95 @@ const { title, subtitle, image, showForm = false } = Astro.props
               Получить предложение
             </button>
           </form>
+          <div id="hero-form-success" class="hidden text-center py-6">
+            <div class="text-4xl mb-2">✈️</div>
+            <p class="font-semibold text-[var(--color-primary)]">Заявка отправлена!</p>
+            <p class="text-sm text-gray-600">Мы скоро свяжемся с вами</p>
+          </div>
         </div>
       )}
     </div>
   </div>
 </section>
+
+<script>
+  // Маска телефона для hero-формы
+  const heroPhone = document.getElementById('hero-phone') as HTMLInputElement
+  if (heroPhone) {
+    // Устанавливаем начальное значение
+    heroPhone.addEventListener('focus', () => {
+      if (!heroPhone.value) heroPhone.value = '+7 ('
+    })
+    
+    heroPhone.addEventListener('input', (e) => {
+      let value = (e.target as HTMLInputElement).value.replace(/\D/g, '')
+      if (value.length > 0) {
+        if (value[0] === '8') value = '7' + value.slice(1)
+        if (value[0] !== '7') value = '7' + value
+      }
+      let formatted = ''
+      if (value.length > 0) formatted = '+7'
+      if (value.length > 1) formatted += ' (' + value.slice(1, 4)
+      if (value.length > 4) formatted += ') ' + value.slice(4, 7)
+      if (value.length > 7) formatted += '-' + value.slice(7, 9)
+      if (value.length > 9) formatted += '-' + value.slice(9, 11)
+      heroPhone.value = formatted
+    })
+
+    heroPhone.addEventListener('blur', () => {
+      if (heroPhone.value === '+7 (' || heroPhone.value === '+7') heroPhone.value = ''
+    })
+  }
+
+  // Валидация имени — только буквы
+  const heroName = document.getElementById('hero-name') as HTMLInputElement
+  if (heroName) {
+    heroName.addEventListener('input', (e) => {
+      const input = e.target as HTMLInputElement
+      input.value = input.value.replace(/[^А-Яа-яЁёA-Za-z\s\-]/g, '')
+    })
+  }
+
+  // Валидация направления — только буквы
+  const heroDestination = document.getElementById('hero-destination') as HTMLInputElement
+  if (heroDestination) {
+    heroDestination.addEventListener('input', (e) => {
+      const input = e.target as HTMLInputElement
+      input.value = input.value.replace(/[^А-Яа-яЁёA-Za-z\s\-,]/g, '')
+    })
+  }
+
+  // Отправка формы
+  const heroForm = document.getElementById('hero-form') as HTMLFormElement
+  heroForm?.addEventListener('submit', async (e) => {
+    e.preventDefault()
+    
+    // Проверка телефона (минимум 11 цифр)
+    const phoneDigits = heroPhone?.value.replace(/\D/g, '') || ''
+    if (phoneDigits.length < 11) {
+      alert('Введите корректный номер телефона')
+      return
+    }
+
+    const formData = new FormData(heroForm)
+    const data = Object.fromEntries(formData)
+    data.source = 'hero-form'
+    data.timestamp = new Date().toISOString()
+    
+    try {
+      const response = await fetch('/api/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      })
+      
+      if (response.ok) {
+        heroForm.classList.add('hidden')
+        document.getElementById('hero-form-success')?.classList.remove('hidden')
+      }
+    } catch (error) {
+      console.error('Error:', error)
+      alert('Произошла ошибка. Попробуйте позже.')
+    }
+  })
+</script>

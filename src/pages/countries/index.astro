@@ -4,6 +4,12 @@ import HeroBanner from '../../components/HeroBanner.astro'
 import CountryCard from '../../components/CountryCard.astro'
 import RequestForm from '../../components/RequestForm.astro'
 import countries from '../../data/countries.json'
+
+// Группируем страны по регионам
+const regions = [...new Set(countries.map(c => c.region))].sort()
+
+// Типы отдыха (для фильтрации в будущем можно добавить поле type в countries.json)
+const beachCountries = ['maldives', 'thailand', 'uae', 'turkey', 'greece', 'egypt', 'cyprus', 'montenegro', 'croatia', 'indonesia', 'vietnam', 'sri-lanka', 'mexico', 'dominican-republic', 'cuba', 'mauritius', 'seychelles', 'tanzania', 'philippines', 'malaysia', 'fiji', 'tunisia', 'bulgaria']
 ---
 
 <Layout title="Все направления" description="Более 50 стран для вашего путешествия. Выберите направление мечты.">
@@ -15,37 +21,105 @@ import countries from '../../data/countries.json'
 
   <section class="py-16 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <!-- Фильтры (будущее) -->
-      <div class="mb-8 flex flex-wrap gap-4">
-        <button class="px-4 py-2 bg-[var(--color-primary)] text-white rounded-lg">Все</button>
-        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Пляжный отдых</button>
-        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Европа</button>
-        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Азия</button>
-        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Экзотика</button>
-      </div>
-
-      <!-- Список стран -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {countries.map(country => (
-          <CountryCard 
-            name={country.name}
-            slug={country.slug}
-            image={country.image}
-            description={country.description}
-          />
+      <!-- Фильтры -->
+      <div class="mb-8 flex flex-wrap gap-3" id="filters">
+        <button 
+          class="filter-btn px-4 py-2 bg-[var(--color-primary)] text-white rounded-lg transition-colors"
+          data-filter="all"
+        >
+          Все
+        </button>
+        <button 
+          class="filter-btn px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
+          data-filter="beach"
+        >
+          🏖️ Пляжный отдых
+        </button>
+        {regions.map(region => (
+          <button 
+            class="filter-btn px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
+            data-filter={region}
+          >
+            {region}
+          </button>
         ))}
       </div>
 
-      <!-- Пагинация (будущее) -->
-      <div class="mt-12 flex justify-center gap-2">
-        <span class="px-4 py-2 bg-[var(--color-primary)] text-white rounded-lg">1</span>
-        <span class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg cursor-pointer hover:bg-gray-200">2</span>
-        <span class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg cursor-pointer hover:bg-gray-200">3</span>
-        <span class="px-4 py-2 text-gray-500">...</span>
-        <span class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg cursor-pointer hover:bg-gray-200">10</span>
+      <!-- Список стран -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" id="countries-grid">
+        {countries.map(country => (
+          <div 
+            class="country-card" 
+            data-region={country.region}
+            data-beach={beachCountries.includes(country.slug) ? 'true' : 'false'}
+          >
+            <CountryCard 
+              name={country.name}
+              slug={country.slug}
+              image={country.image}
+              description={country.description}
+            />
+          </div>
+        ))}
+      </div>
+
+      <!-- Счётчик -->
+      <div class="mt-8 text-center text-gray-600">
+        Показано стран: <span id="countries-count">{countries.length}</span> из {countries.length}
       </div>
     </div>
   </section>
 
   <RequestForm source="countries-list" />
 </Layout>
+
+<script define:vars={{ beachCountries }}>
+  const filterButtons = document.querySelectorAll('.filter-btn')
+  const countryCards = document.querySelectorAll('.country-card')
+  const countEl = document.getElementById('countries-count')
+
+  filterButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      // Обновляем активную кнопку
+      filterButtons.forEach(b => {
+        b.classList.remove('bg-[var(--color-primary)]', 'text-white')
+        b.classList.add('bg-gray-100', 'text-gray-700')
+      })
+      btn.classList.remove('bg-gray-100', 'text-gray-700')
+      btn.classList.add('bg-[var(--color-primary)]', 'text-white')
+
+      const filter = btn.dataset.filter
+      let visibleCount = 0
+
+      countryCards.forEach(card => {
+        const region = card.dataset.region
+        const isBeach = card.dataset.beach === 'true'
+        let show = false
+
+        if (filter === 'all') {
+          show = true
+        } else if (filter === 'beach') {
+          show = isBeach
+        } else {
+          show = region === filter
+        }
+
+        if (show) {
+          card.style.display = ''
+          visibleCount++
+        } else {
+          card.style.display = 'none'
+        }
+      })
+
+      if (countEl) countEl.textContent = visibleCount.toString()
+    })
+  })
+</script>
+
+<style>
+  .filter-btn.bg-\[var\(--color-primary\)\] {
+    background-color: var(--color-primary) !important;
+    color: white !important;
+  }
+</style>

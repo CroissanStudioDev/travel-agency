@@ -2,17 +2,11 @@
 
 /* Премиум-палитра для турагентства */
 :root {
-  --color-primary: #1a365d;      /* Тёмно-синий */
-  --color-secondary: #c9a227;    /* Золотой */
-  --color-accent: #2c5282;       /* Средний синий */
-  --color-light: #f7fafc;        /* Светло-серый */
-  --color-dark: #1a202c;         /* Почти чёрный */
-}
-
-@theme {
-  --color-primary: var(--color-primary);
-  --color-secondary: var(--color-secondary);
-  --color-accent: var(--color-accent);
+  --color-primary: #1a365d;
+  --color-secondary: #c9a227;
+  --color-accent: #2c5282;
+  --color-light: #f7fafc;
+  --color-dark: #1a202c;
 }
 
 html {
@@ -24,3 +18,12 @@ body {
   color: var(--color-dark);
   background-color: white;
 }
+
+/* Утилиты для кастомных цветов */
+.bg-primary { background-color: var(--color-primary); }
+.bg-secondary { background-color: var(--color-secondary); }
+.bg-accent { background-color: var(--color-accent); }
+.bg-light { background-color: var(--color-light); }
+.text-primary { color: var(--color-primary); }
+.text-secondary { color: var(--color-secondary); }
+.text-accent { color: var(--color-accent); }

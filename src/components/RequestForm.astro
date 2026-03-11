@@ -26,14 +26,16 @@ const { source = 'unknown', class: className = '' } = Astro.props
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <!-- Имя -->
           <div>
-            <label for="name" class="block text-sm font-medium text-gray-700 mb-1">
+            <label for="form-name" class="block text-sm font-medium text-gray-700 mb-1">
               Имя <span class="text-red-500">*</span>
             </label>
             <input 
               type="text" 
-              id="name" 
+              id="form-name" 
               name="name" 
               required
+              pattern="[А-Яа-яЁёA-Za-z\s\-]+"
+              title="Только буквы"
               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
               placeholder="Ваше имя"
             />
@@ -41,12 +43,12 @@ const { source = 'unknown', class: className = '' } = Astro.props
 
           <!-- Телефон -->
           <div>
-            <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">
+            <label for="form-phone" class="block text-sm font-medium text-gray-700 mb-1">
               Телефон <span class="text-red-500">*</span>
             </label>
             <input 
               type="tel" 
-              id="phone" 
+              id="form-phone" 
               name="phone" 
               required
               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
@@ -56,12 +58,12 @@ const { source = 'unknown', class: className = '' } = Astro.props
 
           <!-- Email -->
           <div>
-            <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
+            <label for="form-email" class="block text-sm font-medium text-gray-700 mb-1">
               Email
             </label>
             <input 
               type="email" 
-              id="email" 
+              id="form-email" 
               name="email"
               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
               placeholder="email@example.com"
@@ -70,13 +72,15 @@ const { source = 'unknown', class: className = '' } = Astro.props
 
           <!-- Куда -->
           <div>
-            <label for="destination" class="block text-sm font-medium text-gray-700 mb-1">
+            <label for="form-destination" class="block text-sm font-medium text-gray-700 mb-1">
               Куда хотите поехать
             </label>
             <input 
               type="text" 
-              id="destination" 
+              id="form-destination" 
               name="destination"
+              pattern="[А-Яа-яЁёA-Za-z\s\-,]+"
+              title="Только буквы"
               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
               placeholder="Страна или город"
             />
@@ -84,12 +88,12 @@ const { source = 'unknown', class: className = '' } = Astro.props
 
           <!-- Даты -->
           <div>
-            <label for="dates" class="block text-sm font-medium text-gray-700 mb-1">
+            <label for="form-dates" class="block text-sm font-medium text-gray-700 mb-1">
               Даты поездки
             </label>
             <input 
               type="text" 
-              id="dates" 
+              id="form-dates" 
               name="dates"
               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
               placeholder="Примерные даты"
@@ -98,14 +102,15 @@ const { source = 'unknown', class: className = '' } = Astro.props
 
           <!-- Кол-во человек -->
           <div>
-            <label for="people" class="block text-sm font-medium text-gray-700 mb-1">
+            <label for="form-people" class="block text-sm font-medium text-gray-700 mb-1">
               Количество человек
             </label>
             <input 
               type="number" 
-              id="people" 
+              id="form-people" 
               name="people"
               min="1"
+              max="50"
               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
               placeholder="2"
             />
@@ -114,11 +119,11 @@ const { source = 'unknown', class: className = '' } = Astro.props
 
         <!-- Комментарий -->
         <div>
-          <label for="comment" class="block text-sm font-medium text-gray-700 mb-1">
+          <label for="form-comment" class="block text-sm font-medium text-gray-700 mb-1">
             Комментарий
           </label>
           <textarea 
-            id="comment" 
+            id="form-comment" 
             name="comment"
             rows="3"
             class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition resize-none"
@@ -130,12 +135,12 @@ const { source = 'unknown', class: className = '' } = Astro.props
         <div class="flex items-start gap-3">
           <input 
             type="checkbox" 
-            id="consent" 
+            id="form-consent" 
             name="consent" 
             required
             class="mt-1 w-4 h-4 text-[var(--color-secondary)] border-gray-300 rounded focus:ring-[var(--color-secondary)]"
           />
-          <label for="consent" class="text-sm text-gray-600">
+          <label for="form-consent" class="text-sm text-gray-600">
             Я согласен на <a href="/privacy" class="text-[var(--color-accent)] hover:underline">обработку персональных данных</a>
           </label>
         </div>
@@ -169,26 +174,62 @@ const { source = 'unknown', class: className = '' } = Astro.props
   })
 
   // Маска телефона
-  const phoneInput = document.getElementById('phone') as HTMLInputElement
-  phoneInput?.addEventListener('input', (e) => {
-    let value = (e.target as HTMLInputElement).value.replace(/\D/g, '')
-    if (value.length > 0) {
-      if (value[0] === '8') value = '7' + value.slice(1)
-      if (value[0] !== '7') value = '7' + value
-    }
-    let formatted = ''
-    if (value.length > 0) formatted = '+7'
-    if (value.length > 1) formatted += ' (' + value.slice(1, 4)
-    if (value.length > 4) formatted += ') ' + value.slice(4, 7)
-    if (value.length > 7) formatted += '-' + value.slice(7, 9)
-    if (value.length > 9) formatted += '-' + value.slice(9, 11)
-    phoneInput.value = formatted
-  })
+  const formPhone = document.getElementById('form-phone') as HTMLInputElement
+  if (formPhone) {
+    formPhone.addEventListener('focus', () => {
+      if (!formPhone.value) formPhone.value = '+7 ('
+    })
+
+    formPhone.addEventListener('input', (e) => {
+      let value = (e.target as HTMLInputElement).value.replace(/\D/g, '')
+      if (value.length > 0) {
+        if (value[0] === '8') value = '7' + value.slice(1)
+        if (value[0] !== '7') value = '7' + value
+      }
+      let formatted = ''
+      if (value.length > 0) formatted = '+7'
+      if (value.length > 1) formatted += ' (' + value.slice(1, 4)
+      if (value.length > 4) formatted += ') ' + value.slice(4, 7)
+      if (value.length > 7) formatted += '-' + value.slice(7, 9)
+      if (value.length > 9) formatted += '-' + value.slice(9, 11)
+      formPhone.value = formatted
+    })
+
+    formPhone.addEventListener('blur', () => {
+      if (formPhone.value === '+7 (' || formPhone.value === '+7') formPhone.value = ''
+    })
+  }
+
+  // Валидация имени — только буквы
+  const formName = document.getElementById('form-name') as HTMLInputElement
+  if (formName) {
+    formName.addEventListener('input', (e) => {
+      const input = e.target as HTMLInputElement
+      input.value = input.value.replace(/[^А-Яа-яЁёA-Za-z\s\-]/g, '')
+    })
+  }
+
+  // Валидация направления — только буквы
+  const formDestination = document.getElementById('form-destination') as HTMLInputElement
+  if (formDestination) {
+    formDestination.addEventListener('input', (e) => {
+      const input = e.target as HTMLInputElement
+      input.value = input.value.replace(/[^А-Яа-яЁёA-Za-z\s\-,]/g, '')
+    })
+  }
 
   // Отправка формы
   const form = document.getElementById('travel-form') as HTMLFormElement
   form?.addEventListener('submit', async (e) => {
     e.preventDefault()
+
+    // Проверка телефона (минимум 11 цифр)
+    const phoneDigits = formPhone?.value.replace(/\D/g, '') || ''
+    if (phoneDigits.length < 11) {
+      alert('Введите корректный номер телефона')
+      return
+    }
+
     const formData = new FormData(form)
     const data = Object.fromEntries(formData)
     data.timestamp = new Date().toISOString()
