@@ -2292,5 +2292,787 @@
       "Туфандаг",
       "Водопады"
     ]
+  },
+  {
+    "name": "Вена",
+    "slug": "vienna",
+    "country": "austria",
+    "countryName": "Австрия",
+    "image": "https://images.pexels.com/photos/2351425/pexels-photo-2351425.jpeg?w=800",
+    "description": "Имперская столица.",
+    "highlights": [
+      "Шёнбрунн",
+      "Опера"
+    ]
+  },
+  {
+    "name": "Зальцбург",
+    "slug": "salzburg",
+    "country": "austria",
+    "countryName": "Австрия",
+    "image": "https://images.pexels.com/photos/2351437/pexels-photo-2351437.jpeg?w=800",
+    "description": "Город Моцарта.",
+    "highlights": [
+      "Крепость",
+      "Мирабель"
+    ]
+  },
+  {
+    "name": "Инсбрук",
+    "slug": "innsbruck",
+    "country": "austria",
+    "countryName": "Австрия",
+    "image": "https://images.pexels.com/photos/2351449/pexels-photo-2351449.jpeg?w=800",
+    "description": "Альпийская столица.",
+    "highlights": [
+      "Золотая крыша",
+      "Лыжи"
+    ]
+  },
+  {
+    "name": "Гальштат",
+    "slug": "hallstatt",
+    "country": "austria",
+    "countryName": "Австрия",
+    "image": "https://images.pexels.com/photos/2351461/pexels-photo-2351461.jpeg?w=800",
+    "description": "Открыточный город.",
+    "highlights": [
+      "Озеро",
+      "Соляная шахта"
+    ]
+  },
+  {
+    "name": "Цюрих",
+    "slug": "zurich",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/2422497/pexels-photo-2422497.jpeg?w=800",
+    "description": "Финансовая столица.",
+    "highlights": [
+      "Старый город",
+      "Озеро"
+    ]
+  },
+  {
+    "name": "Женева",
+    "slug": "geneva",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/2422509/pexels-photo-2422509.jpeg?w=800",
+    "description": "Город ООН.",
+    "highlights": [
+      "Фонтан",
+      "Озеро Леман"
+    ]
+  },
+  {
+    "name": "Люцерн",
+    "slug": "lucerne",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/2422521/pexels-photo-2422521.jpeg?w=800",
+    "description": "Сердце Швейцарии.",
+    "highlights": [
+      "Мост",
+      "Пилатус"
+    ]
+  },
+  {
+    "name": "Интерлакен",
+    "slug": "interlaken",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/2422533/pexels-photo-2422533.jpeg?w=800",
+    "description": "Между двух озёр.",
+    "highlights": [
+      "Юнгфрау",
+      "Парапланы"
+    ]
+  },
+  {
+    "name": "Церматт",
+    "slug": "zermatt",
+    "country": "switzerland",
+    "countryName": "Швейцария",
+    "image": "https://images.pexels.com/photos/2422545/pexels-photo-2422545.jpeg?w=800",
+    "description": "Маттерхорн.",
+    "highlights": [
+      "Маттерхорн",
+      "Лыжи"
+    ]
+  },
+  {
+    "name": "Прага",
+    "slug": "prague",
+    "country": "czech-republic",
+    "countryName": "Чехия",
+    "image": "https://images.pexels.com/photos/2346216/pexels-photo-2346216.jpeg?w=800",
+    "description": "Золотой город.",
+    "highlights": [
+      "Карлов мост",
+      "Град"
+    ]
+  },
+  {
+    "name": "Чески-Крумлов",
+    "slug": "cesky-krumlov",
+    "country": "czech-republic",
+    "countryName": "Чехия",
+    "image": "https://images.pexels.com/photos/2346228/pexels-photo-2346228.jpeg?w=800",
+    "description": "Сказочный городок.",
+    "highlights": [
+      "Замок",
+      "Влтава"
+    ]
+  },
+  {
+    "name": "Карловы Вары",
+    "slug": "karlovy-vary",
+    "country": "czech-republic",
+    "countryName": "Чехия",
+    "image": "https://images.pexels.com/photos/2346240/pexels-photo-2346240.jpeg?w=800",
+    "description": "Город источников.",
+    "highlights": [
+      "Источники",
+      "Бехеровка"
+    ]
+  },
+  {
+    "name": "Брно",
+    "slug": "brno",
+    "country": "czech-republic",
+    "countryName": "Чехия",
+    "image": "https://images.pexels.com/photos/2346252/pexels-photo-2346252.jpeg?w=800",
+    "description": "Вторая столица.",
+    "highlights": [
+      "Шпильберг"
+    ]
+  },
+  {
+    "name": "Лиссабон",
+    "slug": "lisbon",
+    "country": "portugal",
+    "countryName": "Португалия",
+    "image": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?w=800",
+    "description": "Город на холмах.",
+    "highlights": [
+      "Белен",
+      "Трамвай 28"
+    ]
+  },
+  {
+    "name": "Порту",
+    "slug": "porto",
+    "country": "portugal",
+    "countryName": "Португалия",
+    "image": "https://images.pexels.com/photos/1534572/pexels-photo-1534572.jpeg?w=800",
+    "description": "Город портвейна.",
+    "highlights": [
+      "Рибейра",
+      "Винные погреба"
+    ]
+  },
+  {
+    "name": "Синтра",
+    "slug": "sintra",
+    "country": "portugal",
+    "countryName": "Португалия",
+    "image": "https://images.pexels.com/photos/1534584/pexels-photo-1534584.jpeg?w=800",
+    "description": "Дворцы в лесу.",
+    "highlights": [
+      "Пена"
+    ]
+  },
+  {
+    "name": "Мадейра",
+    "slug": "madeira",
+    "country": "portugal",
+    "countryName": "Португалия",
+    "image": "https://images.pexels.com/photos/1534596/pexels-photo-1534596.jpeg?w=800",
+    "description": "Остров вечной весны.",
+    "highlights": [
+      "Левады",
+      "Фуншал"
+    ]
+  },
+  {
+    "name": "Алгарве",
+    "slug": "algarve",
+    "country": "portugal",
+    "countryName": "Португалия",
+    "image": "https://images.pexels.com/photos/1534608/pexels-photo-1534608.jpeg?w=800",
+    "description": "Южное побережье.",
+    "highlights": [
+      "Пляжи",
+      "Скалы"
+    ]
+  },
+  {
+    "name": "София",
+    "slug": "sofia",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029720/pexels-photo-2029720.jpeg?w=800",
+    "description": "Столица.",
+    "highlights": [
+      "Александр Невский"
+    ]
+  },
+  {
+    "name": "Пловдив",
+    "slug": "plovdiv",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029732/pexels-photo-2029732.jpeg?w=800",
+    "description": "Культурная столица.",
+    "highlights": [
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Варна",
+    "slug": "varna",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029744/pexels-photo-2029744.jpeg?w=800",
+    "description": "Морская столица.",
+    "highlights": [
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Несебр",
+    "slug": "nessebar",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029768/pexels-photo-2029768.jpeg?w=800",
+    "description": "Древний полуостров.",
+    "highlights": [
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Солнечный Берег",
+    "slug": "sunny-beach",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029780/pexels-photo-2029780.jpeg?w=800",
+    "description": "Главный курорт.",
+    "highlights": [
+      "Пляж"
+    ]
+  },
+  {
+    "name": "Золотые Пески",
+    "slug": "golden-sands",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029792/pexels-photo-2029792.jpeg?w=800",
+    "description": "Северный курорт.",
+    "highlights": [
+      "Аквапарк"
+    ]
+  },
+  {
+    "name": "Банско",
+    "slug": "bansko",
+    "country": "bulgaria",
+    "countryName": "Болгария",
+    "image": "https://images.pexels.com/photos/2029804/pexels-photo-2029804.jpeg?w=800",
+    "description": "Горнолыжный курорт.",
+    "highlights": [
+      "Лыжи"
+    ]
+  },
+  {
+    "name": "Будапешт",
+    "slug": "budapest",
+    "country": "hungary",
+    "countryName": "Венгрия",
+    "image": "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?w=800",
+    "description": "Жемчужина Дуная.",
+    "highlights": [
+      "Парламент",
+      "Купальни"
+    ]
+  },
+  {
+    "name": "Варшава",
+    "slug": "warsaw",
+    "country": "poland",
+    "countryName": "Польша",
+    "image": "https://images.pexels.com/photos/3566120/pexels-photo-3566120.jpeg?w=800",
+    "description": "Восставшая столица.",
+    "highlights": [
+      "Старый город"
+    ]
+  },
+  {
+    "name": "Краков",
+    "slug": "krakow",
+    "country": "poland",
+    "countryName": "Польша",
+    "image": "https://images.pexels.com/photos/3566132/pexels-photo-3566132.jpeg?w=800",
+    "description": "Королевский город.",
+    "highlights": [
+      "Вавель",
+      "Рынок"
+    ]
+  },
+  {
+    "name": "Гданьск",
+    "slug": "gdansk",
+    "country": "poland",
+    "countryName": "Польша",
+    "image": "https://images.pexels.com/photos/3566144/pexels-photo-3566144.jpeg?w=800",
+    "description": "Янтарная столица.",
+    "highlights": [
+      "Длуга"
+    ]
+  },
+  {
+    "name": "Берлин",
+    "slug": "berlin",
+    "country": "germany",
+    "countryName": "Германия",
+    "image": "https://images.pexels.com/photos/109630/pexels-photo-109630.jpeg?w=800",
+    "description": "Город истории.",
+    "highlights": [
+      "Стена",
+      "Бранденбург"
+    ]
+  },
+  {
+    "name": "Мюнхен",
+    "slug": "munich",
+    "country": "germany",
+    "countryName": "Германия",
+    "image": "https://images.pexels.com/photos/109642/pexels-photo-109642.jpeg?w=800",
+    "description": "Столица Баварии.",
+    "highlights": [
+      "Мариенплац",
+      "Пиво"
+    ]
+  },
+  {
+    "name": "Амстердам",
+    "slug": "amsterdam",
+    "country": "netherlands",
+    "countryName": "Нидерланды",
+    "image": "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?w=800",
+    "description": "Город каналов.",
+    "highlights": [
+      "Каналы",
+      "Ван Гог"
+    ]
+  },
+  {
+    "name": "Брюссель",
+    "slug": "brussels",
+    "country": "belgium",
+    "countryName": "Бельгия",
+    "image": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?w=800",
+    "description": "Столица ЕС.",
+    "highlights": [
+      "Гранд-Плас"
+    ]
+  },
+  {
+    "name": "Брюгге",
+    "slug": "bruges",
+    "country": "belgium",
+    "countryName": "Бельгия",
+    "image": "https://images.pexels.com/photos/1595097/pexels-photo-1595097.jpeg?w=800",
+    "description": "Северная Венеция.",
+    "highlights": [
+      "Каналы",
+      "Шоколад"
+    ]
+  },
+  {
+    "name": "Валлетта",
+    "slug": "valletta",
+    "country": "malta",
+    "countryName": "Мальта",
+    "image": "https://images.pexels.com/photos/3732494/pexels-photo-3732494.jpeg?w=800",
+    "description": "Крепость в море.",
+    "highlights": [
+      "Собор",
+      "Форт"
+    ]
+  },
+  {
+    "name": "Гозо",
+    "slug": "gozo",
+    "country": "malta",
+    "countryName": "Мальта",
+    "image": "https://images.pexels.com/photos/3732518/pexels-photo-3732518.jpeg?w=800",
+    "description": "Остров Калипсо.",
+    "highlights": [
+      "Виктория"
+    ]
+  },
+  {
+    "name": "Хельсинки",
+    "slug": "helsinki",
+    "country": "finland",
+    "countryName": "Финляндия",
+    "image": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?w=800",
+    "description": "Дизайн и сауна.",
+    "highlights": [
+      "Суоменлинна"
+    ]
+  },
+  {
+    "name": "Лапландия",
+    "slug": "lapland",
+    "country": "finland",
+    "countryName": "Финляндия",
+    "image": "https://images.pexels.com/photos/1823693/pexels-photo-1823693.jpeg?w=800",
+    "description": "Родина Санты.",
+    "highlights": [
+      "Северное сияние"
+    ]
+  },
+  {
+    "name": "Осло",
+    "slug": "oslo",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1562058/pexels-photo-1562058.jpeg?w=800",
+    "description": "Столица фьордов.",
+    "highlights": [
+      "Опера"
+    ]
+  },
+  {
+    "name": "Берген",
+    "slug": "bergen",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1562070/pexels-photo-1562070.jpeg?w=800",
+    "description": "Ворота во фьорды.",
+    "highlights": [
+      "Брюгген"
+    ]
+  },
+  {
+    "name": "Тромсё",
+    "slug": "tromso",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1562082/pexels-photo-1562082.jpeg?w=800",
+    "description": "Арктические ворота.",
+    "highlights": [
+      "Сияние",
+      "Киты"
+    ]
+  },
+  {
+    "name": "Лофотены",
+    "slug": "lofoten",
+    "country": "norway",
+    "countryName": "Норвегия",
+    "image": "https://images.pexels.com/photos/1562094/pexels-photo-1562094.jpeg?w=800",
+    "description": "Острова викингов.",
+    "highlights": [
+      "Рыбацкие домики"
+    ]
+  },
+  {
+    "name": "Стокгольм",
+    "slug": "stockholm",
+    "country": "sweden",
+    "countryName": "Швеция",
+    "image": "https://images.pexels.com/photos/2376566/pexels-photo-2376566.jpeg?w=800",
+    "description": "Северная Венеция.",
+    "highlights": [
+      "Гамла Стан",
+      "Васа"
+    ]
+  },
+  {
+    "name": "Копенгаген",
+    "slug": "copenhagen",
+    "country": "denmark",
+    "countryName": "Дания",
+    "image": "https://images.pexels.com/photos/2566860/pexels-photo-2566860.jpeg?w=800",
+    "description": "Город хюгге.",
+    "highlights": [
+      "Нюхавн",
+      "Русалочка"
+    ]
+  },
+  {
+    "name": "Рейкьявик",
+    "slug": "reykjavik",
+    "country": "iceland",
+    "countryName": "Исландия",
+    "image": "https://images.pexels.com/photos/2113566/pexels-photo-2113566.jpeg?w=800",
+    "description": "Край гейзеров.",
+    "highlights": [
+      "Золотое кольцо",
+      "Сияние"
+    ]
+  },
+  {
+    "name": "Дублин",
+    "slug": "dublin",
+    "country": "ireland",
+    "countryName": "Ирландия",
+    "image": "https://images.pexels.com/photos/2416653/pexels-photo-2416653.jpeg?w=800",
+    "description": "Город пабов.",
+    "highlights": [
+      "Temple Bar",
+      "Guinness"
+    ]
+  },
+  {
+    "name": "Эдинбург",
+    "slug": "edinburgh",
+    "country": "united-kingdom",
+    "countryName": "Великобритания",
+    "image": "https://images.pexels.com/photos/2893285/pexels-photo-2893285.jpeg?w=800",
+    "description": "Шотландская столица.",
+    "highlights": [
+      "Замок",
+      "Роял Майл"
+    ]
+  },
+  {
+    "name": "Лондон",
+    "slug": "london",
+    "country": "united-kingdom",
+    "countryName": "Великобритания",
+    "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?w=800",
+    "description": "Столица королевства.",
+    "highlights": [
+      "Биг-Бен",
+      "Тауэр"
+    ]
+  },
+  {
+    "name": "Салоники",
+    "slug": "thessaloniki",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/772773/pexels-photo-772773.jpeg?w=800",
+    "description": "Северная столица.",
+    "highlights": [
+      "Белая башня"
+    ]
+  },
+  {
+    "name": "Закинтос",
+    "slug": "zakynthos",
+    "country": "greece",
+    "countryName": "Греция",
+    "image": "https://images.pexels.com/photos/772761/pexels-photo-772761.jpeg?w=800",
+    "description": "Бухта Навагио.",
+    "highlights": [
+      "Навагио"
+    ]
+  },
+  {
+    "name": "Эгер",
+    "slug": "eger",
+    "country": "hungary",
+    "countryName": "Венгрия",
+    "image": "https://images.pexels.com/photos/1438773/pexels-photo-1438773.jpeg?w=800",
+    "description": "Город вина.",
+    "highlights": [
+      "Крепость"
+    ]
+  },
+  {
+    "name": "Балатон",
+    "slug": "balaton",
+    "country": "hungary",
+    "countryName": "Венгрия",
+    "image": "https://images.pexels.com/photos/1438785/pexels-photo-1438785.jpeg?w=800",
+    "description": "Венгерское море.",
+    "highlights": [
+      "Тихань"
+    ]
+  },
+  {
+    "name": "Вроцлав",
+    "slug": "wroclaw",
+    "country": "poland",
+    "countryName": "Польша",
+    "image": "https://images.pexels.com/photos/3566156/pexels-photo-3566156.jpeg?w=800",
+    "description": "Город гномов.",
+    "highlights": [
+      "Рынок",
+      "Гномы"
+    ]
+  },
+  {
+    "name": "Закопане",
+    "slug": "zakopane",
+    "country": "poland",
+    "countryName": "Польша",
+    "image": "https://images.pexels.com/photos/3566168/pexels-photo-3566168.jpeg?w=800",
+    "description": "Зимняя столица.",
+    "highlights": [
+      "Татры"
+    ]
+  },
+  {
+    "name": "Гамбург",
+    "slug": "hamburg",
+    "country": "germany",
+    "countryName": "Германия",
+    "image": "https://images.pexels.com/photos/109654/pexels-photo-109654.jpeg?w=800",
+    "description": "Портовый город.",
+    "highlights": [
+      "Шпайхерштадт"
+    ]
+  },
+  {
+    "name": "Кёльн",
+    "slug": "cologne",
+    "country": "germany",
+    "countryName": "Германия",
+    "image": "https://images.pexels.com/photos/109666/pexels-photo-109666.jpeg?w=800",
+    "description": "Город собора.",
+    "highlights": [
+      "Собор"
+    ]
+  },
+  {
+    "name": "Дрезден",
+    "slug": "dresden",
+    "country": "germany",
+    "countryName": "Германия",
+    "image": "https://images.pexels.com/photos/109678/pexels-photo-109678.jpeg?w=800",
+    "description": "Флоренция на Эльбе.",
+    "highlights": [
+      "Цвингер"
+    ]
+  },
+  {
+    "name": "Роттердам",
+    "slug": "rotterdam",
+    "country": "netherlands",
+    "countryName": "Нидерланды",
+    "image": "https://images.pexels.com/photos/2031718/pexels-photo-2031718.jpeg?w=800",
+    "description": "Город архитектуры.",
+    "highlights": [
+      "Кубические дома"
+    ]
+  },
+  {
+    "name": "Гент",
+    "slug": "ghent",
+    "country": "belgium",
+    "countryName": "Бельгия",
+    "image": "https://images.pexels.com/photos/1595109/pexels-photo-1595109.jpeg?w=800",
+    "description": "Студенческий город.",
+    "highlights": [
+      "Граффити"
+    ]
+  },
+  {
+    "name": "Антверпен",
+    "slug": "antwerp",
+    "country": "belgium",
+    "countryName": "Бельгия",
+    "image": "https://images.pexels.com/photos/1595121/pexels-photo-1595121.jpeg?w=800",
+    "description": "Город алмазов.",
+    "highlights": [
+      "Вокзал"
+    ]
+  },
+  {
+    "name": "Мдина",
+    "slug": "mdina",
+    "country": "malta",
+    "countryName": "Мальта",
+    "image": "https://images.pexels.com/photos/3732506/pexels-photo-3732506.jpeg?w=800",
+    "description": "Молчаливый город.",
+    "highlights": [
+      "Стены"
+    ]
+  },
+  {
+    "name": "Слима",
+    "slug": "sliema",
+    "country": "malta",
+    "countryName": "Мальта",
+    "image": "https://images.pexels.com/photos/3732530/pexels-photo-3732530.jpeg?w=800",
+    "description": "Курортный город.",
+    "highlights": [
+      "Набережная"
+    ]
+  },
+  {
+    "name": "Тампере",
+    "slug": "tampere",
+    "country": "finland",
+    "countryName": "Финляндия",
+    "image": "https://images.pexels.com/photos/1823705/pexels-photo-1823705.jpeg?w=800",
+    "description": "Сауна-столица.",
+    "highlights": [
+      "Муми-музей"
+    ]
+  },
+  {
+    "name": "Гётеборг",
+    "slug": "gothenburg",
+    "country": "sweden",
+    "countryName": "Швеция",
+    "image": "https://images.pexels.com/photos/2376578/pexels-photo-2376578.jpeg?w=800",
+    "description": "Морской город.",
+    "highlights": [
+      "Лисеберг"
+    ]
+  },
+  {
+    "name": "Мальмё",
+    "slug": "malmo",
+    "country": "sweden",
+    "countryName": "Швеция",
+    "image": "https://images.pexels.com/photos/2376590/pexels-photo-2376590.jpeg?w=800",
+    "description": "Город дизайна.",
+    "highlights": [
+      "Turning Torso"
+    ]
+  },
+  {
+    "name": "Абхазия Гагра",
+    "slug": "gagra",
+    "country": "abkhazia",
+    "countryName": "Абхазия",
+    "image": "https://images.pexels.com/photos/2440079/pexels-photo-2440079.jpeg?w=800",
+    "description": "Субтропический курорт.",
+    "highlights": [
+      "Колоннада",
+      "Пляжи"
+    ]
+  },
+  {
+    "name": "Пицунда",
+    "slug": "pitsunda",
+    "country": "abkhazia",
+    "countryName": "Абхазия",
+    "image": "https://images.pexels.com/photos/2440061/pexels-photo-2440061.jpeg?w=800",
+    "description": "Реликтовые сосны.",
+    "highlights": [
+      "Роща",
+      "Пляж"
+    ]
+  },
+  {
+    "name": "Сухум",
+    "slug": "sukhum",
+    "country": "abkhazia",
+    "countryName": "Абхазия",
+    "image": "https://images.pexels.com/photos/2440053/pexels-photo-2440053.jpeg?w=800",
+    "description": "Столица.",
+    "highlights": [
+      "Набережная",
+      "Обезьяний питомник"
+    ]
   }
 ]
