@@ -1,0 +1,80 @@
+---
+interface Props {
+  title: string
+  subtitle?: string
+  image: string
+  showForm?: boolean
+}
+
+const { title, subtitle, image, showForm = false } = Astro.props
+---
+
+<section class="relative min-h-[70vh] flex items-center">
+  <!-- Фон -->
+  <div class="absolute inset-0">
+    <img 
+      src={image} 
+      alt=""
+      class="w-full h-full object-cover"
+    />
+    <div class="absolute inset-0 bg-black/40"></div>
+  </div>
+
+  <!-- Контент -->
+  <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 w-full">
+    <div class={showForm ? 'grid grid-cols-1 lg:grid-cols-2 gap-12 items-center' : ''}>
+      <div class="text-white">
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+          {title}
+        </h1>
+        {subtitle && (
+          <p class="text-xl md:text-2xl text-gray-200 mb-8 max-w-2xl">
+            {subtitle}
+          </p>
+        )}
+        {!showForm && (
+          <a 
+            href="#request-form"
+            class="inline-flex bg-[var(--color-secondary)] text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-[var(--color-secondary)]/90 transition-colors"
+          >
+            Подобрать тур
+          </a>
+        )}
+      </div>
+
+      {showForm && (
+        <div class="bg-white rounded-2xl p-6 shadow-2xl">
+          <h2 class="text-xl font-bold text-[var(--color-primary)] mb-4">Быстрая заявка</h2>
+          <form class="space-y-4" id="hero-form">
+            <input 
+              type="text" 
+              name="name" 
+              placeholder="Ваше имя" 
+              required
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
+            />
+            <input 
+              type="tel" 
+              name="phone" 
+              placeholder="+7 (___) ___-__-__" 
+              required
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
+            />
+            <input 
+              type="text" 
+              name="destination" 
+              placeholder="Куда хотите поехать?"
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] outline-none"
+            />
+            <button 
+              type="submit"
+              class="w-full bg-[var(--color-secondary)] text-white py-3 rounded-lg font-semibold hover:bg-[var(--color-secondary)]/90 transition-colors"
+            >
+              Получить предложение
+            </button>
+          </form>
+        </div>
+      )}
+    </div>
+  </div>
+</section>

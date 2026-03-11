@@ -1,0 +1,213 @@
+---
+interface Props {
+  source?: string
+  class?: string
+}
+
+const { source = 'unknown', class: className = '' } = Astro.props
+---
+
+<section id="request-form" class={`bg-[var(--color-light)] py-16 ${className}`}>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="bg-white rounded-2xl shadow-xl p-8">
+      <h2 class="text-2xl font-bold text-center text-[var(--color-primary)] mb-2">
+        Оставить заявку
+      </h2>
+      <p class="text-gray-600 text-center mb-8">
+        Заполните форму, и мы подберём идеальный тур для вас
+      </p>
+
+      <form id="travel-form" class="space-y-6">
+        <input type="hidden" name="source" value={source} />
+        <input type="hidden" name="utm_source" id="utm_source" />
+        <input type="hidden" name="utm_medium" id="utm_medium" />
+        <input type="hidden" name="utm_campaign" id="utm_campaign" />
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <!-- Имя -->
+          <div>
+            <label for="name" class="block text-sm font-medium text-gray-700 mb-1">
+              Имя <span class="text-red-500">*</span>
+            </label>
+            <input 
+              type="text" 
+              id="name" 
+              name="name" 
+              required
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
+              placeholder="Ваше имя"
+            />
+          </div>
+
+          <!-- Телефон -->
+          <div>
+            <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">
+              Телефон <span class="text-red-500">*</span>
+            </label>
+            <input 
+              type="tel" 
+              id="phone" 
+              name="phone" 
+              required
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
+              placeholder="+7 (___) ___-__-__"
+            />
+          </div>
+
+          <!-- Email -->
+          <div>
+            <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
+              Email
+            </label>
+            <input 
+              type="email" 
+              id="email" 
+              name="email"
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
+              placeholder="email@example.com"
+            />
+          </div>
+
+          <!-- Куда -->
+          <div>
+            <label for="destination" class="block text-sm font-medium text-gray-700 mb-1">
+              Куда хотите поехать
+            </label>
+            <input 
+              type="text" 
+              id="destination" 
+              name="destination"
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
+              placeholder="Страна или город"
+            />
+          </div>
+
+          <!-- Даты -->
+          <div>
+            <label for="dates" class="block text-sm font-medium text-gray-700 mb-1">
+              Даты поездки
+            </label>
+            <input 
+              type="text" 
+              id="dates" 
+              name="dates"
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
+              placeholder="Примерные даты"
+            />
+          </div>
+
+          <!-- Кол-во человек -->
+          <div>
+            <label for="people" class="block text-sm font-medium text-gray-700 mb-1">
+              Количество человек
+            </label>
+            <input 
+              type="number" 
+              id="people" 
+              name="people"
+              min="1"
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition"
+              placeholder="2"
+            />
+          </div>
+        </div>
+
+        <!-- Комментарий -->
+        <div>
+          <label for="comment" class="block text-sm font-medium text-gray-700 mb-1">
+            Комментарий
+          </label>
+          <textarea 
+            id="comment" 
+            name="comment"
+            rows="3"
+            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--color-secondary)] focus:border-transparent outline-none transition resize-none"
+            placeholder="Пожелания к туру..."
+          ></textarea>
+        </div>
+
+        <!-- Согласие -->
+        <div class="flex items-start gap-3">
+          <input 
+            type="checkbox" 
+            id="consent" 
+            name="consent" 
+            required
+            class="mt-1 w-4 h-4 text-[var(--color-secondary)] border-gray-300 rounded focus:ring-[var(--color-secondary)]"
+          />
+          <label for="consent" class="text-sm text-gray-600">
+            Я согласен на <a href="/privacy" class="text-[var(--color-accent)] hover:underline">обработку персональных данных</a>
+          </label>
+        </div>
+
+        <!-- Кнопка -->
+        <button 
+          type="submit"
+          class="w-full bg-[var(--color-secondary)] text-white py-4 rounded-lg font-semibold text-lg hover:bg-[var(--color-secondary)]/90 transition-colors"
+        >
+          Отправить заявку
+        </button>
+      </form>
+
+      <!-- Успех -->
+      <div id="form-success" class="hidden text-center py-8">
+        <div class="text-5xl mb-4">✈️</div>
+        <h3 class="text-xl font-bold text-[var(--color-primary)] mb-2">Заявка отправлена!</h3>
+        <p class="text-gray-600">Мы свяжемся с вами в ближайшее время</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  // UTM-метки
+  const params = new URLSearchParams(window.location.search)
+  const utmFields = ['utm_source', 'utm_medium', 'utm_campaign']
+  utmFields.forEach(field => {
+    const el = document.getElementById(field) as HTMLInputElement
+    if (el && params.get(field)) el.value = params.get(field) || ''
+  })
+
+  // Маска телефона
+  const phoneInput = document.getElementById('phone') as HTMLInputElement
+  phoneInput?.addEventListener('input', (e) => {
+    let value = (e.target as HTMLInputElement).value.replace(/\D/g, '')
+    if (value.length > 0) {
+      if (value[0] === '8') value = '7' + value.slice(1)
+      if (value[0] !== '7') value = '7' + value
+    }
+    let formatted = ''
+    if (value.length > 0) formatted = '+7'
+    if (value.length > 1) formatted += ' (' + value.slice(1, 4)
+    if (value.length > 4) formatted += ') ' + value.slice(4, 7)
+    if (value.length > 7) formatted += '-' + value.slice(7, 9)
+    if (value.length > 9) formatted += '-' + value.slice(9, 11)
+    phoneInput.value = formatted
+  })
+
+  // Отправка формы
+  const form = document.getElementById('travel-form') as HTMLFormElement
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault()
+    const formData = new FormData(form)
+    const data = Object.fromEntries(formData)
+    data.timestamp = new Date().toISOString()
+    
+    try {
+      // TODO: Заменить на реальный endpoint для Telegram
+      const response = await fetch('/api/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      })
+      
+      if (response.ok) {
+        form.classList.add('hidden')
+        document.getElementById('form-success')?.classList.remove('hidden')
+      }
+    } catch (error) {
+      console.error('Error:', error)
+      alert('Произошла ошибка. Попробуйте позже.')
+    }
+  })
+</script>

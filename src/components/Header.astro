@@ -1,0 +1,76 @@
+---
+const navItems = [
+  { href: '/', label: 'Главная' },
+  { href: '/countries', label: 'Направления' },
+  { href: '/services', label: 'Услуги' },
+  { href: '/about', label: 'О нас' },
+  { href: '/contacts', label: 'Контакты' },
+]
+---
+
+<header class="bg-white shadow-sm sticky top-0 z-50">
+  <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-16">
+      <!-- Лого -->
+      <a href="/" class="flex items-center gap-2">
+        <span class="text-2xl font-bold text-[var(--color-primary)]">Премиум</span>
+        <span class="text-2xl font-light text-[var(--color-secondary)]">Тур</span>
+      </a>
+
+      <!-- Навигация (десктоп) -->
+      <div class="hidden md:flex items-center gap-8">
+        {navItems.map(item => (
+          <a 
+            href={item.href} 
+            class="text-gray-700 hover:text-[var(--color-primary)] transition-colors font-medium"
+          >
+            {item.label}
+          </a>
+        ))}
+      </div>
+
+      <!-- Кнопка заявки -->
+      <a 
+        href="#request-form" 
+        class="hidden sm:inline-flex bg-[var(--color-secondary)] text-white px-5 py-2 rounded-lg font-medium hover:bg-[var(--color-secondary)]/90 transition-colors"
+      >
+        Оставить заявку
+      </a>
+
+      <!-- Мобильное меню (кнопка) -->
+      <button 
+        id="mobile-menu-btn"
+        class="md:hidden p-2 text-gray-700"
+        aria-label="Меню"
+      >
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Мобильное меню -->
+    <div id="mobile-menu" class="hidden md:hidden pb-4">
+      {navItems.map(item => (
+        <a 
+          href={item.href} 
+          class="block py-2 text-gray-700 hover:text-[var(--color-primary)]"
+        >
+          {item.label}
+        </a>
+      ))}
+      <a 
+        href="#request-form" 
+        class="block mt-2 bg-[var(--color-secondary)] text-white px-5 py-2 rounded-lg font-medium text-center"
+      >
+        Оставить заявку
+      </a>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn')
+  const menu = document.getElementById('mobile-menu')
+  btn?.addEventListener('click', () => menu?.classList.toggle('hidden'))
+</script>

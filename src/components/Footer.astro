@@ -1,0 +1,70 @@
+---
+const currentYear = new Date().getFullYear()
+---
+
+<footer class="bg-[var(--color-primary)] text-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+      
+      <!-- О компании -->
+      <div>
+        <div class="flex items-center gap-2 mb-4">
+          <span class="text-xl font-bold">Премиум</span>
+          <span class="text-xl font-light text-[var(--color-secondary)]">Тур</span>
+        </div>
+        <p class="text-gray-300 text-sm">
+          Индивидуальные туры премиум-класса по всему миру. 
+          Работаем с 2010 года.
+        </p>
+      </div>
+
+      <!-- Направления -->
+      <div>
+        <h3 class="font-semibold mb-4">Популярные направления</h3>
+        <ul class="space-y-2 text-gray-300 text-sm">
+          <li><a href="/countries/maldives" class="hover:text-white">Мальдивы</a></li>
+          <li><a href="/countries/thailand" class="hover:text-white">Таиланд</a></li>
+          <li><a href="/countries/uae" class="hover:text-white">ОАЭ</a></li>
+          <li><a href="/countries/turkey" class="hover:text-white">Турция</a></li>
+          <li><a href="/countries" class="hover:text-[var(--color-secondary)]">Все страны →</a></li>
+        </ul>
+      </div>
+
+      <!-- Услуги -->
+      <div>
+        <h3 class="font-semibold mb-4">Услуги</h3>
+        <ul class="space-y-2 text-gray-300 text-sm">
+          <li><a href="/services#tours" class="hover:text-white">Подбор туров</a></li>
+          <li><a href="/services#visa" class="hover:text-white">Визовая поддержка</a></li>
+          <li><a href="/services#transfer" class="hover:text-white">Трансферы</a></li>
+          <li><a href="/services#insurance" class="hover:text-white">Страхование</a></li>
+          <li><a href="/services#vip" class="hover:text-white">VIP-сервис</a></li>
+        </ul>
+      </div>
+
+      <!-- Контакты -->
+      <div>
+        <h3 class="font-semibold mb-4">Контакты</h3>
+        <ul class="space-y-2 text-gray-300 text-sm">
+          <li>📞 +7 (495) 123-45-67</li>
+          <li>✉️ info@premiumtour.ru</li>
+          <li>📍 Москва, ул. Примерная, 1</li>
+        </ul>
+        <div class="flex gap-4 mt-4">
+          <a href="#" class="text-gray-300 hover:text-white">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+          </a>
+          <a href="#" class="text-gray-300 hover:text-white">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073z"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Копирайт -->
+    <div class="border-t border-gray-600 mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-400">
+      <p>© {currentYear} Премиум Тур. Все права защищены.</p>
+      <a href="/privacy" class="hover:text-white mt-2 sm:mt-0">Политика конфиденциальности</a>
+    </div>
+  </div>
+</footer>

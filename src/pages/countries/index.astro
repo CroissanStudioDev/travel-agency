@@ -1,0 +1,51 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import HeroBanner from '../../components/HeroBanner.astro'
+import CountryCard from '../../components/CountryCard.astro'
+import RequestForm from '../../components/RequestForm.astro'
+import countries from '../../data/countries.json'
+---
+
+<Layout title="Все направления" description="Более 50 стран для вашего путешествия. Выберите направление мечты.">
+  <HeroBanner 
+    title="Направления"
+    subtitle="Более 50 стран мира ждут вас"
+    image="https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1920"
+  />
+
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Фильтры (будущее) -->
+      <div class="mb-8 flex flex-wrap gap-4">
+        <button class="px-4 py-2 bg-[var(--color-primary)] text-white rounded-lg">Все</button>
+        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Пляжный отдых</button>
+        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Европа</button>
+        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Азия</button>
+        <button class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Экзотика</button>
+      </div>
+
+      <!-- Список стран -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        {countries.map(country => (
+          <CountryCard 
+            name={country.name}
+            slug={country.slug}
+            image={country.image}
+            description={country.description}
+          />
+        ))}
+      </div>
+
+      <!-- Пагинация (будущее) -->
+      <div class="mt-12 flex justify-center gap-2">
+        <span class="px-4 py-2 bg-[var(--color-primary)] text-white rounded-lg">1</span>
+        <span class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg cursor-pointer hover:bg-gray-200">2</span>
+        <span class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg cursor-pointer hover:bg-gray-200">3</span>
+        <span class="px-4 py-2 text-gray-500">...</span>
+        <span class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg cursor-pointer hover:bg-gray-200">10</span>
+      </div>
+    </div>
+  </section>
+
+  <RequestForm source="countries-list" />
+</Layout>

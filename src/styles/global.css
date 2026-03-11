@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* Премиум-палитра для турагентства */
+:root {
+  --color-primary: #1a365d;      /* Тёмно-синий */
+  --color-secondary: #c9a227;    /* Золотой */
+  --color-accent: #2c5282;       /* Средний синий */
+  --color-light: #f7fafc;        /* Светло-серый */
+  --color-dark: #1a202c;         /* Почти чёрный */
+}
+
+@theme {
+  --color-primary: var(--color-primary);
+  --color-secondary: var(--color-secondary);
+  --color-accent: var(--color-accent);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--color-dark);
+  background-color: white;
+}
