@@ -1,0 +1,156 @@
+---
+import Layout from '../layouts/Layout.astro'
+import RequestForm from '../components/RequestForm.astro'
+---
+
+<Layout title="О нас" description="Узнайте больше о нашем турагентстве — история, команда, лицензии и награды.">
+  
+  <!-- Hero -->
+  <section class="bg-[var(--color-primary)] text-white py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-6">О компании</h1>
+      <p class="text-xl text-gray-300 max-w-3xl mx-auto">
+        <!-- TODO: Заменить на текст от заказчика -->
+        Мы создаём незабываемые путешествия с [ГОД ОСНОВАНИЯ] года
+      </p>
+    </div>
+  </section>
+
+  <!-- История -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl font-bold text-[var(--color-primary)] mb-6">Наша история</h2>
+          
+          <!-- TODO: Заменить на реальный текст от заказчика -->
+          <div class="prose prose-lg text-gray-700 space-y-4">
+            <p>
+              [ТЕКСТ ОТ ЗАКАЗЧИКА: История компании — когда основана, как начинали, 
+              ключевые этапы развития, философия и миссия]
+            </p>
+            <p>
+              [ТЕКСТ ОТ ЗАКАЗЧИКА: Чем компания отличается от конкурентов, 
+              какие ценности исповедует, какой подход к клиентам]
+            </p>
+          </div>
+        </div>
+        <div class="relative">
+          <!-- TODO: Заменить на фото офиса/команды от заказчика -->
+          <img 
+            src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800" 
+            alt="Наша команда"
+            class="rounded-2xl shadow-xl"
+          />
+          <div class="absolute -bottom-6 -left-6 bg-[var(--color-secondary)] text-white p-6 rounded-xl shadow-lg">
+            <div class="text-4xl font-bold">[XX]</div>
+            <div class="text-sm">лет на рынке</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Цифры -->
+  <section class="py-16 bg-[var(--color-light)]">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+        <!-- TODO: Заменить цифры на реальные от заказчика -->
+        <div>
+          <div class="text-4xl font-bold text-[var(--color-primary)]">[XX]</div>
+          <div class="text-gray-600 mt-2">лет опыта</div>
+        </div>
+        <div>
+          <div class="text-4xl font-bold text-[var(--color-primary)]">[XX 000]+</div>
+          <div class="text-gray-600 mt-2">довольных клиентов</div>
+        </div>
+        <div>
+          <div class="text-4xl font-bold text-[var(--color-primary)]">[XX]+</div>
+          <div class="text-gray-600 mt-2">стран</div>
+        </div>
+        <div>
+          <div class="text-4xl font-bold text-[var(--color-primary)]">[XX]%</div>
+          <div class="text-gray-600 mt-2">возвращаются снова</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Команда -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-[var(--color-primary)] text-center mb-12">Наша команда</h2>
+      
+      <!-- TODO: Заменить на реальных сотрудников от заказчика -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        {[
+          { name: '[Имя Фамилия]', role: 'Директор', photo: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400' },
+          { name: '[Имя Фамилия]', role: 'Менеджер по туризму', photo: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400' },
+          { name: '[Имя Фамилия]', role: 'Менеджер по туризму', photo: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400' },
+          { name: '[Имя Фамилия]', role: 'Менеджер по визам', photo: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400' },
+        ].map(person => (
+          <div class="text-center">
+            <img 
+              src={person.photo} 
+              alt={person.name}
+              class="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
+            />
+            <h3 class="font-semibold text-lg">{person.name}</h3>
+            <p class="text-gray-500">{person.role}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Лицензии и награды -->
+  <section class="py-16 bg-[var(--color-light)]">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-[var(--color-primary)] text-center mb-12">Лицензии и награды</h2>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <!-- Лицензии -->
+        <div class="bg-white p-8 rounded-xl shadow-md">
+          <h3 class="text-xl font-semibold text-[var(--color-primary)] mb-4">📜 Лицензии</h3>
+          <!-- TODO: Заменить на реальные данные от заказчика -->
+          <ul class="space-y-3 text-gray-700">
+            <li class="flex items-start gap-3">
+              <span class="text-green-500">✓</span>
+              <span>[Номер и название лицензии туроператора]</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-green-500">✓</span>
+              <span>[Членство в реестре туроператоров]</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-green-500">✓</span>
+              <span>[Финансовые гарантии — банк, сумма]</span>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Награды -->
+        <div class="bg-white p-8 rounded-xl shadow-md">
+          <h3 class="text-xl font-semibold text-[var(--color-primary)] mb-4">🏆 Награды</h3>
+          <!-- TODO: Заменить на реальные награды от заказчика -->
+          <ul class="space-y-3 text-gray-700">
+            <li class="flex items-start gap-3">
+              <span class="text-[var(--color-secondary)]">★</span>
+              <span>[Название награды, год]</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-[var(--color-secondary)]">★</span>
+              <span>[Название награды, год]</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-[var(--color-secondary)]">★</span>
+              <span>[Партнёрства с отелями/авиакомпаниями]</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <RequestForm source="about-page" />
+</Layout>

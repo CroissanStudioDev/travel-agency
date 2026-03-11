@@ -1,0 +1,139 @@
+---
+import Layout from '../layouts/Layout.astro'
+import RequestForm from '../components/RequestForm.astro'
+---
+
+<Layout title="Контакты" description="Свяжитесь с нами — телефоны, email, адрес офиса и форма обратной связи.">
+  
+  <!-- Hero -->
+  <section class="bg-[var(--color-primary)] text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Контакты</h1>
+      <p class="text-xl text-gray-300">Мы всегда на связи</p>
+    </div>
+  </section>
+
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        
+        <!-- Контактная информация -->
+        <div>
+          <h2 class="text-2xl font-bold text-[var(--color-primary)] mb-8">Свяжитесь с нами</h2>
+          
+          <div class="space-y-6">
+            <!-- Телефоны -->
+            <div class="flex items-start gap-4">
+              <div class="w-12 h-12 bg-[var(--color-secondary)]/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                <span class="text-2xl">📞</span>
+              </div>
+              <div>
+                <h3 class="font-semibold text-lg">Телефон</h3>
+                <!-- TODO: Заменить на реальные телефоны от заказчика -->
+                <p class="text-gray-600">
+                  <a href="tel:+74951234567" class="hover:text-[var(--color-primary)]">+7 (495) [XXX-XX-XX]</a>
+                </p>
+                <p class="text-gray-600">
+                  <a href="tel:+78001234567" class="hover:text-[var(--color-primary)]">8 (800) [XXX-XX-XX]</a> (бесплатно по РФ)
+                </p>
+              </div>
+            </div>
+
+            <!-- WhatsApp/Telegram -->
+            <div class="flex items-start gap-4">
+              <div class="w-12 h-12 bg-[var(--color-secondary)]/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                <span class="text-2xl">💬</span>
+              </div>
+              <div>
+                <h3 class="font-semibold text-lg">Мессенджеры</h3>
+                <!-- TODO: Заменить на реальные контакты от заказчика -->
+                <p class="text-gray-600">WhatsApp: [номер]</p>
+                <p class="text-gray-600">Telegram: [@username]</p>
+              </div>
+            </div>
+
+            <!-- Email -->
+            <div class="flex items-start gap-4">
+              <div class="w-12 h-12 bg-[var(--color-secondary)]/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                <span class="text-2xl">✉️</span>
+              </div>
+              <div>
+                <h3 class="font-semibold text-lg">Email</h3>
+                <!-- TODO: Заменить на реальный email от заказчика -->
+                <p class="text-gray-600">
+                  <a href="mailto:info@example.com" class="hover:text-[var(--color-primary)]">[email]@[domain].ru</a>
+                </p>
+              </div>
+            </div>
+
+            <!-- Адрес -->
+            <div class="flex items-start gap-4">
+              <div class="w-12 h-12 bg-[var(--color-secondary)]/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                <span class="text-2xl">📍</span>
+              </div>
+              <div>
+                <h3 class="font-semibold text-lg">Адрес офиса</h3>
+                <!-- TODO: Заменить на реальный адрес от заказчика -->
+                <p class="text-gray-600">[Город], [улица], [дом]</p>
+                <p class="text-gray-600">[Станция метро / ориентиры]</p>
+              </div>
+            </div>
+
+            <!-- Режим работы -->
+            <div class="flex items-start gap-4">
+              <div class="w-12 h-12 bg-[var(--color-secondary)]/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                <span class="text-2xl">🕐</span>
+              </div>
+              <div>
+                <h3 class="font-semibold text-lg">Режим работы</h3>
+                <!-- TODO: Заменить на реальный график от заказчика -->
+                <p class="text-gray-600">Пн-Пт: [XX:00] — [XX:00]</p>
+                <p class="text-gray-600">Сб: [XX:00] — [XX:00]</p>
+                <p class="text-gray-600">Вс: выходной</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Соцсети -->
+          <div class="mt-8">
+            <h3 class="font-semibold text-lg mb-4">Мы в соцсетях</h3>
+            <!-- TODO: Заменить на реальные ссылки от заказчика -->
+            <div class="flex gap-4">
+              <a href="#" class="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-[var(--color-secondary)] hover:text-white transition-colors">
+                <span>VK</span>
+              </a>
+              <a href="#" class="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-[var(--color-secondary)] hover:text-white transition-colors">
+                <span>TG</span>
+              </a>
+              <a href="#" class="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-[var(--color-secondary)] hover:text-white transition-colors">
+                <span>YT</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Карта -->
+        <div>
+          <h2 class="text-2xl font-bold text-[var(--color-primary)] mb-8">Как нас найти</h2>
+          
+          <!-- TODO: Заменить на реальную карту с адресом заказчика -->
+          <div class="bg-gray-200 rounded-xl h-80 flex items-center justify-center">
+            <div class="text-center text-gray-500">
+              <p class="text-lg mb-2">🗺️ Здесь будет карта</p>
+              <p class="text-sm">[Вставить iframe Яндекс.Карт или Google Maps]</p>
+            </div>
+          </div>
+
+          <div class="mt-6 p-4 bg-[var(--color-light)] rounded-lg">
+            <p class="text-sm text-gray-600">
+              <strong>Как добраться:</strong> [Описание от заказчика — метро, парковка, ориентиры]
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <RequestForm source="contacts-page" />
+</Layout>

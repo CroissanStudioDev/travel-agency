@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout title="Страница не найдена">
+  <section class="min-h-[70vh] flex items-center justify-center bg-[var(--color-light)]">
+    <div class="text-center px-4">
+      <div class="text-8xl mb-6">🏝️</div>
+      <h1 class="text-6xl font-bold text-[var(--color-primary)] mb-4">404</h1>
+      <h2 class="text-2xl font-semibold text-gray-700 mb-4">Страница не найдена</h2>
+      <p class="text-gray-600 mb-8 max-w-md mx-auto">
+        Кажется, эта страница улетела в отпуск. Но мы поможем вам найти идеальное направление!
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a 
+          href="/" 
+          class="bg-[var(--color-secondary)] text-white px-6 py-3 rounded-lg font-medium hover:bg-[var(--color-secondary)]/90 transition-colors"
+        >
+          На главную
+        </a>
+        <a 
+          href="/countries" 
+          class="bg-[var(--color-primary)] text-white px-6 py-3 rounded-lg font-medium hover:bg-[var(--color-primary)]/90 transition-colors"
+        >
+          Выбрать направление
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>
