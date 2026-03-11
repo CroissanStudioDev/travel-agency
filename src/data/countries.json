@@ -9,7 +9,11 @@
     "bestTime": "Ноябрь — апрель (сухой сезон)",
     "visa": "Бесплатно по прибытии на 30 дней",
     "flight": "9-10 часов из Москвы",
-    "cities": ["male", "maafushi", "hulhumale"]
+    "cities": [
+      "male",
+      "maafushi",
+      "hulhumale"
+    ]
   },
   {
     "name": "Таиланд",
@@ -21,7 +25,13 @@
     "bestTime": "Ноябрь — февраль",
     "visa": "Бесплатно на 60 дней",
     "flight": "9-10 часов из Москвы",
-    "cities": ["bangkok", "phuket", "pattaya", "krabi", "samui"]
+    "cities": [
+      "bangkok",
+      "phuket",
+      "pattaya",
+      "krabi",
+      "samui"
+    ]
   },
   {
     "name": "ОАЭ",
@@ -33,7 +43,12 @@
     "bestTime": "Октябрь — апрель",
     "visa": "Бесплатно на 90 дней",
     "flight": "5 часов из Москвы",
-    "cities": ["dubai", "abu-dhabi", "sharjah", "ras-al-khaimah"]
+    "cities": [
+      "dubai",
+      "abu-dhabi",
+      "sharjah",
+      "ras-al-khaimah"
+    ]
   },
   {
     "name": "Турция",
@@ -45,7 +60,14 @@
     "bestTime": "Май — октябрь (пляжный), март — май (экскурсии)",
     "visa": "Не нужна до 60 дней",
     "flight": "3-4 часа из Москвы",
-    "cities": ["istanbul", "antalya", "bodrum", "marmaris", "fethiye", "alanya"]
+    "cities": [
+      "istanbul",
+      "antalya",
+      "bodrum",
+      "marmaris",
+      "fethiye",
+      "alanya"
+    ]
   },
   {
     "name": "Италия",
@@ -57,7 +79,14 @@
     "bestTime": "Апрель — июнь, сентябрь — октябрь",
     "visa": "Шенген",
     "flight": "3.5-4 часа из Москвы",
-    "cities": ["rome", "venice", "florence", "milan", "naples", "amalfi"]
+    "cities": [
+      "rome",
+      "venice",
+      "florence",
+      "milan",
+      "naples",
+      "amalfi"
+    ]
   },
   {
     "name": "Греция",
@@ -69,7 +98,14 @@
     "bestTime": "Май — октябрь",
     "visa": "Шенген",
     "flight": "3.5-4 часа из Москвы",
-    "cities": ["athens", "santorini", "mykonos", "rhodes", "crete", "corfu"]
+    "cities": [
+      "athens",
+      "santorini",
+      "mykonos",
+      "rhodes",
+      "crete",
+      "corfu"
+    ]
   },
   {
     "name": "Египет",
@@ -81,7 +117,12 @@
     "bestTime": "Октябрь — май",
     "visa": "По прибытии $25",
     "flight": "4.5 часа из Москвы",
-    "cities": ["cairo", "sharm-el-sheikh", "hurghada", "luxor"]
+    "cities": [
+      "cairo",
+      "sharm-el-sheikh",
+      "hurghada",
+      "luxor"
+    ]
   },
   {
     "name": "Испания",
@@ -93,7 +134,14 @@
     "bestTime": "Апрель — октябрь",
     "visa": "Шенген",
     "flight": "4.5-5 часов из Москвы",
-    "cities": ["barcelona", "madrid", "valencia", "seville", "malaga", "palma"]
+    "cities": [
+      "barcelona",
+      "madrid",
+      "valencia",
+      "seville",
+      "malaga",
+      "palma"
+    ]
   },
   {
     "name": "Франция",
@@ -105,7 +153,14 @@
     "bestTime": "Апрель — июнь, сентябрь — октябрь",
     "visa": "Шенген",
     "flight": "4 часа из Москвы",
-    "cities": ["paris", "nice", "marseille", "lyon", "cannes", "bordeaux"]
+    "cities": [
+      "paris",
+      "nice",
+      "marseille",
+      "lyon",
+      "cannes",
+      "bordeaux"
+    ]
   },
   {
     "name": "Кипр",
@@ -117,7 +172,13 @@
     "bestTime": "Апрель — октябрь",
     "visa": "Про-виза (бесплатно онлайн)",
     "flight": "3.5 часа из Москвы",
-    "cities": ["limassol", "paphos", "ayia-napa", "larnaca", "protaras"]
+    "cities": [
+      "limassol",
+      "paphos",
+      "ayia-napa",
+      "larnaca",
+      "protaras"
+    ]
   },
   {
     "name": "Черногория",
@@ -129,7 +190,13 @@
     "bestTime": "Май — сентябрь",
     "visa": "Не нужна до 90 дней",
     "flight": "3 часа из Москвы",
-    "cities": ["budva", "kotor", "tivat", "herceg-novi", "sveti-stefan"]
+    "cities": [
+      "budva",
+      "kotor",
+      "tivat",
+      "herceg-novi",
+      "sveti-stefan"
+    ]
   },
   {
     "name": "Хорватия",
@@ -141,7 +208,14 @@
     "bestTime": "Май — сентябрь",
     "visa": "Шенген",
     "flight": "3 часа из Москвы",
-    "cities": ["dubrovnik", "split", "zagreb", "pula", "zadar", "hvar"]
+    "cities": [
+      "dubrovnik",
+      "split",
+      "zagreb",
+      "pula",
+      "zadar",
+      "hvar"
+    ]
   },
   {
     "name": "Индонезия",
@@ -153,7 +227,14 @@
     "bestTime": "Апрель — октябрь (сухой сезон)",
     "visa": "Бесплатно на 30 дней",
     "flight": "12-14 часов из Москвы",
-    "cities": ["bali-ubud", "bali-kuta", "bali-seminyak", "jakarta", "lombok", "gili"]
+    "cities": [
+      "bali-ubud",
+      "bali-kuta",
+      "bali-seminyak",
+      "jakarta",
+      "lombok",
+      "gili"
+    ]
   },
   {
     "name": "Вьетнам",
@@ -165,7 +246,14 @@
     "bestTime": "Декабрь — апрель (юг), март — май (центр)",
     "visa": "Бесплатно на 45 дней",
     "flight": "9-10 часов из Москвы",
-    "cities": ["hanoi", "ho-chi-minh", "da-nang", "nha-trang", "phu-quoc", "hoi-an"]
+    "cities": [
+      "hanoi",
+      "ho-chi-minh",
+      "da-nang",
+      "nha-trang",
+      "phu-quoc",
+      "hoi-an"
+    ]
   },
   {
     "name": "Шри-Ланка",
@@ -177,7 +265,14 @@
     "bestTime": "Декабрь — март (запад), апрель — сентябрь (восток)",
     "visa": "Электронная виза онлайн",
     "flight": "8-9 часов из Москвы",
-    "cities": ["colombo", "kandy", "galle", "bentota", "sigiriya", "ella"]
+    "cities": [
+      "colombo",
+      "kandy",
+      "galle",
+      "bentota",
+      "sigiriya",
+      "ella"
+    ]
   },
   {
     "name": "Мексика",
@@ -189,7 +284,14 @@
     "bestTime": "Ноябрь — апрель (сухой сезон)",
     "visa": "Электронное разрешение онлайн",
     "flight": "13-14 часов из Москвы",
-    "cities": ["cancun", "playa-del-carmen", "mexico-city", "tulum", "cozumel", "los-cabos"]
+    "cities": [
+      "cancun",
+      "playa-del-carmen",
+      "mexico-city",
+      "tulum",
+      "cozumel",
+      "los-cabos"
+    ]
   },
   {
     "name": "Доминикана",
@@ -201,7 +303,13 @@
     "bestTime": "Декабрь — апрель",
     "visa": "Не нужна до 30 дней",
     "flight": "11-12 часов из Москвы",
-    "cities": ["punta-cana", "santo-domingo", "puerto-plata", "la-romana", "samana"]
+    "cities": [
+      "punta-cana",
+      "santo-domingo",
+      "puerto-plata",
+      "la-romana",
+      "samana"
+    ]
   },
   {
     "name": "Куба",
@@ -213,7 +321,13 @@
     "bestTime": "Ноябрь — апрель (сухой сезон)",
     "visa": "Туристическая карта при покупке тура",
     "flight": "12-13 часов из Москвы",
-    "cities": ["havana", "varadero", "trinidad", "santiago-de-cuba", "vinales"]
+    "cities": [
+      "havana",
+      "varadero",
+      "trinidad",
+      "santiago-de-cuba",
+      "vinales"
+    ]
   },
   {
     "name": "Маврикий",
@@ -225,19 +339,30 @@
     "bestTime": "Май — декабрь",
     "visa": "Не нужна до 60 дней",
     "flight": "11 часов из Москвы",
-    "cities": ["port-louis", "grand-baie", "flic-en-flac", "le-morne", "belle-mare"]
+    "cities": [
+      "port-louis",
+      "grand-baie",
+      "flic-en-flac",
+      "le-morne",
+      "belle-mare"
+    ]
   },
   {
     "name": "Сейшелы",
     "slug": "seychelles",
     "region": "Африка",
-    "image": "https://images.unsplash.com/photo-1589979481223-deb893043163?w=1200",
+    "image": "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?w=1200",
     "description": "Гранитные скалы, пальмы-коко-де-мер и уединённые пляжи. Премиальный отдых.",
     "climate": "Тропический. 27-30°C круглый год.",
     "bestTime": "Апрель — май, октябрь — ноябрь",
     "visa": "Разрешение по прибытии бесплатно",
     "flight": "9-10 часов из Москвы",
-    "cities": ["mahe", "praslin", "la-digue", "victoria"]
+    "cities": [
+      "mahe",
+      "praslin",
+      "la-digue",
+      "victoria"
+    ]
   },
   {
     "name": "Танзания",
@@ -249,7 +374,13 @@
     "bestTime": "Июнь — октябрь (сафари), декабрь — февраль (пляж)",
     "visa": "По прибытии $50",
     "flight": "9-10 часов из Москвы",
-    "cities": ["zanzibar", "dar-es-salaam", "serengeti", "arusha", "ngorongoro"]
+    "cities": [
+      "zanzibar",
+      "dar-es-salaam",
+      "serengeti",
+      "arusha",
+      "ngorongoro"
+    ]
   },
   {
     "name": "Марокко",
@@ -261,7 +392,14 @@
     "bestTime": "Март — май, сентябрь — ноябрь",
     "visa": "Не нужна до 90 дней",
     "flight": "6 часов из Москвы",
-    "cities": ["marrakech", "fes", "casablanca", "chefchaouen", "agadir", "essaouira"]
+    "cities": [
+      "marrakech",
+      "fes",
+      "casablanca",
+      "chefchaouen",
+      "agadir",
+      "essaouira"
+    ]
   },
   {
     "name": "Иордания",
@@ -273,7 +411,13 @@
     "bestTime": "Март — май, сентябрь — ноябрь",
     "visa": "По прибытии $60 (или Jordan Pass)",
     "flight": "4 часа из Москвы",
-    "cities": ["amman", "petra", "aqaba", "wadi-rum", "dead-sea"]
+    "cities": [
+      "amman",
+      "petra",
+      "aqaba",
+      "wadi-rum",
+      "dead-sea"
+    ]
   },
   {
     "name": "Израиль",
@@ -285,7 +429,14 @@
     "bestTime": "Март — май, сентябрь — ноябрь",
     "visa": "Не нужна до 90 дней",
     "flight": "4 часа из Москвы",
-    "cities": ["tel-aviv", "jerusalem", "eilat", "dead-sea-israel", "haifa", "nazareth"]
+    "cities": [
+      "tel-aviv",
+      "jerusalem",
+      "eilat",
+      "dead-sea-israel",
+      "haifa",
+      "nazareth"
+    ]
   },
   {
     "name": "Оман",
@@ -297,7 +448,13 @@
     "bestTime": "Октябрь — апрель",
     "visa": "Онлайн-виза",
     "flight": "5 часов из Москвы",
-    "cities": ["muscat", "salalah", "nizwa", "sur", "musandam"]
+    "cities": [
+      "muscat",
+      "salalah",
+      "nizwa",
+      "sur",
+      "musandam"
+    ]
   },
   {
     "name": "Япония",
@@ -309,7 +466,14 @@
     "bestTime": "Март — май (сакура), октябрь — ноябрь (осенние листья)",
     "visa": "Нужна (получение в консульстве)",
     "flight": "9-10 часов из Москвы",
-    "cities": ["tokyo", "kyoto", "osaka", "hiroshima", "nara", "hakone"]
+    "cities": [
+      "tokyo",
+      "kyoto",
+      "osaka",
+      "hiroshima",
+      "nara",
+      "hakone"
+    ]
   },
   {
     "name": "Южная Корея",
@@ -321,7 +485,13 @@
     "bestTime": "Апрель — июнь, сентябрь — ноябрь",
     "visa": "Не нужна до 60 дней",
     "flight": "8-9 часов из Москвы",
-    "cities": ["seoul", "busan", "jeju", "gyeongju", "incheon"]
+    "cities": [
+      "seoul",
+      "busan",
+      "jeju",
+      "gyeongju",
+      "incheon"
+    ]
   },
   {
     "name": "Китай",
@@ -333,7 +503,14 @@
     "bestTime": "Апрель — май, сентябрь — октябрь",
     "visa": "Нужна (безвизовый транзит до 144 часов)",
     "flight": "8-10 часов из Москвы",
-    "cities": ["beijing", "shanghai", "hong-kong", "xian", "guilin", "chengdu"]
+    "cities": [
+      "beijing",
+      "shanghai",
+      "hong-kong",
+      "xian",
+      "guilin",
+      "chengdu"
+    ]
   },
   {
     "name": "Индия",
@@ -345,7 +522,15 @@
     "bestTime": "Октябрь — март",
     "visa": "Электронная виза онлайн",
     "flight": "6-7 часов из Москвы",
-    "cities": ["delhi", "mumbai", "goa", "jaipur", "agra", "varanasi", "kerala"]
+    "cities": [
+      "delhi",
+      "mumbai",
+      "goa",
+      "jaipur",
+      "agra",
+      "varanasi",
+      "kerala"
+    ]
   },
   {
     "name": "Филиппины",
@@ -357,7 +542,14 @@
     "bestTime": "Декабрь — май (сухой сезон)",
     "visa": "Бесплатно на 30 дней",
     "flight": "11-12 часов из Москвы",
-    "cities": ["manila", "boracay", "palawan", "cebu", "bohol", "siargao"]
+    "cities": [
+      "manila",
+      "boracay",
+      "palawan",
+      "cebu",
+      "bohol",
+      "siargao"
+    ]
   },
   {
     "name": "Малайзия",
@@ -369,7 +561,14 @@
     "bestTime": "Декабрь — февраль (запад), июнь — август (восток)",
     "visa": "Не нужна до 30 дней",
     "flight": "10-11 часов из Москвы",
-    "cities": ["kuala-lumpur", "langkawi", "penang", "borneo", "malacca", "cameron-highlands"]
+    "cities": [
+      "kuala-lumpur",
+      "langkawi",
+      "penang",
+      "borneo",
+      "malacca",
+      "cameron-highlands"
+    ]
   },
   {
     "name": "Сингапур",
@@ -381,7 +580,10 @@
     "bestTime": "Февраль — апрель (меньше дождей)",
     "visa": "Не нужна до 96 часов",
     "flight": "10-11 часов из Москвы",
-    "cities": ["singapore-city", "sentosa"]
+    "cities": [
+      "singapore-city",
+      "sentosa"
+    ]
   },
   {
     "name": "Камбоджа",
@@ -393,7 +595,13 @@
     "bestTime": "Ноябрь — февраль (сухо и прохладно)",
     "visa": "По прибытии $30",
     "flight": "9-10 часов из Москвы",
-    "cities": ["siem-reap", "phnom-penh", "sihanoukville", "koh-rong", "kampot"]
+    "cities": [
+      "siem-reap",
+      "phnom-penh",
+      "sihanoukville",
+      "koh-rong",
+      "kampot"
+    ]
   },
   {
     "name": "Австрия",
@@ -405,7 +613,13 @@
     "bestTime": "Декабрь — март (лыжи), июнь — сентябрь (города)",
     "visa": "Шенген",
     "flight": "3 часа из Москвы",
-    "cities": ["vienna", "salzburg", "innsbruck", "hallstatt", "zell-am-see"]
+    "cities": [
+      "vienna",
+      "salzburg",
+      "innsbruck",
+      "hallstatt",
+      "zell-am-see"
+    ]
   },
   {
     "name": "Швейцария",
@@ -417,7 +631,14 @@
     "bestTime": "Декабрь — апрель (лыжи), июнь — сентябрь (треккинг)",
     "visa": "Шенген",
     "flight": "3.5 часа из Москвы",
-    "cities": ["zurich", "geneva", "zermatt", "interlaken", "lucerne", "bern"]
+    "cities": [
+      "zurich",
+      "geneva",
+      "zermatt",
+      "interlaken",
+      "lucerne",
+      "bern"
+    ]
   },
   {
     "name": "Чехия",
@@ -429,7 +650,12 @@
     "bestTime": "Апрель — июнь, сентябрь — октябрь",
     "visa": "Шенген",
     "flight": "2.5 часа из Москвы",
-    "cities": ["prague", "cesky-krumlov", "karlovy-vary", "brno"]
+    "cities": [
+      "prague",
+      "cesky-krumlov",
+      "karlovy-vary",
+      "brno"
+    ]
   },
   {
     "name": "Португалия",
@@ -441,7 +667,14 @@
     "bestTime": "Апрель — октябрь",
     "visa": "Шенген",
     "flight": "5 часов из Москвы",
-    "cities": ["lisbon", "porto", "sintra", "algarve", "madeira", "azores"]
+    "cities": [
+      "lisbon",
+      "porto",
+      "sintra",
+      "algarve",
+      "madeira",
+      "azores"
+    ]
   },
   {
     "name": "Грузия",
@@ -453,7 +686,14 @@
     "bestTime": "Май — октябрь",
     "visa": "Не нужна до 1 года",
     "flight": "2.5 часа из Москвы",
-    "cities": ["tbilisi", "batumi", "kazbegi", "kutaisi", "svaneti", "kakheti"]
+    "cities": [
+      "tbilisi",
+      "batumi",
+      "kazbegi",
+      "kutaisi",
+      "svaneti",
+      "kakheti"
+    ]
   },
   {
     "name": "Армения",
@@ -465,7 +705,13 @@
     "bestTime": "Май — октябрь",
     "visa": "Не нужна до 180 дней",
     "flight": "2.5 часа из Москвы",
-    "cities": ["yerevan", "gyumri", "dilijan", "tatev", "sevan"]
+    "cities": [
+      "yerevan",
+      "gyumri",
+      "dilijan",
+      "tatev",
+      "sevan"
+    ]
   },
   {
     "name": "Азербайджан",
@@ -477,7 +723,12 @@
     "bestTime": "Апрель — июнь, сентябрь — октябрь",
     "visa": "Электронная виза",
     "flight": "3 часа из Москвы",
-    "cities": ["baku", "sheki", "quba", "gabala"]
+    "cities": [
+      "baku",
+      "sheki",
+      "quba",
+      "gabala"
+    ]
   },
   {
     "name": "Мальта",
@@ -489,7 +740,13 @@
     "bestTime": "Апрель — октябрь",
     "visa": "Шенген",
     "flight": "4 часа из Москвы",
-    "cities": ["valletta", "mdina", "gozo", "comino", "sliema"]
+    "cities": [
+      "valletta",
+      "mdina",
+      "gozo",
+      "comino",
+      "sliema"
+    ]
   },
   {
     "name": "Бразилия",
@@ -501,7 +758,13 @@
     "bestTime": "Апрель — октябрь (сухой сезон в большинстве регионов)",
     "visa": "Не нужна до 90 дней",
     "flight": "14-15 часов из Москвы",
-    "cities": ["rio-de-janeiro", "sao-paulo", "salvador", "foz-do-iguacu", "florianopolis"]
+    "cities": [
+      "rio-de-janeiro",
+      "sao-paulo",
+      "salvador",
+      "foz-do-iguacu",
+      "florianopolis"
+    ]
   },
   {
     "name": "Норвегия",
@@ -513,7 +776,14 @@
     "bestTime": "Июнь — август (фьорды), сентябрь — март (северное сияние)",
     "visa": "Шенген",
     "flight": "3 часа из Москвы",
-    "cities": ["oslo", "bergen", "tromso", "lofoten", "stavanger", "geiranger"]
+    "cities": [
+      "oslo",
+      "bergen",
+      "tromso",
+      "lofoten",
+      "stavanger",
+      "geiranger"
+    ]
   },
   {
     "name": "Исландия",
@@ -525,7 +795,13 @@
     "bestTime": "Июнь — август (тепло, белые ночи), сентябрь — март (северное сияние)",
     "visa": "Шенген",
     "flight": "5 часов из Москвы",
-    "cities": ["reykjavik", "blue-lagoon", "golden-circle", "vik", "akureyri"]
+    "cities": [
+      "reykjavik",
+      "blue-lagoon",
+      "golden-circle",
+      "vik",
+      "akureyri"
+    ]
   },
   {
     "name": "Финляндия",
@@ -537,7 +813,13 @@
     "bestTime": "Декабрь — март (зима), июнь — август (белые ночи)",
     "visa": "Шенген",
     "flight": "2 часа из Москвы",
-    "cities": ["helsinki", "rovaniemi", "lapland", "turku", "tampere"]
+    "cities": [
+      "helsinki",
+      "rovaniemi",
+      "lapland",
+      "turku",
+      "tampere"
+    ]
   },
   {
     "name": "Нидерланды",
@@ -549,7 +831,13 @@
     "bestTime": "Апрель — май (тюльпаны), июнь — сентябрь",
     "visa": "Шенген",
     "flight": "3.5 часа из Москвы",
-    "cities": ["amsterdam", "rotterdam", "hague", "utrecht", "keukenhof"]
+    "cities": [
+      "amsterdam",
+      "rotterdam",
+      "hague",
+      "utrecht",
+      "keukenhof"
+    ]
   },
   {
     "name": "Австралия",
@@ -561,7 +849,14 @@
     "bestTime": "Сентябрь — ноябрь, март — май",
     "visa": "Электронная виза",
     "flight": "20+ часов из Москвы",
-    "cities": ["sydney", "melbourne", "great-barrier-reef", "cairns", "gold-coast", "perth"]
+    "cities": [
+      "sydney",
+      "melbourne",
+      "great-barrier-reef",
+      "cairns",
+      "gold-coast",
+      "perth"
+    ]
   },
   {
     "name": "Новая Зеландия",
@@ -573,7 +868,13 @@
     "bestTime": "Декабрь — февраль (лето)",
     "visa": "Электронное разрешение",
     "flight": "24+ часа из Москвы",
-    "cities": ["auckland", "queenstown", "wellington", "rotorua", "milford-sound"]
+    "cities": [
+      "auckland",
+      "queenstown",
+      "wellington",
+      "rotorua",
+      "milford-sound"
+    ]
   },
   {
     "name": "Болгария",
@@ -585,7 +886,14 @@
     "bestTime": "Июнь — сентябрь (пляж), декабрь — март (лыжи)",
     "visa": "Шенген или национальная",
     "flight": "2.5 часа из Москвы",
-    "cities": ["sofia", "varna", "burgas", "sunny-beach", "bansko", "plovdiv"]
+    "cities": [
+      "sofia",
+      "varna",
+      "burgas",
+      "sunny-beach",
+      "bansko",
+      "plovdiv"
+    ]
   },
   {
     "name": "Тунис",
@@ -597,7 +905,13 @@
     "bestTime": "Апрель — июнь, сентябрь — октябрь",
     "visa": "Не нужна до 90 дней",
     "flight": "4 часа из Москвы",
-    "cities": ["tunis", "hammamet", "sousse", "djerba", "carthage"]
+    "cities": [
+      "tunis",
+      "hammamet",
+      "sousse",
+      "djerba",
+      "carthage"
+    ]
   },
   {
     "name": "Словения",
@@ -609,7 +923,13 @@
     "bestTime": "Май — сентябрь",
     "visa": "Шенген",
     "flight": "2.5 часа из Москвы",
-    "cities": ["ljubljana", "bled", "piran", "postojna", "bohinj"]
+    "cities": [
+      "ljubljana",
+      "bled",
+      "piran",
+      "postojna",
+      "bohinj"
+    ]
   },
   {
     "name": "Венгрия",
@@ -621,7 +941,13 @@
     "bestTime": "Апрель — октябрь",
     "visa": "Шенген",
     "flight": "2.5 часа из Москвы",
-    "cities": ["budapest", "balaton", "eger", "szentendre", "heviz"]
+    "cities": [
+      "budapest",
+      "balaton",
+      "eger",
+      "szentendre",
+      "heviz"
+    ]
   },
   {
     "name": "Польша",
@@ -633,7 +959,14 @@
     "bestTime": "Май — сентябрь, декабрь (рождественские ярмарки)",
     "visa": "Шенген",
     "flight": "2 часа из Москвы",
-    "cities": ["warsaw", "krakow", "gdansk", "wroclaw", "zakopane", "poznan"]
+    "cities": [
+      "warsaw",
+      "krakow",
+      "gdansk",
+      "wroclaw",
+      "zakopane",
+      "poznan"
+    ]
   },
   {
     "name": "Бельгия",
@@ -645,7 +978,12 @@
     "bestTime": "Апрель — октябрь",
     "visa": "Шенген",
     "flight": "3.5 часа из Москвы",
-    "cities": ["brussels", "bruges", "ghent", "antwerp"]
+    "cities": [
+      "brussels",
+      "bruges",
+      "ghent",
+      "antwerp"
+    ]
   },
   {
     "name": "Узбекистан",
@@ -657,18 +995,30 @@
     "bestTime": "Апрель — июнь, сентябрь — октябрь",
     "visa": "Не нужна до 30 дней",
     "flight": "3.5 часа из Москвы",
-    "cities": ["samarkand", "bukhara", "khiva", "tashkent", "fergana"]
+    "cities": [
+      "samarkand",
+      "bukhara",
+      "khiva",
+      "tashkent",
+      "fergana"
+    ]
   },
   {
     "name": "Абхазия",
     "slug": "abkhazia",
     "region": "Кавказ",
-    "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=1200",
+    "image": "https://images.unsplash.com/photo-1568607689150-17e625c1d108?w=1200",
     "description": "Субтропики и горы рядом с Россией. Озеро Рица, Гагра и советская ностальгия.",
     "climate": "Субтропический влажный на побережье.",
     "bestTime": "Май — октябрь",
     "visa": "Не нужна для граждан РФ",
     "flight": "2 часа до Сочи + трансфер",
-    "cities": ["gagra", "pitsunda", "sukhumi", "new-athos", "ritsa"]
+    "cities": [
+      "gagra",
+      "pitsunda",
+      "sukhumi",
+      "new-athos",
+      "ritsa"
+    ]
   }
 ]
