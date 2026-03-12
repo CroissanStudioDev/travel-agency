@@ -1211,7 +1211,7 @@
   },
   {
     "name": "Восточное побережье",
-    "slug": "vostochnoe-poberezhe",
+    "slug": "vostochnoe-poberezhe-sri-lanka",
     "country": "sri-lanka",
     "countryName": "Шри-Ланка",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1222,7 +1222,7 @@
   },
   {
     "name": "Западное побережье",
-    "slug": "zapadnoe-poberezhe",
+    "slug": "zapadnoe-poberezhe-sri-lanka",
     "country": "sri-lanka",
     "countryName": "Шри-Ланка",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "Южное побережье",
-    "slug": "yuzhnoe-poberezhe",
+    "slug": "yuzhnoe-poberezhe-sri-lanka",
     "country": "sri-lanka",
     "countryName": "Шри-Ланка",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "Южное побережье",
-    "slug": "yuzhnoe-poberezhe",
+    "slug": "yuzhnoe-poberezhe-mauritius",
     "country": "mauritius",
     "countryName": "Маврикий",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1596,7 +1596,7 @@
   },
   {
     "name": "Восточное побережье",
-    "slug": "vostochnoe-poberezhe",
+    "slug": "vostochnoe-poberezhe-mauritius",
     "country": "mauritius",
     "countryName": "Маврикий",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1607,7 +1607,7 @@
   },
   {
     "name": "Западное побережье",
-    "slug": "zapadnoe-poberezhe",
+    "slug": "zapadnoe-poberezhe-mauritius",
     "country": "mauritius",
     "countryName": "Маврикий",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1816,7 +1816,7 @@
   },
   {
     "name": "Игуасу",
-    "slug": "iguasu",
+    "slug": "iguasu-argentina",
     "country": "argentina",
     "countryName": "Аргентина",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
@@ -1882,7 +1882,7 @@
   },
   {
     "name": "Игуасу",
-    "slug": "iguasu",
+    "slug": "iguasu-brazil",
     "country": "brazil",
     "countryName": "Бразилия",
     "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?w=800",
